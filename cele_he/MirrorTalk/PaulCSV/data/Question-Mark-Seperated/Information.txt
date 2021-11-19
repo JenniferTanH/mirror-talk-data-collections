@@ -1,0 +1,163 @@
+What was it like to interview companies for YC when you started eight years ago compared to today?
+
+It was a lot like it is now, except longer. The interviews were shockingly long. Possibly 45 minutes, which in retrospect seems crazy. We'd be interviewing them for 20 minutes and then twiddling our thumbs for the remaining 35 now.
+
+Y Combinator has three interview tracks. We are all pretty in sync with one another. We look at all the numbers. We look at how many groups each track accepts. We look at how the groups that each track accepts end up doing.
+
+How do you do?
+
+We're too accommodating but that's not the error that I worry about. I worry far less about accepting a group that does badly than I do about rejecting one that does well. One that does well, sufficiently well, would pay for hundreds of other start ups that return nothing.
+
+It's terrible to reject a group that does well. Whereas, it's merely somewhat annoying to accept a group that does badly. I know that we are measured by the much less frightening error, accepting groups that do badly.
+
+I think also that we don't throw out any babies with the bath water. I'm worried some of the other interview tracks that are stricter, I worry that they might miss something. We don't know about that for years. When we miss somebody, we do find out eventually.
+
+Has there been a famous case when you didn't accept a company that became big?
+
+All the time. We keep a list. We've definitely had people in our interview tracks that we rejected that we were bummed about. I can't say which groups apply to YC. There definitely have been some from our interview track that we missed.
+
+We don't keep enough notes about why we reject people. We take videotapes of our interviews and our deliberations afterwards. I'd have to go back and look at the videotape and see what we were saying. I worry we might have lost some of the videotapes.
+
+It's convenient for us that we have all these imitators. They act as a drop cloth: if we drop something off the table it doesn't just disappear into a void. It makes a splat because it gets funded by one of these other incubators. Then we find out about it. We do know because of that. Not all of the people we've missed got funded by YC clones, but most of them.
+
+How did YC get started? When did you know it was working?
+
+Initially, it was really just, "Oh, I should really do some angel investing. Let's get into angel investing."
+
+Then, of course, once I started thinking about it I started to think "Oh, how could you reinvent angel investing?" I have all these ideas. I realized it could be promising within the first couple weeks. We got really excited about it.
+
+What’s YC’s biggest innovation?
+
+The biggest innovation is funding startups synchronously instead of asynchronously, funding them all at once in a batch, instead of one at a time as they come to you.
+
+No one had ever done this before. It's better for both sides. It's much more scalable for us. They're all doing the same things at the same time. I can get up in front of them and say something once to 50 groups instead of having the same conversation one at a time with 50 groups and forgetting it half the time, right?
+
+But it's also better for them. It has the same advantages as mass production. Mass production, you produce things cheaper but they're also of higher quality, instead of some individual person stitching things together. They have colleagues, other people to encourage them, bounce ideas off of, compete with, exchange information about investors. It's good for them and yet, also, good for us.
+
+What’s the biggest reason startups fail?
+
+It's a domain where there's constant, constant ups and downs. I never know. All of my conclusions are tentative. I never say, "These guys are going to be great." All I ever say is, "These guys are doing great so far," because some percentage of the time, it turns out there's some explosion around the corner. Not just founder disputes, there's all kinds of explosions. Startups are very, very uncertain.
+
+Probably the biggest cause of failure is not making something people want. The biggest reason people do that is that they don't pay enough attention to users. For example, they have some theory in their heads about what they need to build. They don't go out there and talk to users and say "What do you want?" They just build this thing and then it turns out users don't want it. It happens time and time again.
+
+Another reason might be that they're just not energetic enough. Part of what you have to be energetic enough about is going out and making users real, real happy. They just do a half ass job of it. Maybe they're pointing along the right vector but they only go half as far as they need to. Users look at it and they say, "Ah, it's pretty good." A million pretty goods, and you're dead.
+
+What’s an example of a startup where you loved the founders more than the idea?
+
+Airbnb is a classic case of funding startups for the people rather than the idea because we actually didn't like the idea. We loved the founders.
+
+Now, it's just one of these brands. Like Apple. People don't even think of it as Airbed and Breakfast Anymore. People don't realize the first "B" goes with the "Air." It's "Airb and b." Right?
+
+People call it "Airbnb" as if it were an airline. Definitely, when we interviewed Airbnb, Jessica said, "We have to fund these guys."
+
+They were very energetic and imaginative, especially the story that they told us about how they had been supporting themselves by selling Obama and McCain branded breakfast cereal.
+
+That's like one of those famous stories. They were out of money, and the company was dead, and they were going to have to give up. They were like deep in credit card debt, and the way they managed to survive was they sold $30,000 worth of Obama and McCain branded breakfast cereal, and they were two of the three founders, the designers. They had designed these fabulous, cool boxes. It that was Obama Os, and Captain McCains. You look on the web, you'll see boxes of these things.
+
+It showed great energy, but also great imagination to do something like that. You're about to go out of business. What do you do? Most people despair and give up.
+
+That combination of keeping going, but also keeping going in such an imaginative way, is exactly the kind of quality that makes successful startup founders. We thought, "These guys are so good. Maybe they'll do some other idea, or maybe this idea will turn out not to be as bad as we think, but whatever. We have to fund these guys. How could you not have the Airbnbs in your batch?"
+
+How much money do YC startups need right at the beginning?
+
+You want enough money for people to keep going for, maybe, a year if there's two founders. If the company does well, they're going to raise far more on top of that, so who cares? It's a great deal for the investors.
+
+The case where you care about there being too much money is in the case where the startup does badly. The more money you have, the more time consuming for us. Problems, like break ups. Think about the difference between a divorce where neither party has any assets, and a divorce where one of them has millions of dollars.
+
+There's a lot more incentive to make the divorce take a lot more time when one side has lots of money, or both. That's what was happening. We noticed, empirically, that there were all these messy divorces and often money was at the root of it.
+
+We thought maybe, if we decreased the amount of money, we would decrease the force that was pushing these bad things to happen, while still getting people enough money that they weren't doomed if they couldn't raise money on Demo Day. I think it's good. I think it's cool now. You can never be sure, but I think we got it right now. (YC and investors it teams up with invest about $94,000 to $100,000 in each startup.)
+
+Does YC discriminate against female founders?
+
+I'm almost certain that we don't discriminate against female founders because I would know from looking at the ones we missed. You could argue that we should do more, that we should encourage women to start startups.
+
+The problem with that is I think, at least with technology companies, the people who are really good technology founders have a genuine deep interest in technology. In fact, I've heard startups say that they did not like to hire people who had only started programming when they became CS majors in college.
+
+If someone was going to be really good at programming they would have found it on their own. Then if you go look at the bios of successful founders this is invariably the case, they were all hacking on computers at age 13. What that means is the problem is 10 years upstream of us. If we really wanted to fix this problem, what we would have to do is not encourage women to start startups now.
+
+It's already too late. What we should be doing is somehow changing the middle school computer science curriculum or something like that. God knows what you would do to get 13 year old girls interested in computers. I would have to stop and think about that.
+
+How can you tell whether you are discriminating against women?
+
+You can tell what the pool of potential startup founders looks like. There's a bunch of ways you can do it. You can go on Google and search for audience photos of PyCon, for example, which is this big Python conference.
+
+That's a self-selected group of people. Anybody who wants to apply can go to that thing. They're not discriminating for or against anyone. If you want to see what a cross section of programmers looks like, just go look at that or any other conference, doesn't have to be PyCon specifically.
+
+Or you could look at commits in open source projects. Once again self-selected, these people don't even meet in person. It's all by email, no one can be intimidated by or feel like an outcast for something like that.
+
+Ok, yes, women aren't set up to be startup founders at the level we want. What would be lost if Y Combinator was more proactive about it?
+
+No, the problem is these women are not by the time get to 23...Like Mark Zuckerberg starts programming, starts messing about with computers when he's like 10 or whatever. By the time he's starting Facebook he's a hacker, and so he looks at the world through hacker eyes. That's what causes him to start Facebook. We can't make these women look at the world through hacker eyes and start Facebook because they haven't been hacking for the past 10 years.
+
+It is changing a bit because it's no longer so critical to be a hacker. The nature of startups is changing. It used to be that all startups were mostly technology companies. Now you have things like the Gilt Groupe where they're really retailers, and that's what they have to be good at because the technology is more commoditized.
+
+That's probably why we have more female founders than we used to in the past, because the nature of the startups that they're working on is different. You don't have to be a hardcore hacker to start a startup like you might have had to be 20 years ago. It's partly software eating world, and partly that there's just more infrastructure.
+
+Now that there's Heroku you don't need to do all that yourself, you just write some Ruby app and put it on Heroku and bang, it scales. Or AWS. You don't have to have a system administrator quite as much anymore. You have Amazon racking your servers for you. It's a combination of startups moving into different domains, that whole software eating the world thing, and infrastructure being more available so you don't have to be such a hardcore nerd even to start a startup, like you used to have to be.
+
+When we started a startup back in the '90s we had the servers in our office with us. You couldn't even co-locate servers in those days let alone have AWS.
+
+What makes you an essential part of Y Combinator?
+
+I specialize in when people need to tweak or replace their ideas, or when they need to figure out what giant thing their current idea is stage one of. Because very often people will do something initially, just knowing instinctively that it's a promising thing to work on and not know what its full implications might be.
+
+But it's a good idea to think about what the full implications might be, because it influences which direction you go in. You going that way or more that way?
+
+Because in the beginning that way and that way are almost the same, but after a while they diverge.
+
+Why do Y Combinator startups all seem to search for a way to explain how their business could address a billion dollar problem?
+
+What investors are looking for when they invest in a startup is the possibility that it could become a giant. It may be a small possibility, but it has to be non-zero. They're not interested in funding companies that will top out at a certain point. If you were the early Bill Gates explaining your startup to investors, if you just said "We're going to keep making programming languages for microcomputers," that would not have seemed promising.
+
+You would have wanted to say something like, "We're starting out with programming languages because that's all microcomputers can run, but microcomputers are going to become more powerful and more prevalent. As they get more powerful we're just going to work our way up the stack until we write all the software that runs on all the microcomputers."
+
+Do you lose credibility if you encourage companies to frame themselves in terms of how they can address a billion dollar market?
+
+We don't fund everybody who applies. We only fund the people who we think are sufficiently good. I never tell these people lies. I actually believe every takeover-the-world plan that we cook up with these startups. If they executed sufficiently energetically, almost all of them could actually make them happen. One of the secrets to convincing people is surprisingly simple, you just tell them the truth.
+
+Sometimes people make up Demo Day presentations without consulting me, where they make up some harebrained story about how they're going to be a billion dollar market. "We're making software, software is a multi-trillion dollar market. All we have to get is one percent of it and then it's like billions here."
+
+Why do people attack YC?
+
+It's weird. Just last night, actually, in bed, Jessica was saying, "Why does everybody hate us so much? Why is everyone trying to attack us?" I explained that reputation is potential energy.
+
+For example, some random clothing brand you've never heard of has their stuff made in sweatshops, right? Someone writes a news story about that, everybody would say "Yeah, so? Isn't that how all the clothing is made, in sweatshops?”
+
+Nike has their clothing made in sweatshops, and suddenly it's like "Nike uses sweatshops!" It's big exciting news. Newspapers report about it because it gets pageviews, and labor advocates are all over it, even though they're not over the smaller companies using sweatshops, right?
+
+It's because their reputation is potential energy.
+
+She was talking about investors who were trying to stab us in the back, and stuff like that. There's so many.
+
+If you're a startup and you ask an investor, "Should I apply to Y Combinator?" The investor will say no, right? They resent us! The investors resent us. A lot of investors resent us.
+
+Why?
+
+Well, it depends. You could say, if you think we're actually good, then envy. If you think we're not actually good, then it's because they think we don't deserve all the deal flow we get. That's what investors all want. They want deal flow.
+
+We are rich in deal flow, and they are poor in deal flow. It's like the haves and the have nots. They're angrily looking at us, and when they see another startup about to become part of our deal flow, they're like "No, not another one!"
+
+You were recently quoted saying that a “strong foreign accent” can hurt an applicant’s chances of getting into Y Combinator. What’s the backstory to the comment?
+
+That was such a controversy made out of nothing. It depends who applies. That interview was boiled down from a two hour long conversation, which is why it sounds like a bunch of aphorisms stitched together. They took out all the bits in between.
+
+That was from this long conversation where I talked about how we had sat down and tried to consciously identify the predictors of failure. We had this huge list of about 30 or 40 things that we looked at in interviews, tells. They included things like how people sit, what their body language is between them, who they look at when they're talking. All this stuff.
+
+The interviewer asked me, "Can you tell me some of them?" I said, "Not on the record, because most of these things if I told you, people could fake them. Then they wouldn't work anymore."
+
+The reason that I was willing to tell her about the accent thing is if you faked having a good accent, you would have a good accent. That's what an accent is!
+
+I was OK with people faking that one. But people acted as if I had said we automatically reject people if they have a strong accent. It's one of like 40 things. We would reject people if they had eight out of 40, maybe, but not just a strong accent.
+
+There were people in the current batch that you could barely understand, but we funded because they were good in other respects. It depends who applies.
+
+How tough do you really have to be to found a startup?
+
+Ultimately in a startup you have to pull yourself together. You cannot be a wimp and succeed.
+
+People do get tougher. People get a lot tougher in the course of working on a startup. But if you're a wimp now, then either you're going to have to stop being a wimp, and no one can stop it except you. Or you're going to fail and go off and get a job somewhere. Those are the only two alternatives. You can't keep being a wimp for a long time because eventually your wimpiness is going to produce failure in company, and you're going to have to go do something else.
+
+That's one of the things that surprises people most, actually. That you have to be much tougher than you would have to be in a job and that they turn out to be capable of it. People are capable of wildly differing things. Like some people are capable of growing much more than others, and people don't really know how much they're capable of growing. In fact, even we aren't that good at estimating it, even though that's what our main job is.
+
+Nobody can predict this stuff very well. We can probably predict it better than anybody else because we have so much data about it and because this is all we've thought about for the last eight years.

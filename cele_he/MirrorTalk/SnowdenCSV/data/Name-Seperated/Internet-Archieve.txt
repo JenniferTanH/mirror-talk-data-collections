@@ -1,0 +1,135 @@
+Interviewer: Mr. Snowden, did you sleep well the last couple of nights? Because, I was reading that you asked for a kind of police protection. Are there any threats?
+
+Snowden: There are significant threats but I sleep very well. There was an article that came out in an online outlet called BuzzFeed where they interviewed officials from the Pentagon, from the National Security Agency and they gave them anonymity to be able to say what they wanted, and what they told the reporter was that they wanted to murder me. These individuals, and these are acting government officials, they said they would be happy, they would love to put a bullet in my head, to poison me as I was returning from the grocery store, and have me die in the shower.
+
+Interviewer: But, fortunately, you are still alive with us.
+
+Snowden: Right, but I’m still alive, and I don’t lose sleep because I’ve done what I feel I needed to do. It was the right thing to do. And, I’m not going to be afraid.
+
+Interviewer: “The greatest fear I have,” and I quote you, “regarding these disclosures is nothing will change.” That was one of your greatest concerns at the time, but in the meantime there is a vivid discussion about the situation with the NSA. Not only in America but also in Germany and in Brazil, and President Obama was forced to go public and to justify what the NSA was doing on legal grounds.
+
+Snowden: What we saw initially in response to the revelations was sort of a circling of the wagons of government around the National Security Agency. Instead of circling around the public and protecting their rights, the political class circled around the security state and protected their rights. What’s interesting is, though that was the initially response, since then we’ve seen a softening. We’ve seen the President acknowledge that when he first said “we’ve drawn the right balance, there are no abuses,” we’ve seen him and his officials admit that there have been abuses. There have been thousands of violations of the National Security Agency and other agencies, authorities, every single year.
+
+Interviewer: Is the speech of Obama recently the beginning of a serious regulation?
+
+Snowden: It was clear from the President’s speech that he wanted to make minor changes to preserve authorities that we don’t need. The President created a review board from officials that were personal friends, from national security insiders, former Deputy of the CIA, people who had every incentive to be soft on these programs and to see them in the best possible light. But what they found was that these programs have no value, they’ve never stopped a terrorist attack in the United States, and they have marginal utility at best for other things. The only thing that the Section 215 phone meta-data program, actually it’s a broader meta-data program of bulk collection, bulk collection means mass surveillance, program was in stopping or detecting a $8,500 wire transfer from a cab driver in California. And, it’s this kind of review, where insiders go “we don’t need these programs, these programs don’t make us safe. They take a tremendous amount of resources to run, and they offer us no value.” They go “we can modify these.” The National Security agency operates under the President’s executive authority alone. He can end, or modify, or direct a change in their policies at any time.
+
+Interviewer: For the first time President Obama did concede that the NSA collects and stores trillions of data.
+
+Snowden: Every time you pick up the phone, dial a number, write an email, make a purchase, travel on the bus carrying a cell phone, swipe a card somewhere, you leave a trace. And, the government has decided that it’s a good idea to collect it all. Everything. Even if you’ve never been suspected of any crime. Traditionally the government would identify a suspect, they would go to a judge, they would say we suspect he’s committed this crime, they would get a warrant and then they would be able to use the totality of their powers in pursuit of the investigation. Nowadays what we see is they want to apply the totality of their powers in advance, prior to an investigaion.
+
+Interviewer: You started this debate. Edward Snowden is, in the meantime, a household name for the whistleblower in the age of the internet. You were working until last summer for the NSA, and during this time you collected, secretly, thousands of confidential documents. What was the decisive moment, or was there a long period of time, or something happening? Why did you do this?
+
+Snowden: I would say sort of the breaking point is seeing the Director of National Intelligence, James Clapper, directly lie under oath to Congress. There’s no saving an intelligence community that believes it can lie to the public and the legislators who need to be able to trust it and regulate its actions. Seeing that, for me, really meant for me there was no going back. Beyond that, it was the creeping realization that no one else was going to do this. The public had a right to know about these programs. The public had a right to know that which the government is doing in its name, and that which the government is doing against the public, but neither of these things we were allowed to discuss, we were allowed no, even the wider body of our elected representatives were prohibited from knowing or discussing these programs, and that’s a dangerous thing. The only review we had was from a secret court, the FISA Court, which is a sort of rubber stamp authority.
+
+When you are on the inside and you go into work everyday and you sit down at the desk and you realize the power you have, you can wiretap the President of the United States, you can wiretap a Federal Judge, and, if you do it carefully no one will ever know because the only way the NSA discovers abuses are from self reporting.
+
+Interviewer: We’re not talking only of the NSA as far as this is concerned. There is a multilateral agreement for cooperation among the services and this alliance of intelligence operations is known as The Five Eyes. What agencies and countries belong to this alliance, and what is its purpose?
+
+Snowden: The Five Eyes alliance is sort of an artifact of the post World War II era where the Anglophone countries are the major powers banded together to sort of cooperate and share the costs of intelligence gathering infrastructure.
+
+So we have the UK’s GCHQ, we have the US NSA, we have Canada’s C-Sec, we have the Australian Signals Intelligence Directorate and we have New Zealand’s DSD. What the result of this was, over decades and decades, what sort of a supra-national intelligence organization that doesn’t answer to the laws of its own countries.
+
+Interviewer: In many countries, as in America too, the agencies like the NSA are not allowed to spy within their own borders on their own people. So, the Brits for example, they can spy on everybody but the Brits. But, the NSA can conduct surveillance in England. So, in the very end they could exchange their data and it would be, they would be, strictly following the law.
+
+Snowden: If you ask the governments about this directly they would deny it and point to policy agreements between the members of the Five Eyes saying that they won’t spy on each other’s citizens. But, there are a couple of key points there. One is that the way they define spying is not the collection of data. The GCHQ is collecting an incredible amount of data on British citizens, just as the National Security Agency is gathering an enormous amount of data on US citizens. What they are saying is that they will not then target people within that data. They won’t look for UK citizens or British citizens. In addition, the policy agreements between them that say British won’t target US citizens, US won’t target British citizens, are not legally binding. The actual memorandums of agreement state specifically on that that they are not intended to put a legal restriction on any government. Their policy agreements that can be deviated from or broken at any time. So if they want to spy on a British citizen, they can spy on a British citizen, and then they can even share that data with the British government that is itself forbidden from spying on UK citizens. So there is a sort of a trading dynamic there, but it’s not, it’s not open, it’s more of a nudge and wink. And, beyond that, the key is to remember the surveillance and the abuse doesn’t occur when people look at the data, it occurs when people gather the data in the first place.
+
+Interviewer: How narrow is the cooperation of the German Secret Service BND with the NSA and the Five Eyes?
+
+Snowden: I would describe it as intimate. As a matter of fact, the first way I described it in our written interview, was that the German Services and the US Services are in bed together. They not only share information, the reporting of results from intelligence, but they actually share the tools and the infrastructure. They work together against joint targets in services. And, there’s a lot of danger in this. One of the major programs that face abuse in the National Security Agency is what’s called “XKeyscore.” It’s a front end search engine that allows them to look through all of the records they collect worldwide every day.
+
+Interviewer: What could you do if you would sit so to speak in their place with this kind of instrument?
+
+Snowden: You could read anyone’s email in the world. Anybody you got an email address for, any website you can watch traffic to and from it, any computer that an individual sits at, you can watch it, any laptop that you’re tracking, you can follow it as it moves from place to place throughout the world. It’s a one stop shop for access to the NSA’s information. And what’s more, you can tag individuals using “XKeyscore.” Where, let’s say I saw you once and I thought what you were doing was interesting, or you just have access that’s interesting to me. Let’s say you work at a major German corporation, and I want access to that network. I can track your username on a website, on a form somewhere, I can track your real name, I can track associations with your friends, and I can build what’s called a fingerprint, which is network activity unique to you, which means anywhere you go in the world, anywhere you try to sort of hide your online presence, hide your identity, the NSA can find you. And, anyone who’s allowed to use this, or who the NSA shares their software with, can do the same thing. Germany is one of the countries that have access to “XKeyscore.”
+
+Interviewer: This sounds rather frightening. The question is, does the BND deliver data of Germans to the NSA?
+
+Snowden: Whether the BND does it directly, or knowingly, the NSA gets German data. Whether it’s provided, I can’t speak to until it’s been reported, because it would be classified. And, I prefer that journalists make the distinctions, and the decisions, about what is public interest and what should be published. However, it’s no secret that every country in the world has the data of their citizens in the NSA. Millions and millions and millions of data connections, from Germans going about their daily lives, talking on their cell phones, sending SMS messages, visiting websites, buying things online, all of this ends up at the NSA. And, it’s reasonable to suspect that the BND may be aware of it in some capacity. Now, whether or not they actively provide the information, I should not say.
+
+Interviewer: The BND basically argues if we do this, we do this accidentally actually, and our filter didn’t work.
+
+Snowden: Right. So, the kind of things that they’re discussing there are two things. They’re talking about filtering of ingest, which means when the NSA puts a secret server in a German telecommunications provider, or they hack a German router and they divert the traffic in a manner that let’s them search through things, they’re saying “if I see what I think is a German talking to another German I’ll drop it.” But, how do you know? You could say “well, these people are speaking the German language, this IP address seems to be from a German company to another German company,” but that’s not accurate, and they wouldn’t dump all of that traffic because they’ll get people who are targets of interest, who are actively in Germany using German communications. So, realistically, what’s happening is when they say “there’s no spying on Germans,” they don’t mean that German data isn’t being gathered, they don’t mean that records aren’t being taken or stolen. What they mean is that they’re not intentionally searching for German citizens. And, that’s sort of a fingers crossed behind the back promise, it’s not reliable.
+
+Interviewer: What about other European countries, like Norway and Sweden for example, because we have a lot of, I think, underwater cables going through the Baltic Sea.
+
+Snowden: So, this is sort of an expansion of the same idea. If the NSA isn’t collecting information on German citizens in Germany, are they as soon as it leaves German borders? And, the answer is “yes.” Any single communication that transits the internet, the NSA may intercept at multiple points. They might see it in Germany, they might see it in Sweden, they might see it in Norway or Finland, they might see it in Britain, and they might see it in the United States. Any single one of these places that a German communication crosses, it’ll be ingested and added to the database.
+
+Interviewer: So, let’s come to our southern European neighbors then. What about Italy? What about France? What about Spain?
+
+Snowden: It’s the same deal worldwide.
+
+Interviewer: Does the NSA spy on Siemens? On Mercedes? On other successful German companies, for example, to prevail, to have the advantage of knowing what is going on in a scientific and economic world?
+
+Snowden: I don’t want to preempt the editorial decisions of journalists.
+
+Interviewer: Ok.
+
+Snowden: But, what I will say is there’s no question that the US is engaged in economic spying. If there’s information at Siemens that they think would be beneficial to the national interests, not the national security of the United States, they’ll go after that information, and they’ll take it.
+
+Interviewer: There is this old saying “you do whatever you can do.” So, the NSA is doing whatever is technically possible.
+
+Snowden: This is something that the President touched on last year, where he said that just because we can do something, and this was in relation to tapping Angela Merkel’s phone. Just because we can do something, doesn’t mean that we should. And, that’s exactly what’s happened. The technological capabilities that have been provided, because of sort of weak security standards in internet protocols and cellular communications networks, have meant that intelligence services can create systems that see everything.
+
+Interviewer: Nothing annoyed the German government more than the fact that the NSA taped the private phone of the German Chancellor Merkel over the last 10 years, obviously. Suddenly this invisible surveillance was connected with a known face and was not connected with a kind of watery, shady terrorist background. Obama now promised to stop snooping on Merkel, which raises the question “did the NSA tape already previous governments, including the previous chancellors, and when did they do that? And, how long did they do this for?”
+
+Snowden: This is a particularly difficult question for me to answer, because there’s information that I very strongly believe is in the public interest. However, as I’ve said before, I prefer for journalists to make those decisions in advance, review the material themselves, and decide whether or not the public value of this information outweighs the sort of reputational cost to the officials that ordered the surveillance. What I can say is we know Angela Merkel was monitored by the National Security Agency. The question is how reasonable is it to assume that she is the only German official that was monitored? How reasonable is it to believe that she’s the only prominent German face who the National Security Agency was watching? I would suggest it seems unreasonable that if anyone was concerned about the intentions of German leadership, that they would only watch Merkel and not her aides, not other prominent officials, not heads of ministries, or even local government officials.
+
+Interviewer: How does a young man from Elizabeth City in North Carolina, 30 years old, get in such a position in such a sensitive area?
+
+Snowden: That’s a very difficult question to answer. In general, I would say it highlights the dangers of privatizing government functions. I worked previously as an actual staff officer, a government employee for the Central Intelligence Agency, but I’ve also served much more frequently as a contractor in a private capacity. What that means is, you have private for-profit companies doing inherently governmental work, like targeted espionage, surveillance, compromising foreign systems. And, anyone who has the skills, who can convince a private company that they have the qualifications to do so, will be empowered by the government to do that, and there’s very little oversight. There’s very little review.
+
+Interviewer: Have you been one of these classical computer kids sitting red eyed during the nights in the age of 12, 15, and your father was knocking on your door and saying “switch off the light, it’s too late now?” Did you get your computer skills from that side? Or, when did you get your first computer?
+
+Snowden: (laughter) Right, right. I definitely have had a, shall we say, a deep informal education in computers and electronic technology. They’ve always been fascinating and interesting to me. (laughter) The characterization of having your parents telling you to go to bed, I would say is fair.
+
+Interviewer: If one looks to the little public data of your life, one discovers that you, obviously, wanted to join in May 2004, the Special Forces to fight in Iraq. What did motivate you at the time? You know, Special Forces, looking at you in the very moment, means grim fighting, and it means probably killing. And, did you ever get to Iraq?
+
+Snowden: No, I didn’t get to Iraq. One of the interesting things about the Special Forces are that they’re not actually intended for direct combat. They’re what’s referred to as “a force multiplier.” They’re inserted behind enemy lines. It’s a squad that has a number of different specialties in it, and they teach and enable the local population to resist, or to support, US forces in a way that allows the local population a chance to help determine their own destiny. And, I felt that was an inherently noble thing at the time. In hindsight, some of the reasons that we went into Iraq were not well founded. And, I think did a disservice to everyone involved.
+
+Interviewer: What happened to your adventure then? Did you stay long with them? Or, what happened to you?
+
+Snowden: No, I broke my legs when I was in training and was discharged.
+
+Interviewer: So it was a short adventure in other words?
+
+Snowden: It was a short adventure.
+
+Interviewer: In 2007 the CIA stationed you with a diplomatic cover in Geneva, in Switzerland. Why did you join the CIA by the way?
+
+Snowden: I don’t think I can actually answer that one.
+
+Interviewer: OK, if it’s what you have been doing there, forget it. But why did you join the CIA?
+
+Snowden: In many ways I think it’s a continuation of trying to do everything I could to prosecute the public good in the most effective way. And, it’s in line with the rest of my government service where I tried to use my technical skills in the most difficult positions I could find in the world, and the CIA offered that.
+
+Interviewer: If we go back, Special Forces, CIA, NSA, it’s not actually in the description of a human rights activist, or somebody who becomes a whistleblower after this. What happens to you?
+
+Snowden: I think it tells a story, and that’s, no matter how deeply an individual is embedded in the government, no matter how faithful to the government they are, no matter how strongly they believe in the causes of their government, as I did during the Iraq war, people can learn, people can discover the line between appropriate government behavior and actual wrongdoing. And, I think it became clear to me that that line had been crossed.
+
+Interviewer: You worked for the NSA through a private contractor with the name Booze Allen Hamilton, one of the big ones in the business. What is the advantage for the US Government, or the CIA, to work through a private contractor, to outsource a central government function?
+
+Snowden: The contracting culture of the national security community in the United States is a complex topic. It’s driven by a number of interests between primarily limiting the number of direct government employees at the same time as keeping lobbying groups in Congress, typically from very well funded businesses such as Booze Allen Hamilton. The problem there is you end up in a situation where government policies are being influenced by private corporations who have interests that are completely divorced from the public good in mind. The result of that is what we saw at Booze Allen Hamilton, where you have private individuals who have access to, what the government alleges were millions and millions of records that they could walk out the door with at any time with no accountability, no oversight, no auditing, the government didn’t even know they were gone.
+
+Interviewer: At the very end you ended up in Russia. Many of the intelligence communities suspect you made a deal, classified material for Asylum here in Russia.
+
+Snowden: The Chief of the Task Force investigating me, as recently as December, said that their investigation had turned up no evidence, or indications at all, that I had any outside help, or contact, or had made a deal of any kind to accomplish my mission. I worked alone. I didn’t need anybody’s help. I don’t have any ties to foreign governments. I’m not a spy for Russia, or China, or any other country for that matter. If I am a traitor, who did I betray? I gave all of my information to the American public, to American journalists, who are reporting on American issues. If they see that as treason, I think people really need to consider who do they think they’re working for. The public is supposed to be their boss, not their enemy. Beyond that, as far as my personal safety, I’ll never be fully safe until these systems have changed.
+
+Interviewer: After your revelations, none of the European countries really offered you asylum. Where did you apply in Europe for asylum?
+
+Snowden: I can’t remember the list of countries with any specificity because there were many of them. But, France, Germany were definitely in there, as was the UK. A number of European countries, all of whom, unfortunately, felt that doing the right thing was less important than supporting US political concerns.
+
+Interviewer: One reaction to the NSA snooping is in the very moment that countries like Germany are thinking to create national internets, an attempt to force internet companies to keep their data in their own country. Does this work?
+
+Snowden: It’s not gonna stop the NSA. Let’s put it that way. The NSA goes where the data is. If the NSA can pull text messages out of telecommunication networks in China, they can probably manage to get Facebook messages out of Germany. Ultimately, the solution to that is not to try to stick everything in a walled garden, although that does raise the level of sophistication and complexity of taking the information. It’s also much better simply to secure the information internationally against everyone, rather than playing ‘let’s move the data.’ Moving the data isn’t fixing the problem. Securing the data is the problem.
+
+Interviewer: President Obama, in the very moment, obviously doesn’t care too much about the message of the leak. And, together with the NSA, they do care very much more about catching the messenger in that context. Obama asked the Russian president several times to extradite you. But Putin did not. It looks that you will stay to the rest of your life, probably in Russia. How do you feel about Russia in that context, and is there a solution to this problem.
+
+Snowden: I think it’s becoming increasingly clear that these leaks didn’t cause harm, in fact, they served the public good. Because of that, I think it will be very difficult to maintain sort of an ongoing campaign of persecution against someone who the public agrees serve the public interest.
+
+Interviewer: The New York Times wrote a very long comment, and demanded clemency for you. The headline “Edward Snowden Whistleblower,” and I quote from that, “the public learned in great detail how the agency has extended its mandate and abused its authority.” And, the New York Times closes, “President Obama should tell his aides to begin finding a way to end Mr. Snowden’s vilification, and give him an incentive to return home.” Did you get a call in between from the White House?
+
+Snowden: I’ve never received a call from the White House, and I am not waiting by the phone. But, I would welcome the opportunity to talk about how we can bring this to a conclusion that serves the interest of all parties. I think it’s clear there are times where what is lawful is distinct from what is rightful. There are times throughout history and it doesn’t take long for, either an American, or a German, to think about times in the history of their country where the law provided the government to do things which were not right.
+
+Interviewer: President Obama, obviously, is in the very moment not quite convinced of that, because he said to you are charged with three felonies. And, I quote, “if you, Edward Snowden, believe in what you did, you should go back to America, appear before the court with a lawyer and make your case.” Is this the solution?
+
+Snowden: It’s interesting because he mentions three felonies. What he doesn’t say is that the crimes that he’s charged me with are crimes that don’t allow me to make my case. They don’t allow me to defend myself in an open court to the public and convince a jury that what I did was to their benefit. The Espionage Act was never intended, it’s from 1918, it was never intended to prosecute journalistic sources, people who are informing the newspapers about information that’s of public interest. It was intended for people who are selling documents in secret to foreign governments, who are bombing bridges, who are sabotaging communications, not people who are serving the public good. So, it’s, I would say, illustrative that the president would choose to say someone should face the music when he knows the music is a show trial.

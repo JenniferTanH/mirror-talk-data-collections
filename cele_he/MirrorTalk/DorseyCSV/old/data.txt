@@ -1,0 +1,208 @@
+It’s a sign of how the stakes have changed for you and for Twitter that no matter what you tweet, a fairly standard response is “Yeah, but get the Nazis off Twitter.”
+Yeah. So it used to be I would tweet about Kendrick and people would be like, “Awesome, can you please increase the share price?” And then it transitioned into [demanding] an edit button. [The topics of] abuse and our policies have been much more pronounced recently. And it comes in the form of categorizing people as Nazis and wanting them removed. People are definitely not satisfied with our progress there. It’s not as simple as what the reply would indicate, but it is work that needs to be done.
+
+Technically, being a professed white nationalist isn’t grounds for removal, right? Someone has to make specific threats?
+It actually is. If they align themselves with a violent extremist group, like the American Nazi Party, we suspend their account. There are not self-professed Nazis. If you can show them, I would love to see them, and figure out why we haven’t taken action on them, but…
+
+I can confirm that there are Nazis on Twitter.
+A lot of the calls for “remove the Nazis” are also due to the fact our enforcement operates on reporting. A lot of people don’t report. They see things, but it’s easier to tweet out “get rid of the Nazis” than to report it. We need to be more proactive, but a lot of it has to do with the friction of everything relying on it being reported in the first place. Two years ago, you could only report it if you were the direct recipient of either a reply or a threat, or some abusive behavior. Whereas today, you can be a bystander and report it.
+
+Seth Rogen, who was concerned about racists getting verified status on Twitter, tweeted that you do “not seem to give a fuck” about this issue after some back-and-forth with you.
+That was heartbreaking. I DM’d him, and we got on the phone together. He said to me, “I’m surprised at myself for not hanging up…But I think you have the right intent. But you all are terrible communicators.” I agree, we have been bad at communication, we haven’t been as forthright as we need to, we certainly haven’t been as transparent. We do care deeply. But we need to do it in scalable ways. This work doesn’t happen overnight.
+
+The model in Silicon Valley for a long time was “we are a neutral platform.” It’s obviously not quite the case anymore. So if it’s not a platform, what is it?
+People see Twitter as a public square, and therefore they have expectations that they would have of a public square. Washington Square Park, for instance — I just had an hour and a half there, today. I sat, and I did my phone calls, and I watched people. There’s a lot going on in Washington Square Park. There’s tourists, students, filmmakers, musicians, street hustlers, weed dealers, chess players. And there’s people talking out in the open. The park itself is completely neutral to whatever happens on top of it. But if you stop there, you don’t realize what I believe the park actually is. It does come with certain expectations of freedom of expression, but everyone is watching one another. So if someone gets up on a little soapbox, with a megaphone, and starts yelling, a crowd comes around them and listens. That person can also yell across the park and say, “Hey, you idiot, yeah, you, I’m talking to you, come over here.” Then it’s really harassing behavior and people notice that, and they’re like, “Hey, man, don’t do that. Stop.” And then there’s the park police as well, who maintain the standard of decency within the park.
+
+Dealing with harassment seems easy compared with grappling with the idea of false information. Sometimes it seems like your approach is “If there’s false information, the nature of Twitter is such that we count on the real information to overcome it.” Is that correct?
+Well, I think it happens, but it’s not something that we should make a model. It can unfold that way, but that doesn’t mean we can rely upon it. An example, there was this tweet, before the [2016] elections. Someone tweeted out an image of a code that supposedly allowed you to register to vote. It was misinformation. So the way that this plays out on Twitter is that the tweets calling it out as false got more impressions than the original. More people saw the tweets calling it out as false than saw the original tweet.
+
+What do you conclude from that?
+We could just sit back and be neutral and passive, like, “OK, we’re good,” because the thing self-corrects. But instead we should learn what that means and how we can make more of those things happen. We can’t be arbiters of truth. I think that would be dangerous for anyone to want us to be. So what can we do? What we’re deciding to do is [focus on] misleading information, which intends to lead someone in a particular direction, intends them to take a particular action. The voter-suppression tweet was certainly misinformation, but more dangerously it was misleading people to take an action that would harm society and maybe themselves. I don’t think we should just say, “The network takes care of itself.” We need to say, “How do we not determine true or false, but how do we determine is it misleading?” Then, how do we stop the dissemination of misleading information before it reaches significant exposure?
+
+People talk about social media being designed for dopamine drips, intended to be addictive. To what extent is there truth in that for Twitter?
+We certainly didn’t have that intent. We built Twitter originally because we wanted to use it, and we fell in love with it. There is a general addiction, independent of Twitter, to what’s happening, what’s new. News junkies are real, looking for headlines is real, looking for hot takes is real, providing hot takes is real. It might be fairly shallow. We never really designed the product to be, like, “How do we make this more addictive?” That’s never a question I’ve asked, and never a question I’ve heard my team ask. It may have been asked at the company before, in fact I’m sure it has. But that’s not our intention today and going forward. We’re actually thinking about what happens if we remove the “like” counts.
+
+People were really angry at that idea, actually.
+It’s mainly removing the variables. When people open Twitter today, what does the app inherently incentivize? I don’t know the answer. That’s the question we’re asking, right now. The question is, if we take away the count from everyone but the author, what does that do?
+
+Do you yourself have any degree of Twitter addiction? Do you compulsively check Twitter the way many of the rest of us do?
+In context, I do. During events, I do. During election night it was nonstop, during a basketball game it’s nonstop. That’s when I have the recent-tweets feature on; all the other time I have the most-relevant tweets on. I know this is gonna sound way out there, because we’re nowhere near what I’m about to say, but when I close the app, I want to have learned something new. We’re just so far off. If I asked anyone in this restaurant, “After closing Twitter, did you learn anything?” Most of them are gonna say no, or they learned something they already knew. Ultimately, I want every single person that uses Twitter to not spend hours, or days, or minutes consuming content, but [instead] to be notified when there’s something that potentially they could learn from, and, to the highest degree, that they’d want to participate in a conversation around it. That, to me, would contribute to the health aspect. Like, I’d walk away from Twitter feeling empowered, I’d feel more informed, I’d feel happy. Right now, I just feel overwhelmed, because I don’t think I’m learning anything new, ultimately.
+
+There’s obviously been an overall shift from a techno-optimism to a techno-pessimism. What’s your case for Twitter, in particular, as an overall force for good?
+I think it’s a net positive that everyone has more potential to have a voice. Because it benefits those who traditionally didn’t the most. The thing I’m most proud of Twitter for is that it has been a vehicle for historically marginalized groups to share their story.
+
+On the flip side, obviously Twitter allows public figures, politicians included, to potentially tell lies to millions of followers, without a filter.
+An interesting case study is the Sarah Sanders video that may have been doctored to increase the severity of whatever Jim Acosta did. It speaks to where all these technologies are going. It’s so easy, potentially, to create alternative narratives. The question we’re now asking ourselves is, if that is indeed misleading, how do we stop its spread? We can amplify the counter-narrative. We do have a curation team that looks to find balance. A lot of times when our president tweets, a Moment occurs, and we show completely different perspectives. So a lot of times, people don’t just see that tweet.
+
+By all accounts, Square runs more smoothly than Twitter.
+It has to, though. Yeah, you’re dealing with people’s money. I mean, it’s extremely emotional. If you lose 140 characters, people are like, “Eh.” If you lose $140 or even $1.40, it’s important. We knew the severity, and we knew how emotional this was to people. We’re impacting their livelihoods, so we had to get every single thing right. There’s a lot of regulation around payments. If you do something wrong, you go to jail.
+
+Is there something inherently messy in the nature of Twitter, the fact that it scaled up from code that wasn’t written to be scaled up? Then there’s all the sociological implications and political implications....
+Expression is messy. It has unpredicted outcomes. It has so many people coming in and adding their voice. The song just keeps going on and on. Looking back, 50 years in the future when it’s still here and I’m gone, my impact will be nothing compared to the impact that people using the platform in those 50 years will have on it. We all have time to add to the song. Then we depart, and it continues to go on. That’s why I think we have resonance with so many folks in hip-hop. They saw 140 characters as this amazing constraint that allowed them to do bars. Our first, and the most resonant audience we had, were comedians, which is all rhythm and bars, and hip-hop, which is all rhythm and bars, and journalists, which is all in headline rhythm and bars. It demanded a messy expression in order to capture human expression.
+
+Speaking of messiness, the right-wing provocateur Laura Loomer chained herself to your New York headquarters to protest her ban from Twitter for alleged hate speech.
+I respect that. I think it’s brave. I love activists. I love protest. I’m a punk. My music when I was growing up was punk. Hackers are punk. It’s questioning the system, not because you hate it but because you want to make it better. I respect her desire to make Twitter better. I respect every mention that I get to make Twitter better and to make me better. I hope I never lose that. I would not chain myself to a corporate office, but I respect that courage, and I respect what you have to do mentally to get to that state.
+
+How do you counter the general distrust out there?
+There’s a lot of distrust. There’s a lot of fear. It’s fear of companies like ours. It’s fear of power, and it’s completely 100 percent natural. People are afraid of what technology has become and what it can do. There’s a good chapter in Yuval Noah Harari’s book 21 Lessons for the 21st Century: “Technology feels like it can make me irrelevant.” If we can’t be transparent about our intentions and what our technology is doing, we’re feeding into that fear of irrelevance. We need to communicate in a way that is understandable to people, which today we’re not.
+
+How are you not in a constant state of agitation that something terrible is going to trend, or that a war or some other calamity is going to start over a tweet?
+We have a global team. And I trust them to make decisions. And I trust them to make decisions without me having to interject or oversee them at all. And I trust that we have a learning mindset. That we’re gonna do retros on what we fucked up. And we’re going to learn from that. And we’re not going to repeat the same mistakes. So in terms of what happens in the platform, I am concerned. I am a citizen in this world. I feel the weight of how our tool is used in society and how it’s been used for good and how it’s used for stuff I’m not proud of.
+
+For instance?
+Like creating bubbles and echo chambers. I’m not proud of that. Like, we definitely help divide people. We definitely create isolation. We definitely make it easy for people to confirm their own bias. We’ve only given them one tool, which is follow an account that will 90 percent confirm whatever bias you have. And it doesn’t allow them to seek other perspectives. It contributes to tribalism. It contributes to nationalism. And it’s counter to what we need the world to consider, which is, how do we solve climate change? There’s no country anywhere on the planet that’s gonna solve it alone. How do we solve AI taking all of our jobs or nuclear war? These are global conversations, and it’s gotta be pointed in that direction. Right now it’s pointed inward.
+
+When you tweeted your health stats, showing that you get eight and a half hours of sleep a night, people were like, literally, “Well, you shouldn’t be sleeping well at night.” The implication, again, is that you don’t care.
+We can only show that we care through how we change our product and fix things. Nothing I say is going to do that. And, look, I have a lot of people who care about the world and society and our impacts reading my tweets, a lot of shareholders reading my tweets. But I also have a lot of entrepreneurs reading my tweets. And my mom reading my tweets. I don’t want to model a behavior where I’m up 20 hours a day working nonstop to fix something, ’cause I don’t think it’s long-term healthy. Like, it’s delusional.
+
+So you want to show it’s possible to run two big companies and also get some sleep.
+Yeah, and I think it’s possible, and I wanna show it to be possible. That being said, every hour I spend is really meaningful. So, like, spending an hour here means I’m not doing something else, and is that trade-off worth it? I need to consider that every single day. And so I end up not watching a lot of TV. But when I wanna get away, I do.
+
+Let’s talk about Myanmar. Critics said that you shouldn’t have gone there because of alleged genocide perpetrated by the government.
+I disagree. I think we need to face the things that are unpleasant. I did talk to people about it. I went to Ferguson [Missouri], and a bunch of people told me not to go there too. We have to face these things. The surprising thing I learned in Myanmar, number one, was that the internet is Facebook there. Twitter is very small, if anything. The second thing is that every monk and nun I met has a cellphone. A lot of the monks I talked to said they believe anything that is on the phone, anything that comes through Facebook is believed. But I went there specifically for my meditation. I do intend to go back next year, and the following year. I do intend to talk with more people about what’s happening in the area and any ways I could help. You have to start somewhere. It’s a country that I care deeply about.
+
+This is the second year in a row you’ve gone on a week of silent meditation. What does it do for you?
+What I was going there for was to practice focus. It’s very physically painful. There’s no talk of religion, there’s no talk of spirituality. It’s a physical-body practice. You sit down and what you’re told to do is focus your entire consciousness on not the breath, but the feeling of your breath passing through. It’s amazing how it made all the really small things in life really, really big. The first year, day six was the hardest for me ’cause I looked around during a meditation and I’m like, “Man, everyone looks like they’re Buddha right now. Everyone looks enlightened, and I’m not getting it.” But that night there was a lesson and we meditated and it crystallized for me. It felt completely right. It was like pure joy without any noise.
+
+Part of what the Myanmar controversy shows is that same distrust of someone like you in 2018.
+Yeah, I think there’s a lack of trust. I welcome that. If I were not in the circumstances I am now, if I was still 21 years old and looking at everything, I would be distrustful as well. That’s just who I was. I know who I am. The people around me know who I am. I was not taken aback by the focus on meditation versus Myanmar. I was taken aback by people being upset that I did a meditation in the first place. Or saw it as bragging. Yeah, I’m trying to learn. I’m upset by that because I think it shuts off something for people in that they won’t try it themselves. I wanted to share my experience, it’s going to resonate with some, because what else do we do?
+
+I guess it’s the point of Twitter, in some ways.
+Yeah. Also, I think for a lot of people the point of the service is to feel outraged. And to express it.
+
+There’s an idea out there you could be like a character out of Silicon Valley, the show. How does that affect the way you communicate with the world?
+I have to ignore it. How do I get in touch with anything? Experience it. Am I not supposed to do these things? Are there experiences that I should not have in the world because I’m in technology? I’ve meditated for 20 years.
+
+If someone went back and told you when you were 12 that you’re going to be a billionaire and run two companies, would that at any level have made sense to you?
+It would have felt hard to achieve. I don’t know about self-image, because I don’t know if I had something very concrete about what I wanted to be. I didn’t, actually.
+
+When you were young, did you see yourself as an artist?
+I loved drawing. I loved making music. I loved creating. It was more in that angle. I didn’t really love business. I didn’t want to be a CEO. I didn’t want to be an entrepreneur. I wanted to create stuff.
+
+I’ve read that you had a speech difficulty as a kid.
+Yeah, I had an impediment. I couldn’t pronounce any of my words. I went to speech therapy for two years. It made me shy. I didn’t want to talk with anyone, even my family. Then I had this speech therapy, and they fixed most of it. I still am very mindful of it — in this conversation, I mispronounced at least four words. When I was in junior high, I was just deathly afraid of speaking. Then I decided that it was ridiculous, and I needed to get out there, so I joined the speech team. They have this improv speech contest. They give you a white card with a word on it, and you have five minutes to write a speech on it. It was the scariest thing I could do. I just kept doing it and doing it and doing it. It worked.
+
+Growing up in St. Louis, when was the first time you became entranced by the possibility of coding?
+Well, it was before the computer, because my dad had a Heathkit, like a ham-radio Heathkit. Tinkering around with that in Morse code was really interesting. Then the PC Junior, writing batch files. St. Louis had a very active hacker culture, in the best sense of the word, hacker, like someone who’s curious about technology, willing to pick it apart and go deep to understand how it works.
+
+It was pretty much the intellectual fascination of it, right? You didn’t have any practical sense early on of what to do with this stuff, did you?
+Not at that time. I just wanted to build. I just wanted to make things. I was fascinated by operating systems. That’s what I did in university.
+
+Back in the day, there were things that threatened to pull you away, other interests. You did 1,000 hours of massage-therapy training, and studied fashion design and botanical illustration?
+Well, the thing that pushed me away wasn’t an interest in massage therapy or botanical illustration or fashion. It was that programming is so abstract. I got lost in it constantly because you were so much in your head all the time. It affects your dreams. You start programming in your dreams. You can actually control your dreams. At least that was my experience. It’s so abstract, and nothing feels real. Every time I wanted to do something different, I wanted to do something with my hands.
+
+Always something very concrete.
+I loved drawing since I was a kid. My mom painted, and I was good. Botanical illustration had this amazing intersection between being art but also extremely precise and useful. Then I realized I couldn’t make a living this way. I went back to programming. Then I start getting carpal tunnel. My friend told me to get a massage. I like to understand the theory behind it, and the practice. I don’t like just going and receiving something. I want to understand why and how. I took 1,000 hours of massage therapy to understand why that’d be useful, but also to fix myself, and it worked.
+
+And fashion?
+I always had a fascination with architecture and construction. I got really heavily into jeans because I’m in San Francisco, Levi’s is right down the street. It’s all I wore as a kid. They get better every day. Each one has a patina — you look at a pair of jeans after two years, you can see how the person lived. You can see the story. I went to a fashion school here in San Francisco. It was like, “Man, I get to work with my hands again.” I never actually got to [make] pants because we started to work on Twitter.
+
+How did it all connect to Twitter for you?
+One of the joys of Twitter, actually, unlike most of my programming, was that I wrote a line of code, and it made Biz [Stone’s] phone buzz. It was physical. That was my one joy within Twitter in the first two weeks. I was programming something that made an object move. I would tweet something, and Biz’s pocket would buzz. Then he would be thinking of me. That made it really tangible. That’s when I was really hooked on this balance between the physical and the software world. Programming is an amazing field. I like painting, I like drawing and I like programming, because those are the arts where you literally start from absolutely nothing and suddenly something can emerge.
+
+The first germ of the idea of Twitter was pretty definitely yours, but then it gets pretty messy. Someone like Noah Glass, one of the co-founders, has said that he hasn’t gotten enough credit. To what degree would you credit the other guys with helping develop the initial idea?
+Two years into it I thought stuff like that mattered. I don’t feel it matters as much anymore. I think the real interestingness of Twitter is not us. It was the fact that we were able to see what people are doing with it and made it more accessible. I think the true inventions were not the initial stuff. It was the @ symbol. It was the # symbol. It was the retweet.
+
+Which came from the users. The users invented those things themselves.
+Our role there was observing that people were actually trying to communicate with one another. I think that is the greatest role we had. It was messy. Creation is messy. We all had our role to play. Some ideas were isolated to individuals. Some ideas were not. Some ideas came through conversation. Noah and I would have conversations until four in the morning about this thing. I was really sad to see him go. I wish we still talked, but he was definitely my earliest thought partner. Then Biz was really the thought partner on the product itself. We came up with the terms “followers” and the whole concept and the original mechanics, but we did them wrong. They evolved.
+
+Like Steve Jobs, you were pushed out of the company you co-founded. After you were removed as Twitter CEO in 2008, you came back in 2011, after founding another huge company, Square. Was it all a big, brilliant plan to make your way back?
+I wasn’t expecting to come back at all. I was out. I re-found my boss when I was 15 years old, Jim Mc-Kelvey. I wanted to work with him again. We were considering ideas from electric cars to what Square became. I felt it was as big in terms of potential, if not bigger. I was happy. I love Twitter. I was always willing to do whatever it took to make it reach its potential. As long as I’m useful to the company, then I’ll be here. If I become irrelevant, and at some point I will, then hopefully I’ve built other choices for the company in people.
+
+At one point you were talking about wanting to be mayor of New York. Is that still something that’s on your dream list?
+I was always fascinated by cities. I couldn’t think of a better way to observe and have an impact than a mayor. I realized at some point along the way that I could write a policy and the effect probably won’t be felt for eight years, whereas I could write a simulation and some code in a model, and I could see it within eight seconds. I’m just now more and more convinced that building and creating can influence faster than what can happen in our current legislative system. Also, I would probably be terrible at it.
+
+So now you have no interest in politics or ever running for office?
+No.
+
+Was there a moment that changed your mind?
+I don’t know if I could be me. I like being creative. I like joking around. I like pranking. I like creativity.
+
+Do you think there’s a lot of decorum required for high office in this country?
+I mean, I had an article written about me about wearing sandals in front of Goldman Sachs.
+
+How much thought have you given to your ultimate philanthropic goals and where you want your money to go after you’re gone?
+Well, I want to give it all away. One of the existential issues facing the world today is climate change. The other big one changing the world today is economic disparity. I don’t think it’s fair what I have access to. I started a foundation called Start Small Foundation, which is intending to teach people how to build businesses in places like Ferguson and stay in business, because I see a business as a fabric to an enduring community. I don’t know if that’s the right thing or if it’s universal basic income or something scoped even tighter than that, but I intend to help address the wealth gap with my wealth. Most of my wealth, 98 percent of it, is equity in these companies, so I’m not actually a billionaire. If these companies don’t do well...
+
+You may need to learn from hip-hop and just say, “Yes, I’m a billionaire.”
+No. No. I’m not that cool. It could be gone tomorrow. I gave [10 percent] of my equity in Square back to the company. I gave a third of my equity in Twitter back to the employee pool. I gave most of my Square equity to this foundation.
+
+Twitter CEO Jack Dorsey prepares to testify during a Senate Intelligence Committee hearing in Washington, DC on September 5, 2018.
+SENATE TESTIMONY: Dorsey in Washington in September: “There’s a lot of distrust. People are afraid of what technology has become.” Photo credit: Stephen Voss/Redux
+
+Stephen Voss/Redux
+
+What do you make of Elon Musk?
+The folks who are leading the way are folks like Elon. I don’t know of another person on the planet who’s leading us off the planet because of the damage that we’re inflicting to this planet. Also the AIs coming up in the future — who else is leading humanity toward Mars in order to save it? Those are the conversations we used to have, but we’re not having.
+
+His critics paint him as ridiculous.
+He is ridiculous. You have to be. You have to be to think that big. I love him. I love what he’s trying to do, and I want to help in whatever way. I have a friend who’s a music producer. I asked him, “What got you into music?” He said, “I’ve never been able to play music. I don’t even really know if I have good taste. I love musicians, and all I want to do is help them.” I feel a similar kind of understanding of Elon. I understand what he wants to do, and I want to help. That’s the role of any toolmaker. We’re making tools.
+
+When you look at your first tenure as CEO of Twitter, would you have forced yourself out?
+I wouldn’t have forced myself out. I would have helped.
+
+You could have succeeded with the proper help, is that what you’re saying?
+Yeah. You have to keep in mind, we had a company of 13 people. I had never been anyone’s boss. That was all new. I had to fire someone that we were entirely dependent on to bring the service back up. We were under massive scrutiny. We had massive scale from day one. It resonated immediately. People were throwing money at us. We had Facebook, who just copied the same thing that we did. There was a lot of stress. I was working nonstop. The service was going down all the time. We were paying half a million dollars in SMS bills. It was crazy.
+
+Our office felt like a tomb. It was dark. There were no windows. There’s a choice one can make: If you put someone in a situation like that, you have to help them or you just replace them, and I was replaced.
+
+Would it be fair to say that after you were forced out, you were determined to let the world know who you were and what your importance was?
+Yeah. I saw myself being erased from everything, intentionally erased. That wasn’t cool.
+
+I was part of the story. I shouldn’t be erased from it. For two years I was considered the co-founder. Then suddenly I’m not? Changing history, I’ll speak up about. I usually don’t speak on behalf of myself. I don’t fight for myself. That was the one time that I did. I don’t know if it worked. No one really cared.
+
+You’re sitting here now. Clearly, something worked.
+No, no. I went off and did my thing. I learned what I needed to learn. I built a company. It’s rock-solid and stable. Had no blips. I think I proved to myself that when I put my mind to it and when I have the right access to tools, that will help me grow.
+
+Based on the time you spent with him, would you be able to lay out your philosophical differences with someone like Mark Zuckerberg? Twitter and Facebook have approached the world in different ways.
+I would love to. I just don’t know what his philosophies are. I don’t know what their purpose is.
+
+Facebook’s purpose?
+Mm-hmm. I know what they say, but I don’t know. I see Mark as a very, very smart businessman. He will excel to gain as much market share as possible.
+
+If you were CEO of Facebook instead, would you know what to do with them?
+No. I’ve got enough on my plate. I think the intention of a lot of people at the company is right. If the philosophy is helping the world realize that we’re all facing the same problems. We should end this distraction of nationalism. That is a promise of the internet. I would rather us be proactive around solving these problems together than reactive. If that’s the goal and that’s the stated intention, then I would know a few things to do.
+
+What was your most memorable encounter with Zuckerberg?
+Well, there was a year when he was only eating what he was killing. He made goat for me for dinner. He killed the goat.
+
+In front of you?
+No. He killed it before. I guess he kills it. He kills it with a laser gun and then the knife. Then they send it to the butcher.
+
+A ... laser gun?
+I don’t know. A stun gun. They stun it, and then he knifed it. Then they send it to a butcher. Evidently in Palo Alto there’s a rule or regulation that you can have six livestock on any lot of land, so he had six goats at the time. I go, “We’re eating the goat you killed?” He said, “Yeah.” I said, “Have you eaten goat before?” He’s like, “Yeah, I love it.” I’m like, “What else are we having?” “Salad.” I said, “Where is the goat?” “It’s in the oven.” Then we waited for about 30 minutes. He’s like, “I think it’s done now.” We go in the dining room. He puts the goat down. It was cold. That was memorable. I don’t know if it went back in the oven. I just ate my salad.
+
+It’s hard to find a metaphor in that.
+I don’t know what you’re going to do with that, but hopefully that’s not the headline. Revenge is a dish best served warm. Or cold.
+
+Did you come away from Twitter to Square with a newfound world-conquering ambition?
+No, I don’t want to conquer the world.
+
+Some people say you were motivated by revenge or, more pleasantly, to show them that they were wrong.
+Definitely, when I started Square, I needed to prove a lot to myself. I was put in a position to do something, and I thought it was going quite well. I was surprised to learn that it wasn’t. Then I was out. I spent months trying to figure out what happened. The only way I know how to figure out what happened is just to do it again.
+
+How do you balance your admiration of someone like Steve Jobs with our current knowledge of his darker side as a human and a boss?
+I don’t know much about what he was like to work with. I’ve read the book, but there’s some counter-arguments to that as well. He resonated with me because he wasn’t just a technologist. He was an artist too. My dad was a technologist. My mom was an artist. That balance, you can’t really find that anywhere. He was the only one doing anything interesting in that regard. He was just such an icon too. He really had a sense of who he was. He was very confident and curious and just a fascinating character. I was drawn to that early on. This was at the time of Macintosh. I remember seeing that commercial during the Super Bowl. It was unlike any other thing in the world, this whole against-the-system personality and creativity. It was just so inspiring, so I had to learn about him and learn about his company. Unfortunately, he was fired two years later.
+
+What was your introduction to punk rock?
+A club in St. Louis, and a lot of basements. My favorite band at the time was Flipper. Then they led me to Operation Ivy. Then Operation Ivy led me to a bunch of the Bay Area folks. [The ska-punk band] Common Rider led me to the Coup and hip-hop. One of the things I appreciate about punk is the activism.
+
+When I got here in ’99, I immediately went to Gilman. I worked the door as a bouncer, which is funny, because look at me. It turns out that most of the people that go to Gilman are pretty harmless. There’s no alcohol. I loved it. It was a co-op, collective. I would be dancing to all these punk bands. I would look to the right, and Billie Joe Armstrong is there dancing too. He’s tiny and jumping on the stage. I’m like, “Wow, that’s really cool.” It doesn’t matter who you are, they’re all here. That’s how I got into it.
+
+Earlier, you said, “I’m a punk.” Can you be punk rock and be who you are right now? Is that really possible?
+Can I be that today? Yeah, I think so. I hope so. I think we need different takes on life. There’s a number of people who might come from a similar background as I did and be a little bit weird or odd or whatnot and see me as being weird and odd and extra: “Yeah, if you can do it, I can do it.”
+
+What did you initially respond to in punk?
+The fact that you would have these bands of three people get up onstage who were absolutely terrible. They would get booed. People would throw things at them. They would keep playing. Then they came back in two weeks, and they were a little bit better. Then they came back in two weeks, and they were much better. Then they came back in four weeks, and they were amazing.
+
+I’m fascinated by this concept of working in public and allowing people to see you get better and better as time goes on. To me, it’s what the world needs. To me, that’s one of the greatest benefits Twitter provides. Elon does it so well. He works in public. He thinks in public. He ideates in public. I got that from punk. Hip-hop has a little bit of it as well. Kanye, Life of Pablo, was that in the streaming age. “I’m gonna fix ‘Wolves.’”
+
+I wish he’d kept that going.
+Someday he’s going to fix it. It was amazing. He was the one that, finally, someone got what’s possible with streaming. You can change it at any point, and no one, to me, yet, has fully realized the medium of streaming.
+
+How do you define your spirituality?
+Not to any particular religion. Anything that builds self-awareness feels spiritual to me. I guess I feel a sense of spirituality when I feel a connection to, like, global consciousness. What I love about walking around New York is it just feels so electric and I feel connected to everything. Even though I’m not talking to anyone, it feels like I’m in a moment that’s super-dense and very, very connected. I think Twitter has some of that potential to show at least the closest thing we have to a global consciousness. Being able to tap into what people think. What the vibe is around whatever’s happening in the world. That’s how I wanna be able to use it. It’s like, what do people think about what I just did? And that’s where I think text matters over video, over images. Text is so quick to the neurons. It’s just so quick to consume. It’s so much more raw in terms of expression, where it makes you feel the feeling in it.
+
+Did you have any urge as a kid to be famous?
+I never wanted to be an entrepreneur. I never wanted to be CEO. I never wanted to be a public figure. I had this idea for a while, and I wanted it to work. That’s all. And I became a CEO because I had to. But that was it. We raise money because we had to pay people. This was all out of necessity rather than desire. I love being behind the scenes. The character I loved most in The Wizard of Oz was the wizard. ’Cause he was behind the curtain.
+ 

@@ -1,0 +1,206 @@
+name,line
+Interviewer,Nice to see you Vitalik!
+Interviewer,I am still amazed by your quality technical articles on Bitcoin Magazine.
+Vitalik,well thank you!
+Vitalik,always glad to get feedback so I know what to write more of.
+Interviewer,and to absorb all the materials on primecoin within one day and wrote such nice long article.
+Interviewer,yup avid reader here and love your articles as well :slight_smile:.
+Interviewer,that's an amazing feat.
+Vitalik,not many people toe that middle ground line between writing and advanced comp-sci I suppose.
+Vitalik,Bitcoin (and coins in general) are like that though; brings lots of things together.
+Vitalik,"anyway, I'm a big fan of what you guys are doing here too."
+Vitalik,I think you're probably the single most original altcoin developer out there.
+Vitalik,"well, there's Ripple too, but in bitcoin terms they're a large corporation."
+Interviewer,yup sunny has my vote by a mile.
+Interviewer,Thanks really appreciate it.
+Vitalik,"so, question 1."
+Vitalik,"Who are you? What's your background? Are you Sunny King in real life, or is that just an internet identity?"
+Interviewer,"Yeah it's a pen identity, similar to Satoshi's tradition I guess."
+Vitalik,any hints as to what you do outside of altcoins?
+Interviewer,Ripple is not really a coin.
+Vitalik,"I throw it in there because I think it's idea of ""consensus"" is a serious competitor to PoW/PoS, and brilliant if it can be made to work. It has problems though, no doubt about that."
+Interviewer,Although I didn't really take that extreme measures so at least some of my friends know I am doing this.
+Interviewer,The main reason is that I hope if political climate turns worse in the next couple years that I could still buy some time to make a bit more contributions.
+Vitalik,do you think it will?
+Interviewer,I did some c programming before and currently work mostly on cryptocurrency.
+Interviewer,possibly since the events this year already confirmed my concerns (and satoshi's).
+Interviewer,but I think primecoin could also help to bring another positive argument for cryptocurrency.
+Vitalik,"yep, I agree."
+Vitalik,"I'm staying in Spain right now, and it's interesting how the culture here is much more egalitarian/social oriented than, say, the US would tolerate. Among those who don't like Bitcoin, the two major arguments are (1) early adopter unfairness and (2) mining is wasteful."
+Vitalik,you've done quite well in solving (2).
+Vitalik,do you have any opinion on the early adopter issue?
+Interviewer,if so I think the market is now trying to wrestle with (1) with all these altcoins.
+Vitalik,how so?
+Interviewer,from my point of view I don't think early adopter is an 'issue' per se with bitcoin.
+Interviewer,just like the gold miners and 'hoarders' are not an issue with gold.
+Interviewer,although it does appear to me that the market force behind cryptocurrency is different from precious metals.
+Interviewer,in the old commodity money gold eventually does dominate.
+Interviewer,but it seems much harder for bitcoin to sustain such dominance in cryptocurrency.
+Vitalik,why do you say that?
+Interviewer,"one observation is that lots of miners and investors are looking at new altcoins hoping to strike it right, even if it is a pure clone without anything new."
+Vitalik,"yeah, I'm finding the interest in pure clones very strange."
+Interviewer,i guess this has to do with the early adopter issue that you mentioned.
+Vitalik,why do you think people care about them?
+Interviewer,"That also perplexs me a bit but I think the market is treating the currencies as competing companies, you know like stocks."
+Interviewer,But I also found some other deeper elements at work that may undermine bitcoin's dominance eventually.
+Interviewer,this has something to do with bitcoin's scarcity and the specialization of mining hardware.
+Interviewer,which I think underscores the rise of litecoin since last year.
+Interviewer,this I have described a bit in my design paper of primecoin.
+Interviewer,basically I think bitcoin's overall security against 51% attack would drop in the future against other competing currencies.
+Vitalik,because the block reward would keep going down.
+Vitalik,right.
+Interviewer,this could become a basis for it to lose dominance in the long term.
+Interviewer,although this is still speculation and the process likely is still years away.
+Vitalik,question
+Vitalik,"it's block reward will likely decrease quadratically (assuming Moore's law) and not exponentially, so it will be slower."
+Interviewer,but as a designer I need to be aware of the possibilities so this is part of the reasons for introducing primecoin.
+Vitalik,but a hundred years down the line they'll both be very low.
+Interviewer,"I think designing for a hundred year is unrealistic, but I do look at 20 years and possibly beyond."
+Interviewer,so primecoin tries to weaken the scacity model a bit to compensate for a sustained mining market and higher security.
+Interviewer,"bitcoin has a stronger scarcity model than gold, but i think having something closer to gold is good enough."
+Interviewer,so both ppcoin and primecoin take this approach with their scarcity.
+Vitalik,"the inverse quadratic rule, right."
+Interviewer,yeah for primecoin block value is 999/difficulty^2.
+Vitalik,question
+Interviewer,so when moore's law hit the wall it would become constant generation but still low inflation.
+Vitalik,with some fudge factor near the beginning.
+Interviewer,this is because I don't like to guess a fixed schedule.
+Interviewer,so I'd rather for market to decide when it should become more scarce.
+Interviewer,so it's design as more miners and better hardware/algorithm would mean lower production.
+Interviewer,the timing is then determined by market.
+Vitalik,"well, it's determined by the market in the exact opposite way that, say, gold supply is determined by the market."
+Vitalik,gold
+Vitalik,is there any conscious reason behind doing it that way?
+Interviewer,"not exactly, it actually still resembles gold."
+Vitalik,primecoin
+Interviewer,"more supply is temporary, just like say the 2nd week of primecoin there are a lot more production than normal."
+Vitalik,"well, that was the lag in difficulty adjustment."
+Vitalik,which is a different issue.
+Interviewer,but for gold mining it just appears on a longer time scale so it's less obvious.
+Vitalik,"now, though, my estimate of the final supply of xpm got adjusted down by 50-100 mil after that big spike."
+Interviewer,"it's not really different they are connected, for gold mining you are just moving future production to now, it's just over many years so not obvious."
+Vitalik,"hmm, that's an interesting argument actually."
+Interviewer,whereas bitcoin/primecoin adjust difficulty in a week or two.
+Vitalik,I personally have always wanted a coin with deliberately slow difficulty adjustment (eg. timespan of 3-12 months); seems like that would also approximate gold in a different way.
+Interviewer,that wouldn't work well because block spacing would be destroyed.
+Vitalik,true.
+Interviewer,for example several altcoins got stuck at high difficulty after the first few days.
+Vitalik,maybe make difficulty adjustment rapid but increase the reward for some time instead....
+Vitalik,threre are many ideas.
+Interviewer,it's generally agreed now that bitcoin's 2-week adjustment schedule is not suitable for a new altcoin.
+Vitalik,"the problem there wasn't the 2-week schedule, so much as the 2016 block schedule."
+Vitalik,"if your diff is 10x too high, that."
+Vitalik,is 20 weeks.
+Vitalik,"anyway, I saw you made an interesting post a month ago on the ppcointalk forums."
+Vitalik,http://www.ppcointalk.org/index 7... sg1715.
+Interviewer,"yeah this problem was actually hit by namecoin, the first altcoin so they developed merge mining for this."
+Interviewer,yeah that's strategic reason for the design of primecoin.
+Vitalik,talking about what your strategy with Primecoin was.
+Vitalik,"so you think that the proof-of-* mechanism is essentially the major part of Bitcoin that can be improved, and want the community to focus more on looking for and promoting solid alternatives."
+Interviewer,"of course first I had to have the idea that a primecoin could technically work, but then i am looking for reasons why we should run two coins so primecoin can be made."
+Vitalik,is that accurate?
+Interviewer,so that's primecoin strategic reason.
+Interviewer,So from late last year litecoin has spectacular rise that made me think about why and the competive position of ppcoin vs litecoin.
+Interviewer,it's possible that market would favor something simpler than ppcoin in the shorter term e.g. next couple years.
+Interviewer,so primecoin would be a good candidate in the sense that it's designed to have most litecoin's so-called advantage over bitcoin.
+Interviewer,yet still being innovative and brings new ideas.
+Vitalik,in terms of new ideas.
+Vitalik,"I saw somewhere, whether in the source code or the discussions, that you were working on some kind of improved checkpointing system for ppcoin and/or primecoin."
+Vitalik,something not quite so centralized.
+Interviewer,"yeah its already in primecoin, it's an updated version of ppcoin's checkpoint system."
+Interviewer,even ppcoin's checkpoint is not meant to stay centralized forever.
+Interviewer,and it's going to work similarly in ppcoin in the future as well.
+Vitalik,so how does this new checkpointing system work?
+Interviewer,"basically developers can broadcast a checkpoint to the network, and if an user turns on the checkpoint enforcement in the node then it would follow the block chain fork of the checkpoint."
+Interviewer,this means that if the majority of network enforces the checkpoints then developer has power to thwart a sustained 51% attack.
+Interviewer,while the network is turning into a temporary centralization mode.
+Interviewer,although there are built-in checks to ensure even in the checkpoint mode developers cannot arbitrarily abuse his power.
+Vitalik,how did the system work before?
+Interviewer,in ppcoin right now the checkpoints are enforced by default so users have no say in whether to follow it or not.
+Vitalik,"ah, okay, so hardcoded into software essentially."
+Interviewer,yeah but it will be switched over in the future.
+Vitalik,Although there are built-in checks to ensure even in the checkpoint mode developers cannot arbitrarily abuse his power <- what kinds of built-in checks are you talking about?
+Interviewer,the system is designed because threat of 51% attack is real with altcoins.
+Interviewer,there is a consistency check with checkpoints.
+Interviewer,meaning that developers cannot issue conflicting checkpoints and force double-spending on the network.
+Interviewer,"for example, say developer checkpoint is issued on a block with 6-confirmations, then you can treat the transaction confirmed earlier than the checkpoint is safe."
+Interviewer,he cannot invalidate that checkpoint and ask the network to go into another block chain fork.
+Vitalik,what if a developer sends two conflicting checkpoints to two parts of the network at the same time?
+Vitalik,"so half picks up one first, half picks up the other."
+Interviewer,that would cause the network to fork and requires manual intervention like restarting or upgrading client.
+Vitalik,"okay, makes sense."
+Vitalik,"if it was perfect, you would just use it instead of the pow/pos in the first place."
+Interviewer,in primecoin user could also then ignore checkpoint and just follow the fork with more work.
+Interviewer,"checkpoint is a temporary centralization defense against 51%, not on the same level as PoW or PoS."
+Vitalik,"is it a jsonrpc command to do this, or are you planning on adding a GUI as well?"
+Interviewer,oh the Qt now has debug window which can do all the rpc commands.
+Vitalik,"right, forgot about that."
+Vitalik,so what are the next steps / near-term goals in primecoin development at this point?
+Interviewer,but if needed we could add it as an option setting.
+Interviewer,"I think infrastructure and marketing would be the top priority for primecoin, more exchange support, mining pools and so on."
+Interviewer,the team is also expanded quite a bit so primecoin shouldn't lag behind while I work on ppcoin v0.4.
+Vitalik,are you planning on integrating the latest btc features eventually? (eg. payment protocol).
+Interviewer,sure both primecoin and ppcoin should keep reasonably up-to-date with bitcoin features.
+Interviewer,right now primecoin is ahead of ppcoin in this regard.
+Vitalik,what is ppcoin 0.4 going to have? The advanced checkpointing system?
+Interviewer,"It's mainly a refresh to bitcoin v0.8 features, but there could also be some adjustment on certain protocols."
+Interviewer,the checkpoint would be adjusted a bit also but it won't be as decentralized as in primecoin yet.
+Interviewer,btw ppcoin now has numerous copies in the market and i have now stopped counting them.
+Vitalik,yeah it seems like proof of stake is slowly becoming more accepted.
+Vitalik,"also, as far as proofs go, in the ppcoin paper you mentioned a third possibility."
+Interviewer,just past several weeks saw at least three copies released in china and went into speculative frenzy.
+Vitalik,"""proof of excellence""."
+Vitalik,could you elaborate a bit more on that idea?
+Interviewer,it's a concept although there is no concrete designs around this concept.
+Interviewer,it's based on that a tournament result of some games is difficult to forge.
+Interviewer,for example you cannot go to a tennis tournament to win prizes without having some serious skills.
+Vitalik,so a coin might have some kind of internal AI tournament?
+Vitalik,best programmers win and get to mine some blocks.
+Interviewer,so it's a possible candidate to replace the functions of proof-of-work.
+Interviewer,Yeah that's the idea.
+Interviewer,It doesn't have to be AI it can be done between humans as well.
+Vitalik,true.
+Vitalik,although coins don't really have a way of distinguishing between human players and bots.
+Vitalik,the only challenge I know of that humans are better at is Go.
+Interviewer,right and most games AI can play better than human.
+Interviewer,I actually looked at Go and I think even for that the network would be dominated by bots.
+Interviewer,because there is already very good Go AI and very few pro level Go players.
+Vitalik,yeah.
+Vitalik,and ideally you do want the system to be somewhat egalitarian.
+Vitalik,as otherwise one party might get 51%.
+Vitalik,eg. whoever has the best go algorithm.
+Vitalik,that's probably the hard part about implementingit.
+Interviewer,that's one of its issues because its distribution is a lot more concentrated than proof-of-work.
+Interviewer,Vitalik do you sense a general change of attitude toward altcoins?
+Vitalik,yes.
+Vitalik,I can feel it.
+Interviewer,I am actually quite surprised that Bitcoin Magazine carried primecoin the first day since my impression earlier was that there was no interest.
+Vitalik,"six months ago, altcoins were almost irrelevant."
+Interviewer,and only time i saw anything mentioned was ripple.
+Vitalik,consider this.
+Vitalik,teleport yourself to Dec 2008.
+Vitalik,simultaneously release bitcoin and primecoin.
+Vitalik,which one do you think people will like more?
+Vitalik,I think primecoin might be the first one to actually beat Bitcoin on that test.
+Vitalik,"litecoin was nice, but scrypt is overcomplicated."
+Vitalik,"ppcoin is, as you said, too complex."
+Vitalik,Ripple is also too complex.
+Vitalik,it can only survive because Bitcoin came first to ease people into the idea of cryptocurrency.
+Vitalik,I think people are slowly realizing that there are still serious improvements to the core idea of cryptocurrency that can be made.
+Vitalik,and at the same time the community got big enough to support them all.
+Vitalik,"here in Calafou (place in Spain), ever since I introduced the locals to Primecoin people have been thinking, since we have one example of a useful PoW, what else can we do?"
+Interviewer,yeah i got a few messages regarding ideas of other useful work types.
+Vitalik,we came up with the idea of an AI challenge-based coin independently too (although no progress toward anything practical).
+Vitalik,what do you think are some promising directions?
+Interviewer,that's what I hope primecoin would inspire other designers to do.
+Interviewer,"I am not sure, there seems quite a bit demand to monetize F@H, and I heard Pande is looking at the matter seriously."
+Interviewer,But it's not easy to come up with a proper decentralized design.
+Interviewer,"The things is, the innovative systems are quite costly to develop, and the market doesn't seem to reward original ideas that well in the altcoin arena."
+Vitalik,F@H?
+Vitalik,"ah, folding at home."
+Interviewer,So i have seen a lot of such attempts fail because of lack of funding for development.
+Vitalik,"yeah, the problem there is how you make it uncheatable."
+Vitalik,"alright, anything else you wanted to talk about?"
+Interviewer,that's a good chat thanks a lot Vitalik.
+Interviewer,yeah we've covered quite a bit.
+Vitalik,"alright, thank you too!"

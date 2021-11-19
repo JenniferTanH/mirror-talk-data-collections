@@ -1,0 +1,663 @@
+NEIL DEGRASSE TYSON: On this episode of NOVA scienceNOW: Long before the dinosaurs disappeared, life on Earth was nearly wiped out.
+
+SAMUEL BOWRING (Massachusetts Institute of Technology): This is probably the most profound extinction of animal life.
+
+NEIL DEGRASSE TYSON: For years, the killer was a mystery, but now researchers think it could be something we're all familiar with, today.
+
+PETER WARD (The University of Washington): Smell that.
+
+NEIL DEGRASSE TYSON: Ooh, yeah, smells like rotten eggs.
+
+PETER WARD: Rotten eggs, yeah. This is...
+
+NEIL DEGRASSE TYSON: And the trigger could be all around us.
+
+PETER WARD: ...this terrible gas chamber atmosphere. It's not so much stuff from space that gets you; it's your own planet.
+
+NEIL DEGRASSE TYSON: Talk about extinction. This scientist has brought back to life one of the most lethal viruses in history, the 1918 flu.
+
+IAN A. WILSON ( The Scripps Research Institute): This killed, probably, at least 50 million people worldwide.
+
+NEIL DEGRASSE TYSON: What was he thinking?
+
+TERRENCE TUMPEY (Centers for Disease Control and Prevention): We felt like it was important to actually reconstruct this virus.
+
+NEIL DEGRASSE TYSON: What he's learned might unlock the secrets of how the avian flu, the one we're worried about now, could spread, infect and possibly kill millions.
+
+TERRENCE TUMPEY: Maybe we can figure out how to stop it.
+
+NEIL DEGRASSE TYSON: And you'll meet this guy...
+
+MATT BERLIN ((Massachusetts Institute of Technology): Hello, Leo. Can you hear me?
+
+NEIL DEGRASSE TYSON: He was designed by an engineer who's building sociable robots.
+
+WOMAN (NEEDS NAME AND IDENTIFIER): You're such a cute little robot.
+
+NEIL DEGRASSE TYSON: Robots that one day may even become our friends, with feelings and emotions. Wait a minute, an emotional robot?
+
+CYNTHIA BREAZEAL (Massachusetts Institute of Technology): I do think, in time, people will have, sort of, relationships where they might feel that it is a friendship, but it's going to be of a robot-human kind.
+
+MATT BERLIN: Can you find Elmo?
+
+NEIL DEGRASSE TYSON: All that and more on this episode of NOVA scienceNOW.
+
+Google is proud to support NOVA in the search for knowledge: Google.
+
+Major funding for NOVA scienceNOW is provided by the National Science Foundation, where discoveries begin.
+
+And The Howard Hughes Medical Institute, serving society through biomedical research and science education: HHMI.
+
+Additional funding is provided by the Alfred P. Sloan Foundation, to portray the lives of men and women engaged in scientific and technological pursuit.
+
+And the George D. Smith Fund.
+
+Major funding for NOVA is also provided by the Corporation for Public Broadcasting, and by PBS viewers like you. Thank you.
+
+MASS EXTINCTION
+NEIL DEGRASSE TYSON: Hello, I'm Neil deGrasse Tyson, your host for NOVA scienceNOW.
+
+We all know that Earth is brimming with life, all kinds of life, as it has been for most of the last 600 million years. But every now and then, something happens. Earth becomes a very unfriendly place, and most life can't survive. It's called mass extinction. We know it's happened over and over again, in the deep past, but we don't always know why.
+
+In a remote Nevada desert, a team of investigators is trying to solve an old murder mystery.
+
+SAM BOWRING OFF CAMERA: So yeah, this looks good.
+
+NEIL DEGRASSE TYSON: And I mean old; the victims were knocked off about 250 million years ago, in an ancient mass extinction.
+
+SAM BOWRING: Based on the fossil record, this is probably the most profound extinction of animal life.
+
+DOUGLAS H. ERWIN (Smithsonian Institution): There's no other time, in the last 600 million years, that you wipe out 95 percent of all the species in the ocean.
+
+NEIL DEGRASSE TYSON: Geologist Sam Bowring and paleontologist Doug Erwin think this hillside might be a scene of the crime. They're looking for clues to find out what caused the mysterious end of the geological time period known as the Permian.
+
+PETER D. WARD (University of Washington): The Permian world, and the extinction that ended the Permian world, really reset the nature of life on this planet.
+
+NEIL DEGRASSE TYSON: Paleontologist Peter Ward has spent years collecting fossils from the strange time of the Permian.
+
+PETER WARD: Permian would have looked very different to us. Let's say we go back there, we look around: no flowers, no flowering plants; there's not even dinosaurs. This is before dinosaurs. There probably wasn't a single animal on the planet with fur.
+
+NEIL DEGRASSE TYSON: True mammals hadn't evolved yet, but their ancestors were there, animals like this Lemurosaurus.
+
+PETER WARD: This is a mammal-like reptile, probably small-dog size. This animal is a carnivore. It really has a dog-like appearance. We can see this great big piercing tooth.
+
+NEIL DEGRASSE TYSON: Clearly making him a predator.
+
+PETER WARD: Yeah, but this entire group dies out in the extinction itself.
+
+NEIL DEGRASSE TYSON: There were creatures right out of a science fiction movie, like plant-eating Lystrosaurs, and, ruining their day, monstrous Gorgons.
+
+The extinction ravaged the oceans, once filled with exotic animals. But then, about 250 million years ago, almost everything on sea and land died. So, who's the culprit? What could kill off so much life? Could it be climate change? Global warming? Or would you need something from out of this world?
+
+There've been at least five major extinctions in the last 600 million years. Most of us have heard of one, at the close of the Cretaceous, ending of the reign of the dinosaurs. That happened about 65 million years ago, when an asteroid the size of Mount Everest slammed into our planet, leaving a giant crater near what is now Mexico.
+
+So we know the dinosaurs were knocked off by a giant rock that fell from the sky; and we also know that these rocks hit Earth from time to time; so when we try to figure out what caused all the mass extinctions of the past, shouldn't it just make sense that they'd also be caused by comets and asteroids?
+
+PETER WARD: I went into this controversy fully expecting to find all the evidence for impact. And at the end of the Cretaceous, we see this. We see lots of comet material or asteroid material.
+
+NEIL DEGRASSE TYSON: Not to mention the crater, of course.
+
+PETER WARD: Not to mention the crater, least of all the crater.
+
+NEIL DEGRASSE TYSON: So you've got the smoking gun, the gun, and the bullets, and, of course, the dead bodies, I guess.
+
+PETER WARD: Well, the only thing we have at the end of the Permian is...are the dead bodies.
+
+NEIL DEGRASSE TYSON: So, if asteroids and extinction don't necessarily go hand in hand, what does Earth do with all those asteroids that come our way?
+
+SAM BOWRING: The Earth is hit by asteroids all the time, big ones, doesn't cause mass extinction. Why not look for something a little bit different?
+
+NEIL DEGRASSE TYSON: But where can we find that something?
+
+SAM BOWRING: Here's the boundary, right here.
+
+NEIL DEGRASSE TYSON: This Nevada hillside might be one of a few existing Permian crime scenes in North America, but the team must date the rocks, to see if they're the same age as the extinction.
+
+SAM BOWRING: Timing is everything. You have to have rocks that can be dated precisely.
+
+NEIL DEGRASSE TYSON: Back at the lab, the team breaks down the rock. Rare elements reveal when the rock formed. The results? About 250 million years old.
+
+So this is a crime scene. But where's the killer? What kind of a disaster, other than an asteroid, could destroy so much life?
+
+One of the prime suspects is an ancient group of volcanoes, now dormant, whose remains lie in eastern Russia. Known as the Siberian Traps, these were no ordinary volcanoes.
+
+DOUG ERWIN: Most people, when they think of volcanoes, think of Mount St. Helens or Mount Pinatubo. That's nothing like these volcanic episodes.
+
+NEIL DEGRASSE TYSON: The Siberian Traps oozed lava for up to a million years, smothering an area about the size of the continental United States, in some places, over a mile deep.
+
+SAM BOWRING: That is a lot of lava.
+
+NEIL DEGRASSE TYSON: Sure is. But still, the lava was in Siberia, not in the rest of the world, not in the whole ocean. So why would almost everything on Earth die?
+
+Marine geochemist Lee Kump thinks he's found the answer. The key is in how big volcanoes could change the environment, including the chemistry of the Permian ocean.
+
+To test his idea, he designed a computer model to simulate the Permian world.
+
+LEE KUMP (The Pennsylvania State University): So the model starts out like a weather forecasting model or a climate model: it has the winds; there's the ocean currents that are driven by those winds; there are temperature variations. But the model also has life in it.
+
+NEIL DEGRASSE TYSON: All plants and animals and bacteria are, in fact, chemical factories, taking in nutrients and spewing out waste products. With life's chemistry factored in, Lee's model reveals a disturbing chain of events.
+
+It all starts with the Siberian Traps, but the trigger is not the incessant flow of lava, which would burn and bury any life nearby. No, the real culprits are the gases that the volcanoes spew into the atmosphere, including one we've all heard of lately, carbon dioxide.
+
+LEE KUMP: Carbon dioxide that's spewing out of these volcanoes is a greenhouse gas.
+
+NEIL DEGRASSE TYSON: Greenhouse gases trap the Sun's heat in our atmosphere, forcing the whole Earth to warm up. Of course, that's global warming. But it doesn't end there. Global warming would have heated the Permian ocean, and when it did, ocean chemistry would have changed dramatically.
+
+LEE KUMP: There's a difference between warm and cold water. Cold water can hold more gas than can warm water. And so this is, fundamentally, why we drink champagne and beer and soda cold, rather than warm.
+
+NEIL DEGRASSE TYSON: What's true for champagne, beer or soda is also true for the ocean and one of its most important gases, oxygen.
+
+LEE KUMP: Cold water can hold a lot of oxygen. Warm water can't hold much oxygen.
+
+NEIL DEGRASSE TYSON: And if water loses its oxygen, things can go from bad to worse.
+
+Lee and his research team have seen this firsthand, at Green Lakes in central New York State. This lake is narrow and deep, and there's little wind. As a result, the deeper waters have lost their oxygen.
+
+LEE KUMP: It's safe to swim in this lake, as long as you stay above 70 feet.
+
+NEIL DEGRASSE TYSON: Below that, the oxygen-free water has attracted a deadly form of bacteria.
+
+LEE KUMP: There are bacteria that can thrive under those conditions, and those bacteria produce hydrogen sulfide. Hydrogen sulfide is a very toxic substance, and so, the deep part of this lake is highly poisonous.
+
+NEIL DEGRASSE TYSON: It's also bright pink.
+
+LEE KUMP: Here you go.
+
+When we bring these samples to the surface, of course, they're rich in hydrogen sulfide. They stink like rotten eggs, and they're poisonous.
+
+KATJA (Research team member): Oh, that stinks! Yuck.
+
+NEIL DEGRASSE TYSON: The bright pink color comes from another microbe, purple sulfur bacteria, that thrive in hydrogen sulfide. Bacteria like these can leave chemical traces in ancient rocks. In fact, such traces have been found in some rocks dating to the Permian extinction.
+
+For Lee, it's a sign that the Permian ocean might have resembled this poisonous lake.
+
+LEE KUMP: This lake is a microcosm of what we think the ocean was like in the late Permian.
+
+NEIL DEGRASSE TYSON: According to Lee's computer model, over time, the oceans would have become so full of hydrogen sulfide that in some spots, the deadly gas would have bubbled right out into the atmosphere, killing millions of creatures, not only in the sea, but also on the land.
+
+The deadly microbes under suspicion aren't rare. They thrive wherever there's water and no oxygen, as Peter Ward showed me, on an ordinary beach, at low tide.
+
+PETER WARD: Even here, we're on a beach in Seattle, we only have to go down about two inches to see, sort of, the next step, in what we think is this extinction mechanism. There. Smell that.
+
+NEIL DEGRASSE TYSON: Ooh, yeah, smells like rotten eggs.
+
+PETER WARD: Rotten eggs. So, this is hydrogen sulfide from bacteria in the sediment. So, let's just take those bacteria, put them in the ocean and have untold tons of them.
+
+NEIL DEGRASSE TYSON: Having...have it run amok.
+
+PETER WARD: Everywhere. The oceans are bacteria filled. And they're producing that same nasty rotten-egg smell, but in sufficient quantity, not just to kill stuff in the water, but enough goes in the atmosphere to kill land life.
+
+NEIL DEGRASSE TYSON: So it burps up this noxious gas.
+
+PETER WARD: Big bubbles come out of the oceans, and it will kill off animals and plants.
+
+NEIL DEGRASSE TYSON: And so, an extinction that began in the ocean works its way to the land.
+
+PETER WARD: Exactly. It's horrible.
+
+NEIL DEGRASSE TYSON: So it starts with volcanoes spewing carbon dioxide; next step: global warming. The oceans heat up and lose their oxygen, nasty bacteria take over, burping out lots of poisonous gas. End result? Mass extinction.
+
+Peter Ward is convinced this was the scenario, not just for the Permian, but for most of the other big extinction events, too.
+
+PETER WARD: What really looks like a universal way that this has happened is this global warming, leading to this terrible gas chamber atmosphere killing off life in the ocean and land. It's not so much stuff from space that gets you; it's your own planet.
+
+NEIL DEGRASSE TYSON: The Nevada rocks offer some support for the idea, at least for the Permian. This whole area was once at the bottom of an ocean, and tests on the rocks have revealed that, in the years leading up to the extinction, the deep ocean water here had lost its oxygen.
+
+The next step will be to probe these rocks for telltale signs of that nasty bacteria and hydrogen sulfide.
+
+Until there's more evidence, the detectives won't all agree that the case is closed. But these experts are convinced that Earth's own environment could be the perpetrator of a mass extinction, whether it's 250 million years ago or right now.
+
+SAM BOWRING: We know, for a fact, that there have been huge changes in the environment, in climate change. That could happen again today, no asteroids required. The Earth is an incredibly dynamic place, lots happening. We have to understand those changes if we want to survive.
+
+1918 FLU
+NEIL DEGRASSE TYSON: With winter come fears of the flu, and sometimes the flu can be deadly, especially the bird flu. You've all heard of it. It's a virus that people catch from birds like chickens. It's already killed hundreds of people.
+
+Fortunately, this bird flu does not spread easily from person to person, but if it evolves a way to do that, we could be in big trouble.
+
+Correspondent Chad Cohen met up with folks who are trying to stop that from happening by taking a closer look into our past, at the most deadly viral outbreak ever.
+
+CHAD COHEN (Correspondent): Whatever scary things are lurking in the back of your freezer, I'll venture a guess you've got nothing on Terrence Tumpey. Getting into his deep freeze, at the CDC in Atlanta, is like prepping for a spacewalk.
+
+Frozen inside, sits a tiny vial of what might be the deadliest pathogen in history, a virus that hadn't been seen in almost 90 years, the 1918 flu, until Tumpey brought it back from the dead.
+
+IAN WILSON: 1918 was the worst pandemic we've seen for any virus, and this killed, probably, at least 50 million people worldwide.
+
+CHAD COHEN: In 1918, flu took three times as many lives as all of World War I.
+
+IAN WILSON: So the question is, "Why was it, in 1918, so different? Why did it cause so many excess deaths, compared to other pandemics?"
+
+CHAD COHEN: And could a flu that deadly strike again?
+
+We do know where all flu viruses get their start: in the digestive tracts of birds.
+
+TERRENCE TUMPEY: They just happily co-exist there, not causing disease, for the most part, in wild birds.
+
+CHAD COHEN: But every once in a while, an ordinary bird flu changes.
+
+TERRENCE TUMPEY: It's a mistake in nature. These viruses actually get out and infect other hosts.
+
+CHAD COHEN: Hosts, like people. That's what scientists think may have happened in 1918.
+
+IAN WILSON: The thought was that, in 1918, the virus did cross the species barrier and directly infect humans.
+
+CHAD COHEN: That's one theory, at least. And when a virus that begins in birds gains the ability to pass from human to human, infecting our lungs, spreading through coughs and sneezes, no one's immune because it's never been around before. And that's when a pandemic occurs.
+
+We're hearing a lot, recently, about the threat of a new pandemic, the avian flu. It's quite lethal, transmitted through close contact with birds, to people who work and live near birds.
+
+TERRENCE TUMPEY: Fortunately this virus has not figured out how to efficiently transmit itself from human to human.
+
+CHAD COHEN: Infected people, in other words, cannot infect other people.
+
+The question is will they ever be able to? And if so, how? And when this virus does strike, why does it kill?
+
+Terrence Tumpey believes he can find the answers by experimenting with a flu that transmitted and killed very well, the 1918 virus.
+
+TERRENCE TUMPEY: By having this in hand, we can actually try to understand better how these pandemic flu viruses work.
+
+CHAD COHEN: There was just one small problem: the 1918 virus hadn't been around for nine decades.
+
+JEFFREY K. TAUBENBERGER (Armed Forces Institute of Pathology): No one had ever been able to study the 1918 virus, this horrible killer virus, because there were no isolates.
+
+CHAD COHEN: No living samples. But biologist Jeffrey Taubenberger, searching through preserved tissue samples of World War I soldiers, was able to recover the 1918 flu's genetic code. Somewhere, buried within, are instructions that gave it the ability to kill. But where?
+
+TERRENCE TUMPEY: Unfortunately, when you look at the genetic sequence, the blueprint of this virus, there's no smoking gun that tells us that this particular virus is lethal.
+
+CHAD COHEN: Tumpey couldn't find an answer by simply reading a recipe for the 1918 flu virus, he needed to experiment with the real thing.
+
+TERRENCE TUMPEY: We felt like it was important to actually reconstruct this virus.
+
+CHAD COHEN: That's right, he said, "reconstruct," rebuild the 1918 flu from scratch, one of the most lethal viruses we've ever known.
+
+Using Taubenberger's recipe and a technique called reverse genetics, scientists at the Mount Sinai School of Medicine added all the chemical building blocks in the right order and the right amounts, and it worked.
+
+They created a living 1918 virus so nasty that when Tumpey exposed lab mice to it, they were all dead in just three days.
+
+TERRENCE TUMPEY: I was quite surprised. I didn't anticipate that they would die that quickly. That was very quick.
+
+CHAD COHEN: And it was just what happened to humans in 1918. Unlike normal flu strains, which can only infect high in the respiratory tract, the 1918 virus attacked tissue deep in the lungs, as well, and that's a vulnerable spot.
+
+TERRENCE TUMPEY: ...the delicate areas of our lung tissues, causing this extreme inflammation, resulting in death.
+
+CHAD COHEN: The 1918 flu so badly inflamed those areas of its victims' lungs that many died through suffocation. And, as it happens, that's just how the avian flu kills, too.
+
+TERRENCE TUMPEY: Those are important characteristics and similarities among the 1918 virus as well as the avian virus.
+
+CHAD COHEN: So, these two deadly viruses attack similar parts of the lungs, but that still doesn't answer the biggest question: "Will the avian flu ever transmit from people to people like the 1918 virus did?"
+
+Well, first, let's back up a little bit. How does flu infect us in the first place?
+
+So this is what flu looks like under a microscope?
+
+TERRENCE TUMPEY: Electron microscope, yeah.
+
+CHAD COHEN: An actual flu virus, but for our purposes, let's represent a virus by this unpleasant fellow.
+
+For all his nastiness, he isn't all that complex. In fact, he only has eight genes. We, by comparison, have more than 20,000.
+
+We're going to look at two of these eight flu genes: one, because it's responsible for getting the virus into a cell, and the other, for getting it out again.
+
+Flu gets into cells with the "hemagglutinin" gene.
+
+IAN WILSON: So, in order to penetrate cells, you could imagine that the hemagglutinin was sort of like a key.
+
+CHAD COHEN: A key, which we'll refer to simply as "H." And that key unlocks the cell, so that the virus can get inside.
+
+TERRENCE TUMPEY: If it gets into your cell, it will take over the machinery of the cell and start making more copies of itself.
+
+CHAD COHEN: But now the virus has a problem. These copies are stuck to that cell. That's where the other gene comes in. It's called Neuraminidase, or "N," for short.
+
+TERRENCE TUMPEY: Neuraminidase is critical for release.
+
+CHAD COHEN: Getting back out?
+
+TERRENCE TUMPEY: Getting back out.
+
+CHAD COHEN: The virus copies use N to cut themselves free. And now each of them, armed with their own Hs and Ns, are off to infect more cells.
+
+In birds, there are 16 different kinds of H genes and nine N genes. Every flu is some combination of these. Humans have only caught a few.
+
+The Hong Kong flu, which killed nearly a million people when it broke out, in 1968, gets in with H3 and out with N2. So it's called H3N2. In 1918, the virus, which killed 50 million people, was H1N1. Now there's the avian flu that's got everyone so worried, and it has a new combination of Hs and Ns: H5N1.
+
+The avian flu's H key, or hemagglutinin gene, can open the lock between birds and people, that is, transmit from birds to humans. But it still cannot open the lock between people and spread from one person to another, yet.
+
+But here's the problem: once it's in our bodies, the hemagglutinin gene can change. It's as if it can fit the lock, but it can't turn it, which would be great, if it stayed that way. But a virus's genetic recipe constantly changes, or mutates, as scientists like to say. And if just the right changes take place in the hemagglutinin gene, those changes could open the lock, allowing it to spread between people.
+
+But exactly what are those changes?
+
+Going back to Taubenberger's recipe for the 1918 virus, Ian Wilson and his colleagues at the Scripps Research Institute found the answer to what the 1918 virus may have needed to spread between humans. They pinpointed two changes, or mutations.
+
+IAN WILSON: Only two mutations were sufficient to change the virus's hemagglutinin to adapt to human receptors.
+
+CHAD COHEN: So could those same two mutations in the avian flu's hemagglutinin gene allow it to spread between humans also?
+
+To find out, they tried those same two mutations.
+
+IAN WILSON: To our surprise, we found that, in fact, we couldn't very easily change it with the mutations that occurred in 1918. So that suggests that it might actually be a little bit more difficult, and it might take a little bit more time, for an H5N1 virus to be able to adapt to human lung cells.
+
+CHAD COHEN: And that's good news. The Scripps team believes the H5N1, or avian, flu doesn't seem to adapt easily, so that people can infect other people.
+
+Back at the CDC, Tumpey is taking a different approach to find out why these viruses are so deadly. Instead of experimenting with tiny variations in a flu gene, Tumpey is testing entire genes. He's looking at each of the 1918 virus's eight genes, one by one by one, to see which ones caused it to be so lethal and which ones should be the target of new antiviral drugs. He started with that H key gene.
+
+He took one from his 1918 virus and put it in an ordinary seasonal flu.
+
+TERRENCE TUMPEY: ...a contemporary influenza strain that doesn't kill, and, all of a sudden, it was lethal.
+
+CHAD COHEN: And when he did the reverse, took the H key from an ordinary flu and put it on a 1918 virus...
+
+TERRENCE TUMPEY: The virus was no longer lethal; it didn't cause disease.
+
+CHAD COHEN: So all signs seem to point to the H key, or H.A., as scientists call it, as being, at least partly, responsible for lethality.
+
+TERRENCE TUMPEY: Well, there's something very intriguing about the H.A.
+
+CHAD COHEN: So intriguing that, now, Tumpey is planning to do something pretty radical: put the hemagglutinin gene from the 1918 flu virus into the avian flu virus, to see if he can create an avian flu virus that can spread from person to person.
+
+You want to combine H1, 1918, with H5? What's going on there?
+
+TERRENCE TUMPEY: I think it will be important, as a set of experiments to understand how H5N1 works. And by mix-and-matching it with genes from a virus that actually did that quite well, the 1918 virus, we are hopeful that we can figure that out.
+
+I think, from a scientific point of view, this is the only way to understand how these pandemic viruses work.
+
+CHAD COHEN: Tumpey is one of the few people in the world who has the clearance to work with a live 1918 flu virus.
+
+TERRENCE TUMPEY: So if we can figure out how to slow it down, studying this virus as a model virus, then perhaps we'll advance our knowledge on the avian H5N1 virus as well. Maybe we can figure out how to stop it.
+
+CHAD COHEN: If Terrence Tumpey has his way, the virus that took so many lives in the past may help prevent another from taking more lives in the future.
+
+PROFILE: CYNTHIA BREAZEAL
+NEIL DEGRASSE TYSON: Life, today, revolves around technology, and when something goes wrong, it can be so frustrating. Sometimes, you just wish machines could be a bit more helpful, nicer.
+
+VOICE FROM MACHINE: Neil, this one's stuck.
+
+NEIL DEGRASSE TYSON: Thank you.
+
+PRINTER: You're welcome.
+
+NEIL DEGRASSE TYSON: Well, here's a scientist who wants to change things. She's working hard to design machines that are so much like us, we might even consider them our friends.
+
+PRINTER: Friends.
+
+NEIL DEGRASSE TYSON: This is Leonardo, and today is his annual checkup, or maybe I should say tune-up.
+
+RICHARD LANDON (MIT): A little of both.
+
+CYNTHIA BREAZEAL: It's both. It's a checkup and a tune up. Yeah.
+
+NEIL DEGRASSE TYSON: You see, Leonardo is a robot, but the engineer who designed him thinks of him as much more than a machine.
+
+CYNTHIA BREAZEAL: Do we have the tongue again? Where's Jessie? Jessie?
+
+NEIL DEGRASSE TYSON: Cynthia Breazeal thinks of him as a "creature."
+
+CYNTHIA BREAZEAL: And does the nose wrinkle?
+
+It's ready to go.
+
+Okay, cool.
+
+NEIL DEGRASSE TYSON: That's because, when Leonardo's been put back together and has his fur coat on, he's what you call a "sociable robot,"...
+
+MATT BERLIN: Hello, Leo. Can you hear me?
+
+NEIL DEGRASSE TYSON: ...a new breed of robot that Cynthia and her students are designing, in the Robotic Life lab at MIT.
+
+CYNTHIA BREAZEAL: This is the most amazing place you can imagine.
+
+MATT BERLIN: It's like working in Santa's workshop.
+
+Leo, this is Elmo. Can you find Elmo?
+
+NEIL DEGRASSE TYSON: Cynthia's goal is to make robots that aren't just smart, but that can learn the way people do, communicate the way people do, even become our friends.
+
+CYNTHIA BREAZEAL: What does it really mean to design a robot that understands and interacts and treats people as people?
+
+NEIL DEGRASSE TYSON: If anyone can answer this question, it'll be Cynthia Breazeal.
+
+BOBBY BLUMOFE (Cynthia Breazeal's husband): She's fearless, so she tries anything. And she just seems to have no concern, whatsoever, that it might fail. She just does it. And I can't think of any cases where it actually has failed.
+
+CYNTHIA BREAZEAL: If you look at the field of robotics today, you can say robots have been in the deepest oceans, they've been to Mars, you know? They've been all these places, but they're just now starting to come into your living room. Your living room is the final frontier for robots.
+
+NEIL DEGRASSE TYSON: That's because the living room is not an easy place for a robot to exist.
+
+After all, robotic vacuums, like this one, that are supposed to clean your house by themselves, can't tell the difference between a chair leg and a human leg. They're just things to avoid, or, in this case, escape from.
+
+But for robots to become more than just tools, for them to become our partners, as Cynthia hopes, they need the same social skills as people, including emotion.
+
+CYNTHIA BREAZEAL: Through our evolution, we're so specialized for social interaction. So, if you can really design robots that can interact with people, in this very natural, interpersonal way, I think that would be great. You wouldn't have to have people read manuals, in order to operate them. They'd be able to just interact with a robot the way that they would want to, which we think will be as people interact with other living things.
+
+NEIL DEGRASSE TYSON: But wait a minute.
+
+ANTHONY DANIELS As Voice of C3PO From Star Wars: I've had just about enough of you.
+
+NEIL DEGRASSE TYSON: Robots with emotion? Isn't that just something from the movies?
+
+In Cynthia's case, that's exactly where it started.
+
+CYNTHIA BREAZEAL: I was about 10 years old, and I saw the first Star Wars movie.
+
+ANTHONY DANIELS As Voice of C3PO From Star Wars: Excuse me, sir, but that R2 unit is in prime condition, a real bargain.
+
+CYNTHIA BREAZEAL: You saw R2D2 and C3PO, and it was, like, that is the coolest thing I've ever seen.
+
+ANTHONY DANIELS As Voice of C3PO From Star Wars: Now, don't you forget this.
+
+CYNTHIA BREAZEAL: R2D2 and C3PO were really kind of your, your sidekicks. They were really kind of your, your friends.
+
+BOBBY BLUMOFE: That was really sort of the beginning of her inspiration to do what she does now.
+
+NEIL DEGRASSE TYSON: The daughter of two scientists, Cynthia had robots on the brain, and in third grade in Livermore, California, she wrote a story that was strangely prophetic.
+
+CYNTHIA BREAZEAL: I talked about this robot that stole huckleberry pies, that apparently was a robot that was created by the Klingon Empire. The last sentence, I think, was perhaps the most salient, which is, "And its feelings run on a computer." So, I mean, even then, it was just kind of a given for me that robots would have emotions and feelings.
+
+NEIL DEGRASSE TYSON: Her teacher's only comment: "Proofread next time."
+
+Cynthia's passion for robots soon switched to sports.
+
+BOBBY BLUMOFE: She was actually a fairly accomplished tennis player...soccer and all these things, growing up. That took me by surprise. I hadn't really expected that she was such a jock. I would have expected, maybe, more of an egghead.
+
+NEIL DEGRASSE TYSON: Well, she did wind up at MIT, where she studied electrical engineering and computer science with Rodney Brooks, who was designing robots inspired by living, breathing creatures.
+
+RODNEY BROOKS (Massachusetts Institute of Technology): Cynthia came to my lab just a little while after we'd started building robots based on insects.
+
+CYNTHIA BREAZEAL: And I thought, you know, if we are ever going to see those robots that we saw in Star Wars in the real world, it's going to start in a place like this.
+
+NEIL DEGRASSE TYSON: With Brooks, she built a robotic bug named Attila, and then moved up the food chain to working on a humanoid robot called Cog, who was strangely adept at playing with Slinkys®.
+
+RODNEY BROOKS: When we first thought about Cog, we thought about the all-intelligent robot that was going to be able to manipulate the world and do things. We weren't thinking about how it was really going to interact with people.
+
+NEIL DEGRASSE TYSON: But Cynthia wanted to make a robot you can relate to, a robot that would learn because people would want to teach it.
+
+MATT BERLIN: She has a vision of robots: that you build them starting with the social interaction, and you build the intelligence out from that.
+
+RODNEY BROOKS: Cynthia came up with the phrase "appliance or friend."
+
+NEIL DEGRASSE TYSON: But how do you make a robot that's more friend than appliance?
+
+Long before Cynthia had her own kids, Ryan and Nathan, she hit on an idea: what if you could get people to relate to a robot in the same way a parent relates to a child?
+
+CYNTHIA BREAZEAL: If you look at the way an adult interacts with an infant or a very young child, you, fundamentally, have this highly sophisticated being interacting with an immature version of it. But yet you could still have a very genuine interaction. So, we leverage that, in building these robots that are also very youthful in their nature.
+
+It's a little trickier with the robots, because the robots, of course, don't have these wonderful little brains and bodies that infants have, you know? It's a sort of very low-pass, kind of crude approximation of that.
+
+NEIL DEGRASSE TYSON: Beginning in the late 1990s, Cynthia rolled up her sleeves and got out the toolkit to build a new kind of robot, based on theories of child development.
+
+RODNEY BROOKS: She's willing to have way out ideas and pursue them. At the same time, she will delve into any technology, to put all the pieces together to make it happen.
+
+NEIL DEGRASSE TYSON: What she came up with was a robotic head named Kismet, with baby-like features, such as prominent eyes, to draw people into a social relationship.
+
+WOMAN : You're such a cute little robot.
+
+NEIL DEGRASSE TYSON: She programmed Kismet to analyze the emotional intent of the person speaking to it, based on the pitch and intensity of their voice.
+
+WOMAN: No.
+
+NEIL DEGRASSE TYSON: Then, all on its own, Kismet computed the right emotional response, which it expressed in its face and posture and voice.
+
+CYNTHIA BREAZEAL: People very quickly would become enamored and attached to the robot. But you almost can't help it, because it was really adorable.
+
+MAN: Kismet, I think we've got something going on here, you and me.
+
+RODNEY BROOKS: Cynthia managed to get this being with a presence. Before Cynthia's work with Kismet, the question was, "How does the robot react to the world?" What Cynthia brought was, "How do people react to the robot?"
+
+NEIL DEGRASSE TYSON: Overnight, Kismet and Cynthia were superstars.
+
+The name Kismet means "fate" in Turkish. And, around this time, Cynthia sent a fateful email to someone she had met a few years before.
+
+BOBBY BLUMOFE: And the email is basically, you know, "Hi, it's Cynthia. Do you remember me?" Which I thought was kind of a funny thing, because of course I remembered her.
+
+NEIL DEGRASSE TYSON: Cynthia and Bobby were eventually married, but not before Hollywood called.
+
+Stephen Spielberg was just finishing the movie A.I., a futuristic tale about the day scientists would program robots with the ultimate human emotion.
+
+WILLIAM HURT (As Professor Hobby, from A.I./Film Clip): Tell me, what is love?
+
+CYNTHIA BREAZEAL: I met with Steven Spielberg and gave him a little primer on A.I. and met Stan.
+
+NEIL DEGRASSE TYSON: Stan was Stan Winston, legendary creator of movie creatures like the robots in Terminator.
+
+He had made all the robots for A.I., including a bear that befriends humans and has emotions.
+
+WOMAN from AI/Film clip: His name is Teddy.
+
+CYNTHIA BREAZEAL: I told Stan that we should build Teddy, but we should really build Teddy.
+
+JACK ANGEL (As Voice of Teddy from A.I./Film Clip): I am not a toy.
+
+NEIL DEGRASSE TYSON: The result of their collaboration was the robot called Leonardo.
+
+CYNTHIA BREAZEAL: Of course, it's after Leonardo da Vinci, not Leonardo diCaprio, which some people ask me.
+
+NEIL DEGRASSE TYSON: It's a million dollar creature with a body by Stan and brains by Cynthia.
+
+Cynthia and her students are using Leonardo to explore how robots can learn and communicate with people in everyday situations.
+
+MATT BERLIN: Leo, this is Cookie Monster. Leo, can you find Cookie Monster?
+
+NEIL DEGRASSE TYSON: To create a life-like, face-to-face interaction with people, software allows Leo to track the head of the person speaking to him. Then he stores the name and color and shape of the object in his memory.
+
+MATT BERLIN: Very good, Leo. Leo, this is Elmo. Can you find Elmo?
+
+NEIL DEGRASSE TYSON: Leo can also use what he learns to think for himself. When Matt tries to trick him...
+
+MATT BERLIN: Can you find Elmo?
+
+NEIL DEGRASSE TYSON: ...Leo catches on quickly, responding with a shrug and even a puzzled look.
+
+Cynthia believes this kind of natural communication between people and machines is essential for robots to become part our daily lives.
+
+DAN STIEHL (Massachusetts Institute of Technology): Cynthia's one of the best people in the world, in terms of human-robot interaction, and really understanding that it's much more than a person just pressing buttons on a machine, but really having the machine be engaging and improving that overall interaction.
+
+NEIL DEGRASSE TYSON: The team's latest robot is a teddy bear called "the Huggable." Inspired by pet therapy, it may one day act as a companion for kids in the hospital, as well as assist their caregivers. With skin that's sensitive to touch and temperature, it's designed for physical, full-body interaction with humans.
+
+JUSTIN KOSSLYN (Yale University): This guy has a motion classifier in him, which means he knows how he's being moved. So I can do some stuff, like bouncing him, and you can see on the screen how he's responding: pretty psyched about that. He can also respond to...if I want to be kind of evil, maybe some shaking. Grrr. And it made him sad; that was mean.
+
+When he's used in hospitals, if a kid were to shake him, like I just did, the nurse's station could get a little message saying, "You may want to check in on Room 44."
+
+And the last thing this guy will do is, if I put him down, he knows he's not moving anymore, and so he's going to respond by saying goodbye. Yep. Bye bye.
+
+CYNTHIA BREAZEAL: Ooh, you got some fancy moves there.
+
+NEIL DEGRASSE TYSON: But will we ever have an interaction with a robot that's as genuine as this? And if so, would that be a good thing?
+
+CYNTHIA BREAZEAL: If I really didn't believe that we would have better living with robots, that robots could really be a technology that enhanced and complemented our lives, like, I mean, the way that...same reason we create any other technology, I certainly wouldn't be doing it.
+
+BOBBY BLUMOFE: Maybe Nathan and Ryan could be among the first kids to grow up with robots that go beyond just the notion of a vacuum cleaner, but actually socially and emotionally engaging and interactive robots... that would be pretty cool!
+
+CYNTHIA BREAZEAL: I do think, in time, people will have, sort of, relationships with certain kinds of robots, not every robot, but certain kinds of robots, where they might feel that it is a sort of friendship, but it's going to be of a robot-human kind.
+
+PAPYRUS
+NEIL DEGRASSE TYSON: When I was a kid, I used to play this game, Password(TM). And the secret password is always invisible, hidden until you slid the paper into this sleeve, and then the secret word is revealed.
+
+Well, what if the secret words aren't part of a kids' board game, but instead are on a crumbling, ancient manuscript?
+
+Correspondent Beth Nissen caught up with investigators who are uncovering secret messages that have stayed hidden for 2,000 years.
+
+BETH NISSEN (Correspondent): In these vaults, on these shelves, in these boxes at Oxford University, ancient clues, 2,000 years old, to a glorious human past; wrapped in printed paper, fragments of ancient paper, pieces of the D.N.A. of Western Civilization.
+
+ROGER T. MACFARLANE (Brigham Young University): Here's one that contains a large page of Homer's Odyssey, still with quite a bit of mud and sand clinging to it.
+
+BETH NISSEN: These are only a few of the faded fragments found buried near the outskirts of what was, at around the turn from B.C. into A.D., a mid-sized capital city in Greek-ruled Egypt, the city of Oxyrhynchus, actually, found buried in the Oxyrhynchus city dump, in rubbish mounds.
+
+ROGER MACFARLANE: There can be more Homer, new pieces of Sophocles, Euripides, other authors who were being read in antiquity. You never really know what's going to come out of the box.
+
+BETH NISSEN: Or whether what comes out of the box can be read.
+
+JOSHUA D. SOSIN (Duke University): Abrasion, dirt, clay, silt: an awful lot can go wrong, when something is buried underground for 2,000 years.
+
+BETH NISSEN: Yet somehow, buried above the water tables and beneath the dry sands of Egypt, for all those centuries, almost half a million of these papyri fragments survived, these pieces of ancient paper made from papyrus.
+
+JOSHUA SOSIN: Papyrus is a plant. It is a reed that grows almost exclusively along the banks of the Nile. You shave the stalk into thin strips, lay them parallel to each other, lay strips running perpendicular to them; you pound it or press it, such that the cell walls break down. Cellulose seeps out, creating a kind of gooey natural glue that binds the strips together, which can then be pressed, polished and written on. The stuff is really quite durable, in a way, more durable than the paper you're used to taking notes on today.
+
+BETH NISSEN: The tons of this reedy paper found at Oxyrhynchus documented the daily life of an ancient city's markets and businesses and courts.
+
+JOSHUA SOSIN: We have marriage contracts, divorce contracts, tax declarations, census registers, hate mail, dinner invitations. We have letters-home-to-Mom. You name it, we have it on papyrus.
+
+BETH NISSEN: Thousands more of the Oxyrhynchus fragments were unreadable, soiled, grimy.
+
+BENJAMIN HENRY (The University of Texas at Austin): Because this was a rubbish dump, things get charred, if burning waste was put on top of them , or stained.
+
+BETH NISSEN: Or, like this fragment, which looks, at first, like the work of, say, Jackson Pollack of Crete. The only readable word of Greek is just visible at the very bottom. You can read "Christos."
+
+BENJAMIN HENRY: Yeah, there's "Christos," kind of a row sigma with a bar above it. So that's the abbreviation for "Christos," you know it's a Christian text. But much of it is totally illegible.
+
+BETH NISSEN: And papyrologists assume there are letters there. Papyrus was too expensive to throw away unused and often had writing on both sides. But texts like this were a tantalizing, frustrating mystery.
+
+BENJAMIN HENRY: Really, you're never going to be able to publish a text like this. You can look at that under the microscope as much as you like, but it's just a complete mess.
+
+BETH NISSEN: What papyrologists really needed was this, an equivalent to Superman's x-ray vision, a way to see through whatever was on the surface of papyri, ancient food stains, burn marks, mummy paint, see through to the writing underneath.
+
+As the ancient Greek scientist Archimedes is said to have said from his bath: Eureka!
+
+It's called multispectral imaging, a technology developed by NASA to "see through" clouds of gas in space.
+
+ROGER MACFARLANE: It was a significant step forward, when a scholar at NASA's Jet Propulsion Laboratory decided to apply the technology to texts.
+
+BETH NISSEN: Ancient texts, written on papyri.
+
+The project today: see if multispectral imaging can help scholars at the University of California at Berkeley read part of an account of the Trojan War, by the poet Dictys of Crete, a part obscured by a large reddish stain.
+
+ROGER MACFARLANE: Some people think it's a spill, a chemical spill perhaps, or a spot of wine that was dropped on it. Even the best papyrologists who've worked on this are usually not able to pick out any more than a few scattered letters in here, and even at that, they feel like they're guessing.
+
+BETH NISSEN: The fragile fragment is put on a moving imaging bed under a scientific-grade digital camera, which captures high-definition images of the fragment, through a succession of color filters, one filter at a time, a dozen different filters in all.
+
+ROGER MACFARLANE: Each individual filter allows only a certain portion of the light spectrum through.
+
+BETH NISSEN: The light in the range of the spectrum visible to the naked eye, reflects off whatever is on the surface of most of the papyri pieces, the stains, dirt, mummy paint, whatever. The camera can't see much more through these filters than the eye can, which isn't much.
+
+But results tend to be better, using the filters that let in the range of the light spectrum the human eye cannot see.
+
+ROGER MACFARLANE: I've seen the best results in the infrared at 950 nanometers.
+
+BETH NISSEN: Light in the infrared part of the spectrum, invisible to the naked eye but not the camera, is more likely to pass through what's on the papyrus surface to the ink underneath. Surface stains and dirt fade away. The inked letters appear; black magic.
+
+BENJAMIN HENRY: Ink, which is pretty much pure carbon, it's made out of soot mixed with glue, will absorb all of the infrared, and so it will come out black.
+
+BETH NISSEN: Every time they see this 21st century technology work on first or second century fragments, papyrologists are thrilled, or as thrilled as papyrologists get.
+
+ROGER MACFARLANE: None of us is really inclined to give high-fives and celebrate too much, but we were really pleased.
+
+BETH NISSEN: They've been pleased with multispectral imaging at Oxford, too,  home of the world's largest collection of ancient papyri: all those fragments excavated from the Oxyrhynchus city dump.
+
+They have as many as 500,000 fragments, but only about one percent have been read and published by the few scholars working on them. Uncounted thousands are illegible, in shreds, soiled.
+
+BENJAMIN HENRY: There are fragments there that we'd pretty much completely given up all hope of ever being able to read.
+
+BETH NISSEN: Like that Jackson Pollack-y fragment that had the word "Christos" on it.
+
+BENJAMIN HENRY: We put it under the multispectral imaging camera, and, all of a sudden, the background completely drops out, and wherever there was ink, you can read the ink as clear as the day it was written.
+
+BETH NISSEN: And what was written? A passage from the New Testament, St. Paul's "Epistle to the Romans," Chapter 14, Verses 7-9.
+
+BENJAMIN HENRY: And then "Eis touto gar Christos apethanen," "for this reason did Christ die." And it is now our earliest copy for these verses. We did have another third century papyrus of the "Epistle to the Romans," but it actually is very fragmentary. But now, we've got a complete text of these verses in a late second and early third, perhaps, century copy.
+
+JOSHUA SOSIN: I don't know how long we have, until the things sitting in shoeboxes in this or that university turn to dust, but we've got to get rolling. There are a great many, I mean, many thousands of papyri that are sitting in boxes in dark hallways, waiting to be read.
+
+NEIL DEGRASSE TYSON: And now for some final thoughts on extinction. When you look up to the sky, you see the Moon, Sun and stars, not as they are, but as they once were. Traveling at more than 186,000 miles per second, their light simply takes time to reach us.
+
+From the Moon, it takes between one and two seconds; from the Sun, a little more than eight minutes; from Alpha Centauri, the nearest star system to the Sun, about four years; from the Andromeda Galaxy, a close neighbor of the Milky Way, light takes more than two million years to reach us.
+
+So the farther away an object is, the further back in time we see it. Keep this up, and eventually, we bear witness to the birth of galaxies and the birth of the universe itself.
+
+Yes, we can look into the past of distant places, but aliens within those distant places can look our way, and bear witness to our distant past. For all we know, light from Earth's greatest extinction episode is just now reaching alien telescopes, perhaps prompting them to wonder, "Has Planet Earth reached a dead end? Does life there have any future at all?" Today, with the highest rate of species going extinct since the demise of the dinosaurs, those same questions should perhaps occur to us, too. And that is the cosmic perspective.
+
+And now, we'd like to hear your perspective on this episode of NOVA scienceNOW. Log on to our Web site and tell us what you think. You can watch any of these stories again, listen to podcasts, hear from experts, and much, much more. Find us at pbs.org.

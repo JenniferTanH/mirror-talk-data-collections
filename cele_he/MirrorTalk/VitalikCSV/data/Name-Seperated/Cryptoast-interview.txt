@@ -1,0 +1,32 @@
+Q: The 4th edition of the EthCC, one of the biggest conferences dedicated to the Ethereum ecosystem, gathered more than 1500 people this year in Paris. The past few months for Ethereum are a clear demonstration of the success of this conference. Did the Vitalik Buterin from 2015 imagine such a great success for his creation?
+Vitalik Buterin: No, I couldn't imagine it. The Ethereum community has grown very quickly. When I started the project in 2013, I imagined I would dedicate a year or two to it before going back to university. But Ethereum has become a very big project. I remember the first Devcon in Berlin in 2014, where there were only about 50 of us.
+
+Vitalik Buterin: Today, the event gathers 5000 people like many other conferences of this kind in the world, including the EthCC. The French Ethereum community is very large. And all over the world, communities have grown significantly.
+
+Q: These events are an excellent opportunity to meet the teams of the projects which make Ethereum. What is your involvement with them?
+Vitalik Buterin: I talk with many teams, especially those who are attending this conference : Stani from Aave, the Status team, Swarm, 1Inch... [Look at the logos of the companies attending the conference, editor's note].
+
+Vitalik Buterin: I also know Sergey Nazarov, the founder of Chainlink. At the time, his project was small and he came to workshops to discuss the issues of the technology. But there are also a lot of new projects that I don't know about : this is a proof that the ecosystem has become quite big!
+
+
+
+Q: You took the stage at the EthCC to push for a new dynamic for Ethereum in the coming months. On which themes should the ecosystem focus?
+Vitalik Buterin: I think it's time to go beyond financial applications. There are many DeFi projects on Ethereum, but we can also move forward on other projects: decentralized social networks, ENS, NFTs, or decentralized identities. To do these projects, we need to solve the problems related to the scalability of the network [its capacity to process more and more transactions, editor's note]
+
+Vitalik Buterin: To make a transaction on the network, you have to pay between 5$ and 10$ in fees. While this is unfortunate, but functional for decentralized finance applications, it won't work for social network type projects or NFTs.
+
+Vitalik Buterin: We currently solve these problems with rollups and other layer 2 solutions. Remember that in 2018, sharding was just an idea; in a few months there will be an operational testnet. Once these solutions are implemented, Ethereum will be able to process many more transactions. So I think it's appropriate to start working on these issues.
+
+
+
+Q: This Thursday, August 5, gives the start of the EIP-1559. How do you feel about its implementation?
+Vitalik Buterin: I am very optimistic. It's a project we've been working on for 4 years with a large team. It's a very important thing for the ecosystem.
+
+
+
+Q: How do you answer the critics of Ethereum who accuse it of being too centralized today? Could this centralization be dangerous in a world where Ethereum 2.0 will become the standard?
+Vitalik Buterin: I don't think this is a major issue if the nodes are used by the users themselves. But it could become a problem if a lot of validators use Amazon Web Services or Google Cloud. We have thought about this issue; if a validator is the only one to have a problem, it will lose few ethers. But if that validator has a problem at the same time as many others, they will lose more ethers.
+
+Vitalik Buterin: This is a solution we have devised against centralization. If many validators are already using Amazon cloud services, the new ones will not have to put their nodes on the same service, in order not to have a trouble at the same time as the others are heavily punished. They will have to host their own node, or move to another cloud service.
+
+Vitalik Buterin: The battle against centralization is a day-to-day one. There are also other concerns, linked to the heavy use of the Infura service notably [a development tool on Ethereum, editor's note]. If this service breaks down, it's a serious issue. To try to solve this situation, we are trying to make the protocol as simple as possible so that we don't have to use this kind of middleman in the future.

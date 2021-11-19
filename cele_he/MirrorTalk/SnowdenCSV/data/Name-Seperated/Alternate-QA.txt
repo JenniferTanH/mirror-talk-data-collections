@@ -1,0 +1,33 @@
+Question: Why did you choose Hong Kong to go to and then tell them about US hacking on their research facilities and universities? How many sets of the documents you disclosed did you make, and how many different people have them? If anything happens to you, do they still exist?
+
+A: First, the US Government, just as they did with other whistleblowers, immediately and predictably destroyed any possibility of a fair trial at home, openly declaring me guilty of treason and that the disclosure of secret, criminal, and even unconstitutional acts is an unforgivable crime. That's not justice, and it would be foolish to volunteer yourself to it if you can do more good outside of prison than in it. Second, let's be clear: I did not reveal any US operations against legitimate military targets. I pointed out where the NSA has hacked civilian infrastructure such as universities, hospitals, and private businesses because it is dangerous. These nakedly, aggressively criminal acts are wrong no matter the target. Not only that, when NSA makes a technical mistake during an exploitation operation, critical systems crash. Congress hasn't declared war on the countries - the majority of them are our allies - but without asking for public permission, NSA is running network operations against them that affect millions of innocent people. And for what? So we can have secret access to a computer in a country we're not even fighting? So we can potentially reveal a potential terrorist with the potential to kill fewer Americans than our own Police? No, the public needs to know the kinds of things a government does in its name, or the "consent of the governed" is meaningless. All I can say right now is the US Government is not going to be able to cover this up by jailing or murdering me. Truth is coming, and it cannot be stopped.
+
+
+Q: I should have asked you this when I saw you but never got round to it........Why did you just not fly direct to Iceland if that is your preferred country for asylum?
+
+A: Leaving the US was an incredible risk, as NSA employees must declare their foreign travel 30 days in advance and are monitored. There was a distinct possibility I would be interdicted en route, so I had to travel with no advance booking to a country with the cultural and legal framework to allow me to work without being immediately detained. Hong Kong provided that. Iceland could be pushed harder, quicker, before the public could have a chance to make their feelings known, and I would not put that past the current US administration.
+
+Q: You have said HERE that you admire both Ellsberg and Manning, but have argued that there is one important distinction between yourself and the army private... Are you suggesting that Manning indiscriminately dumped secrets into the hands of Wikileaks and that he intended to harm people?
+
+A: No, I'm not. Wikileaks is a legitimate journalistic outlet and they carefully redacted all of their releases in accordance with a judgment of public interest. The unredacted release of cables was due to the failure of a partner journalist to control a passphrase. However, I understand that many media outlets used the argument that "documents were dumped" to smear Manning, and want to make it clear that it is not a valid assertion here.
+
+
+Q: Did you lie about your salary? What is the issue there? Why did you tell Glenn Greenwald that your salary was $200,000 a year, when it was only $122,000 (according to the firm that fired you.)
+
+A: I was debriefed by Glenn and his peers over a number of days, and not all of those conversations were recorded. The statement I made about earnings was that $200,000 was my "career high" salary. I had to take pay cuts in the course of pursuing specific work. Booz was not the most I've been paid.
+
+Q: Why did you wait to release the documents if you said you wanted to tell the world about the NSA programs since before Obama became president?
+
+A: Obama's campaign promises and election gave me faith that he would lead us toward fixing the problems he outlined in his quest for votes. Many Americans felt similarly. Unfortunately, shortly after assuming power, he closed the door on investigating systemic violations of law, deepened and expanded several abusive programs, and refused to spend the political capital to end the kind of human rights violations like we see in Guantanamo, where men still sit without charge.
+
+Q: Define in as much detail as you can what "direct access" means. Can analysts listen to content of domestic calls without a warrant?
+
+A: More detail on how direct NSA's accesses are is coming, but in general, the reality is this: if an NSA, FBI, CIA, DIA, etc analyst has access to query raw SIGINT databases, they can enter and get results for anything they want. Phone number, email, user id, cell phone handset id (IMEI), and so on - it's all the same. The restrictions against this are policy based, not technically based, and can change at any time. Additionally, audits are cursory, incomplete, and easily fooled by fake justifications. For at least GCHQ, the number of audited queries is only 5% of those performed.
+
+Q: Define in as much detail as you can what "direct access" means. Can analysts listen to content of domestic calls without a warrant?
+
+A: NSA likes to use "domestic" as a weasel word here for a number of reasons. The reality is that due to the FISA Amendments Act and its section 702 authorities, Americans’ communications are collected and viewed on a daily basis on the certification of an analyst rather than a warrant. They excuse this as "incidental" collection, but at the end of the day, someone at NSA still has the content of your communications. Even in the event of "warranted" intercept, it's important to understand the intelligence community doesn't always deal with what you would consider a "real" warrant like a Police department would have to, the "warrant" is more of a templated form they fill out and send to a reliable judge with a rubber stamp.
+
+Q: When you say "someone at NSA still has the content of your communications" - what do you mean? Do you mean they have a record of it, or the actual content?
+
+A: Both. If I target for example an email address, for example under FAA 702, and that email address sent something to you, Joe America, the analyst gets it. All of it. IPs, raw data, content, headers, attachments, everything. And it gets saved for a very long time - and can be extended further with waivers rather than warrants.

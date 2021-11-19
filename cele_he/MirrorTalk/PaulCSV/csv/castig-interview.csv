@@ -1,0 +1,31 @@
+name,line
+Interviewer,"If I have a startup, but can't code... what should I be doing?"
+Paul,"You have to do sales. There's two things startups need to do early on:you need to build stuff, and talk to users. So if you can't build stuff, you have to talk to users."
+Paul,"And what you want to do by talking to users is get them to use your stuff. So whether you're good at sales or not, if you can't program, then sales is what you're doing."
+Interviewer,Can a non-technical founder hire developers?
+Paul,"It depends. There are now startups working on things that aren't very technical at all. For example:retail businesses where the technology used is fairly generic. So yes, to some extent you can be a non-technical founder and somehow get programmers to do that stuff for you. But it's very hard to hire programmers if you're not a programmer yourself, because you can't judge them."
+Paul,We have had non-technical founders who have run into EXACTLY this problem:they are worried if their programmer is any good and they can't tell.
+Interviewer,So... how can you tell if a developer is good?
+Paul,"There's not really any good solution. Of all the startups with solo non-technical founders that Y Combinator has funded... it's possible that none of them are doing very well. It's hard, very hard."
+Paul,"You would have to have a friend who's a really good programmer. But then, how would you know if your friend was a really good programmer? (laughs)."
+Paul,If you had this friend he could jump start the process to ensure that the first couple of people are good. Then they can hire the rest. You could even get JUST ONE good person. But how do you get that one good person?
+Paul,If you don't have expertise in hiring programmers then you need to get someone who does.
+Interviewer,At One Month we believe that knowing a few months of programming will help you communicate better with developers. What do you think? Does knowing a few bits of programming make you more proficient at running a digital company?
+Paul,I think it would help! I think it would help a lot.
+Paul,"In fact, if someone wanted to start a startup and had a choice of going to business school or learning to program I'd say, ""learn programming"". Because what's business school going to teach you? Just how to be a member of the officer corps of a large company, to manage people, to do spreadsheets... but that's not what you need to do at a startup anyway."
+Interviewer,Do you have a language of choice for companies coming into Y Combinator?
+Paul,I would be worried if someone was writing their stuff in COBOL! I would ask why. (laughs).
+Paul,"Other than that not really. I mean, we have had startups writing their code in PHP and that worries me a little bit. But not as much as other things worry me."
+Interviewer,"Would you hire someone who was a really good developer, but didn't finish college?"
+Paul,"Oh yeah! 'Would I hire Bill Gates?', yeah. Although Bill Gates might be a little bit difficult to have as an employee. But my god of course."
+Paul,It's good for you to go to college. But it's certainly not necessary for having a startup.
+Paul,Going to college expands your vision of the world. You can learn about all kind of other things that you might not have learned about. So it's good to just make yourself smarter in a very general way.
+Paul,"Although, I really can't tell the difference between people that left college half-way through, and people that have PHDs."
+Interviewer,Would you say being a developer has become more plug and play?
+Paul,"Well people wouldn't do it if it wasn't easier. I don't think that this is some sign that programmers have fallen from grace. It's just some natural progression... it's weird for me, but only weird in the way that the future always turns out to be weird."
+Interviewer,"We hear many of our students at One Month Rails say ""I can make an MVP with Rails, but I have no intention of becoming a computer scientist."" It's almost like they're putting themselves down for not adhering to this somewhat elitist definition."
+Paul,Well what's a computer scientist? Someone who can program and who also took a class in Automata Theory. (he laughs).
+Interviewer,"In the essay you mentioned that ""hacking is not as cool as painting"". Do you still feel that way?"
+Paul,Hacking is getting a lot cooler now. But I think it is probably better for picking people up at parties if you can say you're a painter.
+Paul,"Would that be a better term to use for our students? It's certainly much better than ""developer"" or ""computer scientist"", no?"
+Paul,"Hacking is certainly cool. Even the White House uses the word ""hacking"" to describe stuff. And not just to describe doing stuff to software, but as a general purpose verb."

@@ -1,0 +1,21 @@
+Q: When did you first have the impression or idea about Ethereum?
+A: I was working on Mastercoin and colored coins back in 2013; after a few weeks working on the projects I realized how the approach of trying to target a specific set of use cases was too limited, and started trying to make a blockchain that supported more and more general forms of computation. After a few iterations, the idea that is now called Ethereum, at least in a very early form, emerged.
+
+Q:Whats the plan to scale Ethereum?
+A: Time-frame is to get to it after Casper 1.0 is out, and it will likely take place in multiple stages, with multiple hardforks to add more and more functionality over time. Getting to superquadratic sharding (ie. processing more than O(c^2) tx/sec where c is a node’s computational capacity) seems like a fairly significant barrier; if you can get past that, then you can probably process an exponential number of transactions, but there are weird challenges that arise regarding maintaining the stability at such high levels. So we’ll proceed carefully with plenty of testnets along with way.
+
+Q:  How will Ethereum will be governed in future?
+A: That’s a complicated question; built-in governance structures have benefits but they also have hidden costs. For example, if you take a Dash/Tezos-style coin voting governance model and enshrine it as a social contract, then you are also creating an expectation that anything that this governance model outputs is legitimate. Expands issuance by 5x and gives it to a coalition consisting of 60% of token holders? Sorry, the 60% voted for it. One guy bribes the voters (note that bribing can take some quite realistic indirect forms, eg. running an online wallet that provides users convenience but votes on their behalf) and makes a change that benefits themselves? Hey, vote results are vote results. So IMO the social contract in any blockchain must necessarily be at least to some extent subjective.
+That said, I am sure that on-chain governance can provide very substantial benefits if it is used carefully and strategically.
+
+Q: Should Ethereum have a built-in governance structure like dash? If not, why not?
+A: That’s a complicated question; built-in governance structures have benefits but they also have hidden costs. For example, if you take a Dash/Tezos-style coin voting governance model and enshrine it as a social contract, then you are also creating an expectation that anything that this governance model outputs is legitimate. Expands issuance by 5x and gives it to a coalition consisting of 60% of token holders? Sorry, the 60% voted for it. One guy bribes the voters (note that bribing can take some quite realistic indirect forms, eg. running an online wallet that provides users convenience but votes on their behalf) and makes a change that benefits themselves? Hey, vote results are vote results. So IMO the social contract in any blockchain must necessarily be at least to some extent subjective.
+That said, I am sure that on-chain governance can provide very substantial benefits if it is used carefully and strategically.
+
+Q:   Do you agree that hard forks are the way to the future or do you expect a different method to serve as updates in the future (like soft forks or something new).
+A: I personally like hard forks. Particularly, I like the fact that they give users a measure of control, requiring them to opt in to protocol changes. Sure, they can be a little more chaotic if they’re controversial, but that’s the price of freedom.
+
+Q:  What are the biggest organizational challenges for the Ethereum Foundation this year?
+A: Finding sources of revenue other than our existing ether reserves (no worries, we still have ~$11m worth of ETH on top of our fiat reserves).
+Expanding the research team and finding more of the right people to participate in research efforts on all fronts (scalability, privacy, security, etc)
+Improving the foundation’s external communications; working on helping the community understand what the foundation is doing, why things are done the way they are done, and what the progress is.

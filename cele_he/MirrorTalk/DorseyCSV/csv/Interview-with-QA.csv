@@ -1,0 +1,570 @@
+name,line
+Interviewer,So the format for today will be i'm gonna be doing a short interview with mr. Dorsey before we then open it up to.
+Dorsey,Your questions from the floor so my first question is one that I asked you just ten minutes ago before I.
+Interviewer,Realized i don't want you to answer what is the best thing about your job probably the best thing about my job is.
+Dorsey,Just being able to see like the feeling you get when you are when you help create something and you actually see.
+Interviewer,People interact with it and you see people use it whether it be you know in my case a program or a piece of hardware.
+Dorsey,Or art when you actually see it on someone else's face and you and you see that interaction it's just uh it feels.
+Interviewer,Electric so being able to to see people use our technologies and and to see our customers has been really something my.
+Dorsey,Favorite is always when my my mom independently discovers something that I didn't have to tell her about and and.
+Interviewer,There are two moments when the first thing is my parents were some of the first people on Twitter and we started.
+Dorsey,With sms and my mom thought it was the it was the way to contact me and my family like she thought Twitter was SMS.
+Interviewer,And she thought it was a private channel so she would and you can now search back to all of her first tweets and it's at.
+Dorsey,Marsha dorsey you can search back to all of her first tweets and she was actually like yelling at my brothers and Jack.
+Interviewer,When he coming home and all these other things and then she realized oh wait a minute this is public and then the.
+Dorsey,Second time with with square is she her favorite coffee store and st. Louis Missouri some coffee started using us.
+Interviewer,And she she went in and she she texted me she's like Jaka you know my favorite coffee store just.
+Dorsey,Started using square and like i love when people just happen upon it rather than having to direct from my head go.
+Interviewer,Look at what i made go look at what they did especially you know someone someone like my mom so it's always uh that's.
+Dorsey,Probably the best part of the day is seeing how people seeing how people use it okay and with regards to kind of your.
+Interviewer,Early career i read somewhere that one of the main inspirations for Twitter was um.
+Dorsey,Taxi systems and how they have very short you know messages to convey where they are is that true yeah yeah I really.
+Interviewer,Missed the boat on creating goober but i was a huge huge into dispatch and the reason why is and playing again back to.
+Dorsey,My parents my parents i'm from st. louis Missouri st. Louis Missouri how many of you have been there st. Louis so st..
+Interviewer,Louis has has had a has had a tough history and so in the 40s 50s and 60s a lot of people left the city and moved.
+Dorsey,Out to the suburbs and my parents are always stood by the city and the metropolitan area is about 4 million.
+Interviewer,"People and the city has dwindled down to about 350,000 people and it's extremely segregated North and South lines its."
+Dorsey,Highest highest homicide per capita in the country we switch with Detroit and DC does those three usually but my.
+Interviewer,Parents they grew up in the city they loved the city and you know for me it developed this obsession and fascination.
+Dorsey,With cities as well and the way that really manifested for me for maps I was just obsessed with with maps and I would.
+Interviewer,Get lost and i'm constantly just wondering what was happening at this particular intersection or what was you.
+Dorsey,Know down the street whatnot and i had tons of maps of st. Louis and tons of maps of my other favorite city they had.
+Interviewer,Never been to which is new york city my parents also had a police scanner always in a CB radio so we lived right next to.
+Dorsey,The highway and I would always listen to the trucks and the and the police and fire trucks and.
+Interviewer,The ambulances and eventually my parents got a IBM PC jr. and a Macintosh and I would actually take the information from.
+Dorsey,The police scanner and plot it out on my paper maps I could actually watch the police cars move because there is.
+Interviewer,Reporting where they are and where they're going or what they're doing but little by little the computer became.
+Dorsey,This thing that was uh was amazing because they could actually build a map on it and I can make those I could put.
+Interviewer,Dots on that map and i can make those dots move and I taught myself just enough programming to make that happen.
+Dorsey,And and that's always been my approach in my life as I've never really had a desire to become an engineer I never had.
+Interviewer,A desire to become a ceo or start a company or be an entrepreneur I learned whatever it took to move me to the next.
+Dorsey,Step to unblock whatever i wanted to do and for me I wanted to see the city in any way and the computer was was the way.
+Interviewer,To get there so taught myself had a program in C and eventually I had these maps of police cars and ambulances that.
+Dorsey,Were riding around st. louis all from the police scanner and then I little by little found public databases that were.
+Interviewer,Accessible on the internet of of historical movements that I could program in and then I learned to when I.
+Dorsey,Was about 17 or 18 that this whole thing I was doing had a name and it was called dispatch so I found the biggest ditz.
+Interviewer,Dispatch firm in the world which just happened to be in New York City and it was called DMS and I found I found their.
+Dorsey,Website but they had no contact information no way to get in so I was pretty good at computers at this time.
+Interviewer,And st. louis had a pretty strong underground hacking culture and I learned a lot from it and I figured out.
+Dorsey,A hole in their website and i found their corporate email list and found the name of the CEO and the email.
+Interviewer,Of the ceo and the chairman and they sent too many mails saying your website has a hole in it here's how you fix it.
+Dorsey,And by the way i write dispatch software and they flew me out and I I joined EMS and suddenly I was working on dispatch.
+Interviewer,For all of new york city which was amazing because the thing about dispatch for me is you could actually see how the.
+Dorsey,City is working living breathing how it moves but unfortunately in that case was from a very vertical standpoint in terms.
+Interviewer,Of city services and and twitter really was born out of a desire to see it from a personal level if if an individual.
+Dorsey,Could report what they're doing and where they're going and what they're doing next and we could see that all in.
+Interviewer,Real time what would that look like and so yeah in my my uh what's my fascination and and career really.
+Dorsey,Started in dispatch was just high transactional always available low latency systems over deep deep deep deep.
+Interviewer,And in the background in many places that people just didn't consider Asiya and with regards to Twitter when you set.
+Dorsey,It up alongside you know the other co-founders did you have any idea where did he want it to get where do you think.
+Interviewer,It might go were you hoping it would end up we are I mean we didn't really have any any idea and and that's not why we.
+Dorsey,Were building it we were building it because we wanted to it was it was fun and and it was something that we we.
+Interviewer,Wanted to see and i had my dispatch background and I've had a blogging background and biz joined up at blogger.
+Dorsey,For a little while when he was at google and we all somehow ended up at OU do have joined oh do and became CEO I.
+Interviewer,Joined about two months after that and then biz joins two months after that and the funny thing about that was no one.
+Dorsey,There really cared about what we were building which was podcast and we just had no passion for it and.
+Interviewer,That the business was not doing well the direction was was fairly weak so we we often went out and just thought about.
+Dorsey,You know what what would we do and what would we want to work on and we had these these hack days where we would.
+Interviewer,Actually try to implement some of these ideas and and Twitter was born out of born out or one of those but the.
+Dorsey,Important thing about this we just had this amazing team but the wrong initial idea and when you have amazing people.
+Interviewer,And really creative people you'll come up with something and and and really the desire was just to build something that.
+Dorsey,We wanted to use on a on a daily basis and it resonated with us every day and and we were fortunate and that it.
+Interviewer,Resonated with others too but there was no particular design or desire or goal around its success and I think it's very.
+Dorsey,Hard to start with that as a as a barrier because it it ends up blocking the creativity ultimately from mine.
+Interviewer,Stunning you went to college for a little bit then dropped out obviously to pursue your other girls did your time at.
+Dorsey,College have any impact on the where you are today or was it just something that got in the way of your real passion I.
+Interviewer,Think everyone learns in a different way and I was I was deciding because of this fascinates from City Heights cities I.
+Dorsey,Also had a fascination with with leaders of cities and and mayors and I was deciding actually when I was entering in.
+Interviewer,University should i go with a political science program or should I go with the computer science program I know most.
+Dorsey,People don't compare the two but i did and I decided ultimately go down the computer science route because I imagine.
+Interviewer,That if i went down political science and I went down the route of of trying to be a Marin to get into politics that.
+Dorsey,I could write a law or a rule and i could probably see the effects of it within two to four to maybe eight years.
+Interviewer,Whereas i could write rules and laws in a program and model it and see it within see the result of it within eight.
+Dorsey,Seconds so the speed was quite attractive and and just this unbounded creativity and potential that's in front.
+Interviewer,Of you when you when you program it's it's a weird feeling because um you you have this ability to just create.
+Dorsey,Something from absolutely nothing and whatever you imagine you you can you can probably do and there's a real there's a.
+Interviewer,Real electricity to that so in school i found that it was more driven towards an academic outcome than it was a practical.
+Dorsey,Outcome in my particular program so i was learning a lot more I was at DMS when I was at NYU I was learning a lot.
+Interviewer,More and moving faster than outside of the university then I was inside so I just decided that I'm going to I'm going.
+Dorsey,To and the university part and just work on that on the external and get working on on what I want to build right away.
+Interviewer,And i you know my my mom reminds me every week that I'd still have an opportunity to go back to school but I'm.
+Dorsey,Learning a lot right now and i think it's a different answer for every single every single person and you have to.
+Interviewer,Answer it only for yourself on that kind of point was it a really tough decision so you mentioned your mom and not.
+Dorsey,Necessarily i don't know she still wants you to go back to University and was there a lot of pressure from your.
+Interviewer,Parents when taking that decision or do you just go ahead and I'm more or less just went ahead and did it but they they.
+Dorsey,Were not happy about i mean they come from a Catholic upbringing in st. Louis Missouri so my parents didn't finish.
+Interviewer,High school and i was the first to even attempt going to college parents weren't all that well off so you know they.
+Dorsey,Definitely had a lot of aspirations for me in that particular vein so there was you know there's a lot of.
+Interviewer,Standard catholic guilt they couldn't went along with that decision but I got over it and I don't know if my parents.
+Dorsey,Have and and he talked a little bit about politics as well and I read somewhere that your dream job was to be.
+Interviewer,Mayor of new york city well aspirationally it was but I've realized that I feel like can probably.
+Dorsey,Influence more with with these companies and I then I could actually being a mayor and I think that's generally been.
+Interviewer,More and more the case these groups of individuals who are creating these technologies and creating these.
+Dorsey,Movements and have just so much influence right now and it's not limited to any particular geographic or.
+Interviewer,Political boundary and it's really it's really really exciting in that and that comes with a responsibility that forces.
+Dorsey,You to mature very very quickly and again it goes back to like where are you learning the fastest and I just felt my.
+Interviewer,My maturity and going down one particular route of life was was so much more accelerated than than another one.
+Dorsey,And i think going down the political route and more of a mayor route I still love I I just don't think I'd be able to.
+Interviewer,Do as much as i like and i i love my i love my freedoms and my my independence that would also be cut off so yes yeah.
+Dorsey,Coming back to the companies you're involved with both with Twitter still as well as you'll see a square how do you.
+Interviewer,Balance that is there ever a conflict of interest or just in terms of tying me how do you decide where the priorities.
+Dorsey,Are well i am i spent a year where i'd actually did half and half and the intention was just to keep that to a.
+Interviewer,Year and kept it to a year and that was really hard I started the week at square and on Monday and I would go to Twitter.
+Dorsey,In the afternoon and then i would start Tuesday at Twitter and then there would go to square and that.
+Interviewer,Junoon so i'd have this like snake through that felt like these you know 24-hour days at one company so i made it.
+Dorsey,I made it work but it wasn't it wasn't the healthiest thing and now we we just have such an amazing leadership team in.
+Interviewer,Place and and the potential is really in front of the company so I concentrate my time a lot more now on with our CEO dick.
+Dorsey,So we have dinner every every tuesday night same restaurant same table usually the same food never the same.
+Interviewer,Conversation which is always a good thing and then the food is good what is it it's a restaurant called Zuni yeah I.
+Dorsey,Probably should not have given that name out but I did probably gonna have to find a new place now I'm sorry no that's.
+Interviewer,My fault so i yeah and then i i just meet with members of the management team on Tuesday so I think there's actually a.
+Dorsey,Lot of parallels between the two companies I think they're both working on something fundamental something.
+Interviewer,Essential to a civilization and to humanity Twitter obviously working on communication and square working on.
+Dorsey,Commerce both have been with us forever we commerce I believe actually was it was a predecessor we were trading goods.
+Interviewer,And services before we're using language to trade stories and what's what's inching to me about both is if you if.
+Dorsey,You simplify either one of them there's so much that's built on top of each that actually benefit and get easier for.
+Interviewer,People and get better for people so i'd rather spend all of my time and my effort focused on the the lowest layer.
+Dorsey,Of of what we have to deal with on a daily basis and I can't think of of anything more fundamental than.
+Interviewer,Communication and commerce apart from health and education and obviously governance so I think all of those are.
+Dorsey,On the I would always I would always choose to work in some dimension and in.
+Interviewer,Simplifying those and so i see a lot of parallels between the two companies in that sense and that their fundamental.
+Dorsey,And i also see that they both they both stand for a very clear purpose and they both stand for a leveling of the playing.
+Interviewer,Field what was most amazing about Twitter was that we we designed it for for SMS so anyone in the world that had.
+Dorsey,Access to you know just a shared or a five dollar cellphone could actually have a conversation with the entire.
+Interviewer,World and you know someone with a with a five dollar Nokia could actually have a conversation with someone the $900 iPad.
+Dorsey,And we see that almost every single day and it really makes the world feel small and we have we have some of the you know.
+Interviewer,These really powerful individuals using the service and then we have we have the largest governments in the world using.
+Dorsey,The service so you know they're both the important thing is they're both using the same tool and that means you know.
+Interviewer,You're only limited by the are the quality and the influence of of your idea and and your ambition ultimately.
+Dorsey,And it can scale back and forth quite quickly and we see the same thing with Square where we have we have people who.
+Interviewer,Are piano teachers or golf instructors or doing something on the side using the exact same tool that we supply to to.
+Dorsey,Starbucks and you know glow and and to Whole Foods and if we can handle the transactional capacity of a Starbucks.
+Interviewer,That means that anyone who has that aspiration in the same way that Howard did could also use us to get there and.
+Dorsey,And that means that because it's the same tool it truly loves Lovis a playing field my mother my mother owned a coffee.
+Interviewer,Store when i was uh when i was 12 and you know she had a very very different ambition than Howard Schultz her.
+Dorsey,Ambition was to provide a venue for the neighborhood to provide a sense of community in the neighborhood to sell.
+Interviewer,Beans but tell me have three employees and those three employees happen to be me.
+Dorsey,And my two younger brothers and she didn't want to have multiple locations she don't want to grow beyond that and I.
+Interviewer,Find that to be very admirable and i think there's a there's generally a trend today where more and more.
+Dorsey,Companies and more and more groups of people can actually choose to stay small and still have massive impact whether.
+Interviewer,It's a deep impact like my mother in a community or a global impact like teams of six who can actually create something.
+Dorsey,And and really everyone around the world can can participate in and then use it Howard Schultz had a very different.
+Interviewer,Ambition which is he had a similar coffee store and he wanted that coffee store in every city around the world and.
+Dorsey,I admire both approaches but it's a difference in an ambition and and what they want to do and I believe that.
+Interviewer,Fundamentally the tools should remain consistent and and really get out of the way so that people can can meet that.
+Dorsey,Okay just so you kind of continue on that so you talked a little bit about how Twitter is a great leveler and.
+Interviewer,Indeed you can make it happen that they've been amazing things happening on Twitter and Twitter being useful things.
+Dorsey,Like the arab spring the uprising coordinating the protest and then more recently there's been a lot of focus on.
+Interviewer,Twitter trolls and some some of the negative abuse that can happen on Twitter do you see the company is having.
+Dorsey,A social responsibility to promote a certain view or promote certain ideals or is it very much as you said just a.
+Interviewer,Tool to allow people to interact i mean I think the main purpose of Twitter is to make sure that we let every voice.
+Dorsey,Flow and i think it's really important for us to see every opinion and I think ultimately like every technology is just.
+Interviewer,A reflection of of the world and what we want in civilization both the present and the future State so what we we have.
+Dorsey,To make sure of though is that everyone who participates in lending their voice to Twitter and using Twitter to amplify.
+Interviewer,That voice they feel safe doing so and you know abuse has has no has no part on on the service and we have a staff of.
+Dorsey,Many that are dedicated to making sure that people feel safe and they can continue to trust the brand and the.
+Interviewer,Service to make sure that their voices is heard everywhere in a way they want to be heard and also that they don't.
+Dorsey,Feel threatened in any way but you know I I wanna I want to live in though I want to live in a world where I can.
+Interviewer,Actually see all opinions because i think I think there's there's value in every opinion it's up to me to decide.
+Dorsey,Which one is truly valuable on which ones or which ones I act on but if we were to take that away and and live and.
+Interviewer,Very very sheltered ways i think we would we would take away a massive learning opportunity as well so I think.
+Dorsey,The most important thing is to give people controls you turn it off you turn it on and I think as long as those and.
+Interviewer,Those controls are intuitive and people know how to use them immediately people people feel great and trust and.
+Dorsey,Trust the service and and when that fails or when it's confusing or when people are frustrated we've failed as a.
+Interviewer,Company as well okay my final question on Twitter before we move on to square so then based on that do you have a.
+Dorsey,Problem with things like isil using Twitter to promote the latest their video do you see that as being something.
+Interviewer,That maybe twitter should draw a line on and you know close the site close that particular account down or do you feel.
+Dorsey,That it would get a lot of retweets is it something that people deserve to hear about I think it goes again back to the.
+Interviewer,Controls and i think um i think people should have the freedom to choose what they what they see and what they choose.
+Dorsey,Not to i don't think it should be forced upon them I don't think it should be you know an unexpected surprise in any way.
+Interviewer,I think they fully have to opt into it but the more we start adding bias or editorial to the service the less people.
+Dorsey,All over the world trusted and i think that that trust is something that we've really worked hard to earn and and.
+Interviewer,We'll continue to do more of that and be very transparent around those policies I mean I think the most important thing is.
+Dorsey,Is to explain why something like that may still be on the service and and to also work with our peers to make sure.
+Interviewer,That we have a consistent point of view around that but this is a reflection of the world today and this is happening.
+Dorsey,And i would rather live in a world where at least we're having a conversation about it and we and we're talking about.
+Interviewer,It because i think ultimately it allows us to move faster and in solving it and fixing it and addressing it if that's.
+Dorsey,What we need to do okay now moving on you left Witter or I mean you left a CEO and most people would.
+Interviewer,Have said that you know creating and founding one life-changing business is enough but you moved on to set up square.
+Dorsey,Which has just been launched in the uk yesterday was it launched around the world yesterday around the world yes not.
+Interviewer,Sure our cash register product around the world for free yesterday so those of people people in the audience who might.
+Dorsey,Not necessarily know that a huge amount about square do you want to very briefly explain what it is that you do what's.
+Interviewer,Your vision for the business yeah so five how many of you have have seen square good amount we have a lot of work.
+Dorsey,To do but we have a lot of work to do with Twitter tear so I mean that that's one.
+Interviewer,Of the reasons why you you keep keep working at this as a if it feels over just I don't think it's it's truly as.
+Dorsey,Big as it as it could be so i think so five years ago I switched roles with my co-founder eV and he was chairman and.
+Interviewer,Our ceo and i became chairman he became CEO and I reconnected with my second boss after my mother at the coffee store.
+Dorsey,Which is a guy named jim mckelvey in san Louis Missouri and he became a glass artist and we we really loved working.
+Interviewer,Together when i was about 15 16 years old and he was an engineer as well and we were talking about you know just.
+Dorsey,Wanting to work together again and we didn't really know on what and then one day he called me in desperation and said.
+Interviewer,I lost i lost i lost the sale of my glass art and he says you know two thousand dollar pieces of glass art and.
+Dorsey,The reason he lost that cell is because he couldn't accept a credit card and the funny thing was we were both talking to.
+Interviewer,Each other on an iphone so we have these like effectively super computers next to our ears and the guy can't close the.
+Dorsey,Sale because he can't accept a credit card so why why is that and and we started asking why and we started.
+Interviewer,Realizing while this industry is extremely complicated so it seemed like a very interesting challenge can we.
+Dorsey,Build something that allows jim to accept a credit card and we we set aside a month to build it and we knew nothing.
+Interviewer,About the credit card industry both of us were actually in credit card debt at the time we you know we we saw what the.
+Dorsey,Credit card industry actually did to st. Louis and families in st. Louis we didn't really like the credit card.
+Interviewer,Industry in many ways we didn't think it was fair but we recognized that buyers were using them all the time and in the.
+Dorsey,United states and all these independent sellers and and the smaller folks really just had no opportunity to even accept.
+Interviewer,Them so what it meant is they they ultimately missed a sale and they they missed an opportunity to grow or.
+Dorsey,Opportunity for revenue and so we we searched on Google for how to accept credit cards we found rock-bottom.
+Interviewer,Merchant accounts calm we signed up for rock-bottom merchant accounts calm and we started learning about well how do we.
+Dorsey,Actually accept the credit card do we take a picture with the phone no that seems like a weird experience if I'm.
+Interviewer,Handing over my credit card and you're taking a picture of it we looked at the 30 pin on the bottom of the iPhone and.
+Dorsey,Turns out that has a huge license fee and we just didn't want to pay that and and then the interesting thing was.
+Interviewer,Uh all these phones have a headphone jack on it and the headphone jack is also a microphone and if you probably.
+Dorsey,Not for a lot of your cards but if you take out your credit card and you look on the back there's a magnetic strip and.
+Interviewer,That made magnetic strip is actually the same technology that you would use in a cassette tape to play music in fact that.
+Dorsey,Is an audio track and that audio track can be decoded into numbers and those numbers are your credit card number and.
+Interviewer,Your expiration and if you actually play this audio track it sounds like a squirrel screeching like I don't know if.
+Dorsey,You've heard a squirrel screaming but it's not a it's not a pleasant sound at all.
+Interviewer,But if you if you swipe it through you actually hear that sound and you can write some software to decode that into.
+Dorsey,A number and then you can send that number up to Visa and MasterCard you can check to see if there's funds available.
+Interviewer,On it and if there are you capture them and then that goes into a bank account so we ultimately made a cassette tape.
+Dorsey,Reader that plugged into the microphone jack of the iPhone and we swiped the cards through and that and the damn.
+Interviewer,Thing worked and and we swiped this is my favorite company to pitch ever because I would go around to people and.
+Dorsey,I would say do you want to see my new my new project and they would say yeah and I would say and give me your credit card.
+Interviewer,And and they would say no i said well he and I can see what I'm working on and and then they would hand it over and I.
+Dorsey,Would take anywhere from five to five hundred dollars or take $500 for the from the people who.
+Interviewer,Gave me like black amex doesn't what not so and and the way we we pitched it to TV sees when we actually decided to.
+Dorsey,Build a company and raise money was to see the pitch they would have to give me their credit card as well and we we did.
+Interviewer,Something interesting i put all the b C's that I didn't want to work with in the first week and I met ten during the.
+Dorsey,First week and all the vcs that i really wanted to work with in the second week and and the reason why is I wanted to.
+Interviewer,Make all my mistakes in the first week and then just nail it in the second week in the last the last we see that we Matt.
+Dorsey,Is the one i wanted to work with most which which was Vinod Khosla of Khosla Ventures and the price started very high.
+Interviewer,With a hundred dollars and it went down to $1.00 with Vinod but it was um it was just uh there's a lot of fun we learned.
+Dorsey,So much about the credit card industry and risk and fraud and we knew nothing about building hardware and we we.
+Interviewer,Learned everything that we needed to to make it work in a month and it just started resonating with with everyone we.
+Dorsey,Showed and and little by little we figured out how to actually build the readers and send them out for free and.
+Interviewer,And then a funny thing happened in that we realized hey we weren't just building a credit card terminal but actually were.
+Dorsey,Building a full point-of-sale and these points of sales around the world and it's a there's a reason that the acronym.
+Interviewer,Is pos they are not the best systems in the world and people don't have a hold you know very high regard for for a.
+Dorsey,Point of sale it's usually a effectively a calculator on on top of a cash box but what's what's interesting in the.
+Interviewer,Opportunity is that there's all this potential data and insights that you can have around a business you can actually.
+Dorsey,Bring back up to the seller to help them make better decisions around how to grow their business and some people decide I.
+Interviewer,Don't want to grow my business i'm happy like my mom with what I have but a lot of people do want to grow the business.
+Dorsey,And they just no access to any analytics around how they're doing most places that we.
+Interviewer,That we found in america like coffee places you go in and you ask them a very simple question how many cappuccinos did.
+Dorsey,You sell today and they'll have no idea and if they do know they were usually counting cups coming out of the.
+Interviewer,Dishwasher or waiting for you know their paper cup inventory to diminish and it just seemed so simple to solve but no.
+Dorsey,One's spent the time to do it so we ultimately have been working on for the past five years a really sophisticated.
+Interviewer,Register that is in many ways on par or better with what a Walmart has in terms of running and understanding their.
+Dorsey,Business and we give it away for free to all these sellers and that's what we we launched yesterday and made available.
+Interviewer,To the whole world so anyone around the world can download this piece of software for their Android or their or.
+Dorsey,Their iphone and and really see and understand their business and and you know hopefully hopefully grow that.
+Interviewer,Business from it because we just believe so much in the power of the independent business and the small business to to.
+Dorsey,Drive the global economy do you see this being particular focus you talked a lot about for example coffee shops in.
+Interviewer,America but off the top of my head i can just think of for example in India we it's a place where there are there.
+Dorsey,Aren't that many huge supermarket chains and loads of small businesses and nowadays there are so many smartphones.
+Interviewer,Out there do you see this has been particularly helpful in places like the developing world or it's not really.
+Dorsey,Something that you know yeah i mean i think it's less about we're definitely seen as a as a mobile payments company.
+Interviewer,And mobile payments is one of those phrases that just means kind of everything and and therefore it means.
+Dorsey,Nothing and and i think ultimately what it's about is is around commerce which is a very very simple activity it's a.
+Interviewer,Exchange between a buyer and a seller and it has nothing to do with the payment device that's used to do that it.
+Dorsey,Could be a barter it could be a digital currency it could be a credit card it could be it could be a paper currency.
+Interviewer,But what's important is really accounting for that transaction that exchanger buyer because if you can.
+Dorsey,Account for you can learn from it and then you can grow so I think that applies in in every.
+Interviewer,Every market not just not just a market like the United States or in Europe but but everywhere because I think everyone.
+Dorsey,Can make use of of insights and and the Stata and if they have access to it in an easy way where they can just flip it.
+Interviewer,On and wow like I you know why am I getting all these sales at 3:40 p.m. and what if I.
+Dorsey,Open you know an hour what if I stay open an hour later for the next two weeks what does that.
+Interviewer,Actually do to my to my business turns out and increases my business by 20% we've had we've had sellers you know.
+Dorsey,Look at that and and and and actually perform those action so now our job is to answer that question and direct them.
+Interviewer,In that way before they even ask the question right and and that's a that's really exciting and and then we can also.
+Dorsey,Build pretty interesting services like we we have we've we launched a service called square capital six months ago and.
+Interviewer,What it does is we have this deep because we're building the register our merchants these companies are putting.
+Dorsey,Their full inventory their full menu a list of all their employees their full business all their sales into this one.
+Interviewer,System so we have this really deep understanding of how they're doing right we know their industry we know we know a.
+Dorsey,Lot about where that industry is going so what we can do is after after a few a few months of them just using the.
+Interviewer,Register which is free to download and free to use we can actually send them an email saying you know here are three.
+Dorsey,Options were we're happy to announce that you know we we can extend you advance you capital and from these three.
+Interviewer,Options it could be a thousand dollars it could be five thousand dollars it could be ten thousand dollars would you.
+Dorsey,Like to you know get this advance of capital here's the price it's all fair it's all upfront you know exactly what.
+Interviewer,You're paying for the capital and you can choose one of those and it goes into your bank account the very next business.
+Dorsey,Morning and typically you have to go to a bank and get small business loan and that processes.
+Interviewer,Six months to even a year in some cases and the way that this advance is paid is is paid and returned is actually just by.
+Dorsey,Swiping their customers card a fee is extracted so just in the course of doing their business they're actually paying.
+Interviewer,That advance back and and we've lent and we've advanced over seventy five million dollars in just six months to 15.
+Dorsey,Thousand sellers and 85% of sellers who have taken in vance once take another one so there's an opportunity not just.
+Interviewer,To build something that accepts a payment not just to build something that allows you to see your business but.
+Dorsey,Actually can give businesses capital to grow their business in a very fair and up front and in a very rich rich way.
+Interviewer,Okay my final question before we open it up to the audience how do you see square working with things like Apple pay the.
+Dorsey,Introduction of nfc chips and phones or is it a competitor and things that even like Bitcoin I guess yeah I think our.
+Interviewer,Philosophy has always been you know we're building this register right and we need to empower our sellers to accept.
+Dorsey,Every form of payment that comes across the counter and whether that's cash cheque EMV NFC Bitcoin any other digital.
+Interviewer,Currency that comes their way our sellers should never have to think about that they should always think about.
+Dorsey,Making only think about making the sale and buyers should just have the the freedom to use whatever they want to use.
+Interviewer,So if they want to use bitcoin they should be able to use Bitcoin and they should not the seller should not have to.
+Dorsey,Think about what currency or what payment method they're they're using so we we started in the US we opened in.
+Interviewer,Canada and japan and nfc has just never been large in those in those markets and I know that it seems counter to what you.
+Dorsey,All experience because nfc is is growing quite quickly in the rest of the world but I always found the u.s. is really.
+Interviewer,Behind and technology adoption masek adoption like even with Twitter it took us 10 years to really adopt SMS and mass.
+Dorsey,You all had it for 10 years prior to to the United States and and we didn't really get it until 2005-2006 and the.
+Interviewer,Reason why is it was the first time when you could send a message between the two largest carriers a text message between.
+Dorsey,Two large cares which were verizon and singular because they both had different technologies SMS as you know as a g8 GSM.
+Interviewer,Technology and verizon is cdma so we we never really invested in building an NFC reader because we're in markets that had.
+Dorsey,No buyer adoption whatsoever of nfc so Apple could change that but what they've done is they've created a convenience.
+Interviewer,Which is a chip that proxies a physical card and allows it to be read by an NFC terminal so we we certainly don't see it.
+Dorsey,As as competition in any way because we're not building a phone and we're not building a payment payment device we're.
+Interviewer,Building a register that accepts payments and and what that means is we need to build NFC terminal that that.
+Dorsey,Accepts it and back to that philosophy of of making sure that ourselves can accept every form payment it's something.
+Interviewer,We have to do we have a we have a product called square market that allows anyone who's using the register to flip.
+Dorsey,A switch on any of the items in the register and it builds a web page for them that they can tweet out or put on.
+Interviewer,Facebook or put it on their own their web page and people can actually buyers can actually use Bitcoin to pay with.
+Dorsey,That so if if they've turned on the the ecommerce ID for any of those items bitcoin is an option for a buyer and we.
+Interviewer,Get a small amount of orders from that but it was important for us to make sure that we're we're constantly testing.
+Dorsey,Testing these new technologies and and you know our sellers are paying us to do that work and to be ahead of it.
+Interviewer,Brilliant so that's it from me i'm now gonna move on to some questions from the audience hi why 140 characters.
+Dorsey,It's a great question so there's two reasons one practical and one conceptual so the practical one first is that we we.
+Interviewer,Originally focused on sms and and the web was really just a way to kind of archive and and see the tweets later on.
+Dorsey,The web was really not a big part of the original vision because we wanted something Noah's there was real time in.
+Interviewer,Life and you could actually feel and and it would buzz your pocket right you could actually physically feel it so the.
+Dorsey,Other thing that was really important to us in working with SMS was making sure that we had a very simple approach and.
+Interviewer,Simple experience and that simplicity met in that case that we would send one message that a message would not break.
+Dorsey,Up and there was a limitation in sms at the time which was a hundred and sixty characters so I had a really really.
+Interviewer,Cheap little nokia device and i loved the thing it was from a virgin and there's a prepaid phone and I wanted to.
+Dorsey,Make sure that it worked on this thing and I had a great experience on it and you know that was a t9 keyboard and a.
+Interviewer,Lot of you probably haven't used the t9 keyboards but I used them and I loved them is super fast and so we we took.
+Dorsey,Those 160 characters and you know i also paid for every text message so we didn't want to we don't want to break it up and.
+Interviewer,And and require you know to receive a text message to get charged twice for one for one tweet this was important to.
+Dorsey,Me but it was also important to if we wanted to go around the world we could actually reach everyone in a in a.
+Interviewer,Cost-effective way as well so the 160 characters we took 20 characters out for the username and we arrived at 140 and.
+Dorsey,That was that but the conceptual side of it was we believed that you know this constraint inspires a creativity and if.
+Interviewer,We really constrain the size of the canvas people might be more off-the-cuff and.
+Dorsey,They might be more in the moment and that's really what we wanted because we wanted this to feel again very live and.
+Interviewer,Just very very human and very of the moment and and the metaphor you know we use is like if I were to give you a red.
+Dorsey,Paintbrush and this huge canvas that that just took up this entire wall and I asked you to go paint that canvas you.
+Interviewer,Compose yourself naturally right because this is a huge canvas and you want to you you want to you want to do the right.
+Dorsey,Thing you know that that's what it kind of goes through your mind but if I were to give you that same paintbrush and.
+Interviewer,That same red paint and i'd give you a business card and I say make a mark just very quick to make the mark and and.
+Dorsey,That's kind of the feeling we wanted was that everything you everything you write everything you tweet is a value to.
+Interviewer,Someone and we wanted to make sure that it feels like you can just fire these things off very very quickly as if you.
+Dorsey,Were you're speaking and and and someone the interpreter is going to devalue it and that's always been really important.
+Interviewer,To us and you know in the in the early days of the service we we got a lot of we got a lot of heat for 140 characters.
+Dorsey,And just how useless twitter was right and and people would would explain in a way that wow this is just a since it's.
+Interviewer,Only only 140 characters you know all people are gonna end up doing is just talk about what they have for breakfast.
+Dorsey,And we would share that so much like theirs and Twitter is just about what you have for breakfast and you know my.
+Interviewer,Answer to that is well you know sometimes I do tweet about what I have for breakfast and most of the world.
+Dorsey,Could care less and was probably offended because it's so not valuable to them but there was one person in the.
+Interviewer,World that really cares and that's my mom and when she gets the tweet that I just stayed breakfast and one day for.
+Dorsey,Breakfast and she's really happy because she knows that I'm still eating I'm alive and yeah and I had breakfast and.
+Interviewer,She loves it so what i mean what's in thing about that is it's all up to who receives a message and who interprets.
+Dorsey,The message and we can't we can't judge the value as it goes out we you know we have to leave it up to the individual to.
+Interviewer,Really bring value to that message into that tweet and that's always been an important part of our philosophy Thanks.
+Dorsey,What are some of the key lessons from your time at Twitter which helped and influenced the way you set up and.
+Interviewer,Launched swear there were many i you know again I really had no aspiration to be a CEO or to be a leader in the.
+Dorsey,Company or even create a company i just wanted I wanted to to build and use this thing and I was so excited about that.
+Interviewer,And and and really you just learn whatever you have to you learn whatever you have to learn to make that work and.
+Dorsey,And right now a company is just a great vehicle to spread an idea around the world and it allows an idea to to thrive.
+Interviewer,But the idea and the purpose of our work always leads not not the company the company is support and that and the.
+Dorsey,Businesses is oxygen not a to that idea so I think you when when you are tasked with then creating a company you kind of.
+Interviewer,Want to you you you tend to or at least I did you grow up a little bit too fast sometimes and you try to put too much.
+Dorsey,Structure in place or the wrong structure in place and that distracts you from you know really the work that.
+Interviewer,You absolutely need to do and one of the interesting thing I did two big lessons from from that time number one was the.
+Dorsey,Power of instrumentation the power of knowing exactly what's happening within the system and the power of transparency.
+Interviewer,Within the system but also within the company so we would go down a lot in the early days of the company because we.
+Dorsey,Just had no instrumentation at all it's like driving the car flying a plane and not having any sense of how fast.
+Interviewer,You're going right it's extremely dangerous so we we just didn't know what people were doing.
+Dorsey,With it how how the resources were being used and and ultimately it just crashed to a.
+Interviewer,Halt multiple times and little by little we started instrumenting the system and we we built simple things that would.
+Dorsey,Tell us what the system is doing or how people are using it and these seem like of course you build dashboards and of.
+Interviewer,Course you you know you look at the data but you know in the in a moment when you're creating these things that's not.
+Dorsey,What you put first it's it's often an afterthought and the biggest thing that that solved was we stop speculating.
+Interviewer,About what was going on and we could actually point to what was going on and then since we could point to it we could.
+Dorsey,Fix it and we had a ton of communication issues in the company at that time just that we wouldn't talk to each other for.
+Interviewer,In some cases and and in like engineering sometimes we want to talk to operations and when you have those.
+Dorsey,Divisions in the in the company the people using the service actually see the results of it right so any.
+Interviewer,Organizational difficulty actually manifests in the service itself and that's just ultimately rude and selfish.
+Dorsey,And you're putting your own your own mess in front of the people that are using your service or the customer so as.
+Interviewer,We started instrumenting the system we had a lot healthier communication this is a funny thing because we're building.
+Dorsey,A communication company and we couldn't communicate internally so that was number one and the first bit of code I.
+Interviewer,Wrote for square was an admin dashboard so we could actually see everything that's happening constantly and then.
+Dorsey,Number two is just how important it is to to really make sure that you're building the right team dynamic and and.
+Interviewer,That means hiring great people who share your you know who share the purpose and share the vision but it also means that.
+Dorsey,We're parting ways with people who who don't and and we had some people in the is a Twitter who were just you know not.
+Interviewer,Not not not folks who really worked well together with others and and this was probably the hardest thing for me to do.
+Dorsey,As a ceo in the early days i had to i to fire someone who had the entire system in their head and when you're faced with.
+Interviewer,That you're like well i can't i can't fire this person because if I fire this person then the whole system is going.
+Dorsey,Down and we can never get it back up and it took me a long time to do it about six months and that's you know a regret.
+Interviewer,Actually but ultimately when i when i did it and I did it and you know when I when I was when I was when we were.
+Dorsey,Parting ways i was crying and he was crying and then I went back to tell the company and we're only about seven.
+Interviewer,People and i was crying and the company was crying and like it was at a very emotional period because we were also.
+Dorsey,Under a lot of stress because we're constantly going down and now we just parted ways with the guy who knew how to.
+Interviewer,Bring the system back up but something really interesting happened immediately after that all these new leaders and the.
+Dorsey,Company emerged and actually we didn't go down and and we built we built a lot of great practices to stay up more and.
+Interviewer,More so i think when you're just getting started whether it's a company or organization you try to get people.
+Dorsey,Really quickly but you don't you don't edit as much and you don't really make sure that there's a great team dynamic.
+Interviewer,And if you don't it can be really really poisonous to the culture and and ultimately will will block new ideas and.
+Dorsey,New leadership from from emerging so constantly looking at the team and making sure that we have the right team.
+Interviewer,In place is something i applied to square as well hi my name is Christian R once and thank you for coming to Oxford.
+Dorsey,Today my question to you is what do you think more people in your position within the tech industry can do to.
+Interviewer,Encourage women in tech so in your case you've invested in peak and you've also AM set up a female coding program at.
+Dorsey,Square what do you think others in your position can do to follow suit well I mean I think.
+Interviewer,I think doing it i i don't i don't think it's just women in tech but really established establishing more leadership.
+Dorsey,In in our in our women and i'm really proud to say that like over over 54% of squares led by by women on my team so.
+Interviewer,Our cfo our head of business and our head of engineering are all women leaders and they you know I think the.
+Dorsey,Most important thing is to always establish a role model for who you're who you're really looking to become in.
+Interviewer,Terms of your own leadership aspirations and and your own aspirations around impact so making sure that we're we're.
+Dorsey,Really hiring for that and and we're hiring really great people to put them in those positions of leadership and.
+Interviewer,We're and we're establishing that in the company as a majority of the company not a minority of the company is really.
+Dorsey,Critical and and then and then talking about it all the time this is this is what we've done and and we're really.
+Interviewer,Proud of it and we're doing more and this is what that looks like and we've invested a lot of time and effort and.
+Dorsey,Resources into programs like girls who code who does an intensive seven-week program teaching girls how to engineer.
+Interviewer,And program and we have our own program called code camp which we do three four day intensive for college girls and also.
+Dorsey,High school women as well so i think it's you know just just doing it and making the time investing in it and and.
+Interviewer,Setting the intent and and you know making sure the whole company knows that this is our intent and this is something.
+Dorsey,That we believe in it'll just spread because everyone in the company will constantly talk about it as well and.
+Interviewer,That'll spread around around the industry so we try to talk about it in in there's many ways and channels as.
+Dorsey,We can with square you seem to have got lots of funding on board and it seemed sort of from the face of it that you're.
+Interviewer,Very much in charge still in my experience that's quite hard small startup but big funds on board how do.
+Dorsey,You go about attracting funding and then managing your investors after you've secured it I think the the thing that's.
+Interviewer,Always worked for me is realizing that your your investors are first and foremost I always want to go to anyone.
+Dorsey,That i want to work with with something to show and it was really important to us before we talked to any investors on.
+Interviewer,The twitter side that we actually had people using the service and in in in some at some scale and on the square.
+Dorsey,Side that we actually had a working prototype square we had really seven merchants when we actually went to raise.
+Interviewer,Money but we had a working prototype that people are actually using and if people can't see it and feel it's very.
+Dorsey,Very hard to sell and i don't want to just go and tell people this is gonna be the biggest thing ever.
+Interviewer,I want to i want to be able to show that and have them feel it and walk away feeling that as well so that's first and.
+Dorsey,Foremost is have something to show and so that they can actually feel and start making it a part of their story as well.
+Interviewer,And feel like they have ownership over it and then second is the realization like I always kind of approach this is.
+Dorsey,Like this is a this is a if if we take money from someone this is kind of like hiring someone that we can never fire we.
+Interviewer,Can never get rid of right so that means do we really want to work with this person is this person going to be.
+Dorsey,Someone that really pushes us pushes us in a way that we need to be pushed and and you can tell that very fairly.
+Interviewer,Quickly in that first week of pitching square got a lot of people who said you know okay great we don't have any.
+Dorsey,Questions we'll get back to you in about 30 minutes probably with with the term sheet and I said I don't want a term.
+Interviewer,Sheet especially if you're not asking any questions because they asked no questions.
+Dorsey,During doing the pitch and that means if if they're on our board that they're actually not going to be all that.
+Interviewer,Constructive in terms of really asking the tough questions and making sure that we're you know we're not just in our own.
+Dorsey,Bubble but they're looking outside that is the role of the board is to is to look outside and bring all their insight.
+Interviewer,And wisdom to us so that we can help guide to guide the company and and that second week we got a lot of tough.
+Dorsey,Questions and and that's what i love because I know if I'm getting tough questions in the pitch I'm going to get.
+Interviewer,Tough questions in the boardroom as well and not just the boardroom but every week I mean if a node emails me once a.
+Dorsey,Week about have you thought about this are you doing this and you know I know this person can I make an introduction.
+Interviewer,Here and it's just very very useful so I'm looking for someone who I just love working with and I think you you have to.
+Dorsey,Set a very very high bar it's not just about money or the firm it's about the individual that you're ultimately going.
+Interviewer,To work with and people ask me all the time like you know what firms would would you suggest I go pitch and like.
+Dorsey,Fine find the people that you really want to work with in those firms and if there's someone that really you know.
+Interviewer,Just really resonates with you and you love and you love the idea of working with them focus on them and if it if it.
+Dorsey,Test out to be to be the case great but I think you have to kind of treat it as like I'm adding this person to my team.
+Interviewer,And square was um was a little bit different because one of the things that I stated to all the investors in the.
+Dorsey,Board meeting and and and folks who might join the board is like look this is not going to be a stress-free company.
+Interviewer,Like there are so much interest in in commerce and payments and there's gonna be a ton of competition in the future.
+Dorsey,We're very early right now but this for me a ton of competition in the future and not a lot of people want to work in.
+Interviewer,Payments because it's perceived as being slow and you have to work with these banking partners which aren't the.
+Dorsey,Fastest moving organizations in the world and people are trying to steal money from me all the time.
+Interviewer,So this is not a place that you know it's going to be stress-free so I need to know that you will actually have a.
+Dorsey,Level head in times of in times of crisis because it's going to be very easy for us to see something and then.
+Interviewer,React quickly and if we constantly react to something then we're actually building someone else's roadmap and.
+Dorsey,We're not fulfilling our own vision and I want to make sure that we stay calm cool collected in that as a board and as.
+Interviewer,An investor group and that you trust the folks with the most context to do the work and that is the folks in the.
+Dorsey,Company and i just made sure that everyone everyone knew that and if they didn't like that then don't invest and.
+Interviewer,And some people some people walked because that and that was great great for me because that meant I didn't have.
+Dorsey,To deal with that later on you know i think social networking platforms have had the dual effect of attracting.
+Interviewer,Hundreds of millions of people but also alienating many those who've used it and also those like me who never joined them.
+Dorsey,Not because i never wanted to sort of enjoy the benefits that they offered but because of my sort of fears over privacy.
+Interviewer,And you know my fundamental skepticism of sort of where technology is headed so what do you say to that and how do you.
+Dorsey,Try to coax those people that the unconverted the the fearful but the ones who are equally as enthusiastic as you.
+Interviewer,To to join sort of the global community whether online or personally thank you I think it's a I think it's a great.
+Dorsey,Question and it's definitely a concern shared by by many I think the first and foremost we we say the word technology.
+Interviewer,And we tend to put it on a pedestal and that pedestal makes it very abstract and then that abstraction makes it very.
+Dorsey,Scary and we have to keep in mind that technology is ultimately just a tool and these are tools and we pick up the tools.
+Interviewer,And we give power to the tools and and we can also take that power away from the tools fundamentally I believe.
+Dorsey,That all tools and all technologies are really just reflections and mirrors of our desires as civilization our desires.
+Interviewer,Is as a humanity and and ultimately i think a reminder and potentially even a crutch that we're already born with.
+Dorsey,Everything that we need and i truly i truly believe that you know and you see this trend where we're moving from these.
+Interviewer,Abstractions where you know before a computer would fill this room and now it fits in my pocket and maybe very soon.
+Dorsey,Around my wrist and just 10 years ago the only way to input something was a keyboard and a mouse and now we're using.
+Interviewer,Our fingers and potentially very very soon we'll be using our voice and and and and more of these these very human.
+Dorsey,Aspects so the interfaces keep becoming more and more human and and and utilizing more of what we're born with.
+Interviewer,And i think what what's important to me about about Twitter is that I think it's a closest thing that we have to right.
+Dorsey,Now that we have to like a global consciousness where you can actually see the world in real-time and not only can.
+Interviewer,You see what's happening from from a news level and from an event level but you can actually see how people think.
+Dorsey,And feel about it and ultimately if we have more of that sort of activity and and the nice thing about Twitter is you.
+Interviewer,Share as much as you want or you can just stop if we have more of that activity though we actually see how.
+Dorsey,People live and what they desire and you know how they want to how they want to see the world how they want to change.
+Interviewer,The world how they want to live in the world and ultimately I believe that that creates a potential for empathy and if.
+Dorsey,We have more empathy in the world we have more opportunity to remove a lot of a lot of conflict so I think broadly we.
+Interviewer,Can use these tools in a way to build more empathy around the world and that empathy can actually actually.
+Dorsey,Has a chance to to diminish a lot of the conflict that we see in you know where we've also internalized but I I believe.
+Interviewer,That we have the tools necessary to do it without these technologies as well and I think these technologies really.
+Dorsey,Serve a purpose of reminding us of that and you know maybe in 20 years 50 years we will understand how to lock more of.
+Interviewer,The powers of the mind in order that in order to do that when we're busy exploring space and we're busy exploring.
+Dorsey,The the physical universe but but what really interests me is are the folks that are really exploring that the.
+Interviewer,Depths of the of consciousness and how the consciousness actually interconnects and how it relates and I think.
+Dorsey,Technology provides a model for that that might teach us in different ways so I think it's something to be excited.
+Interviewer,About but it again goes back to these controls of how do I turn it off and how do I turn and turn it on and if that's.
+Dorsey,Not intuitive or if it's not apparent then it's going to feel scary and if we continue to use these words like.
+Interviewer,Technology or disruption or we don't explain that the why of what we're doing with these things these these are things.
+Dorsey,To increase the amount of people who can participate and these are things that increased velocity of communication or.
+Interviewer,Effort and if you increase velocity and the increase participation you get time back for more meaningful pursuits and I.
+Dorsey,Think that's enough positive but we can also use the tools in a very negative way and we just we have to make that.
+Interviewer,Decision it's ours and ours alone it's not the tools greatest inspiration I that that varies.
+Dorsey,That varies a lot i think i think you always find role models for phases of your life and right now I'm I'm really.
+Interviewer,Obsessed with this artist named robert Irwin I mean how many of you know Robert Irwin okay well he has a he isn't.
+Dorsey,There's a book out about him which is an interview of his life and he's an artist and he he started as a as a painter and.
+Interviewer,Then he started questioning well do i really need the boundaries of the canvas and then he moved to to light and then.
+Dorsey,You know he made these these light sculptures upon walls and he's like well do I really need the the wall and then.
+Interviewer,He started using you know just these massive rooms and he's just constantly questioned every single thing and I love.
+Dorsey,People who who really are comfortable exploring this this this ultimate question of why right so you know why is.
+Interviewer,The question that is just it's the easiest question to ask but it's the hardest question to answer right and.
+Dorsey,That to me is is really you know the driving force and and and what how curiosity manifests is being able to.
+Interviewer,Constantly ask the question why and doing the work to answer the question why and this is a this is a you know.
+Dorsey,Sometimes a fun little exercises you take a your friend or your parents or or your nephew or nieces or brothers or.
+Interviewer,Sisters and i would do this to my parents all the time like dad why is the sky blue as I well you know.
+Dorsey,Such-and-such recession like well why like well you know because this and why and he's like that's just how God made.
+Interviewer,It and it's just it's it's interesting how quickly people kind of go to Authority and then there's another route.
+Dorsey,Where instead of going to authorities look well that's that's what we prove to science or you know that that is uh.
+Interviewer,That's how the universe works or that's what you know this person said or that's what you know my boss said or whatever.
+Dorsey,It is there's another course where we can say I don't know and if you're saying I don't know then that means that.
+Interviewer,You're going to find out and and robert Irwin is someone who just constantly questions every single thing that he.
+Dorsey,Does in terms of this that's why what like why am i painting in a canvas why is that I don't know and and then he.
+Interviewer,Explores a completely different meaning so he's a he's definitely a current role model but I've I've had I've had many.
+Dorsey,Many throughout my throughout my life Virginia Woolf is another one to whom I love and in terms of just her her prose.
+Interviewer,And her writing style and just her strength and confidence and comfort with being isolated and in her work and her.
+Dorsey,Art and you know just how how she lived thanks very much for coming today Jack I really enjoyed your talk my question.
+Interviewer,Relates primarily to the branding of Twitter and you touched briefly on on some branding issues could you talk.
+Dorsey,About a little bit how about how you came up with named Twitter and also the verb to tweet I mean it's something that.
+Interviewer,Everybody knows regardless of whether they're a Twitter fan or user or not and to me it's very iconic and I think you.
+Dorsey,Really nailed it i'd really like to know the thought process about how you got there yeah I I would agree with you I.
+Interviewer,Mean i think um i think twitter is a is one of those brands now that has so much awareness around the world I think it.
+Dorsey,Actually has more awareness or equal awareness to to coca-cola but unlike coca-cola it actually stands for.
+Interviewer,Something it's not just a beverage no offense to coca-cola but I don't drink it.
+Dorsey,But it actually stands for something to people because people bring the meaning to people bring their own purpose to it.
+Interviewer,And people bring their own ideas to it and and they feel ownership over it as well so we uh when we were starting the.
+Dorsey,Company we wanted something that really kind of expressed or had a physical manifestation you know because when you.
+Interviewer,Received one of these messages and they were called updates at the time we didn't have the word tweet when you.
+Dorsey,Received an update your phone would would buzz and we we just thought that was so cool that like you know you do.
+Interviewer,Something virtually and it actually affects something physically that was amazing and it was just so cool for me.
+Dorsey,As a programmer i could write one line of code and I could actually make business pocket buzz which is hard to.
+Interviewer,Say and he's like whoa and takes out his phone and it's a message and I just thought that was so cool so we wanted a.
+Dorsey,Name that really celebrated that and we came up with the word jitter and twitch and both of those words don't really.
+Interviewer,Bring up the best sort of imagery right it's something you actually want to avoid so Noah Noah glass who started OTO.
+Dorsey,And and and and and was formative in the early early Twitter days went to the dictionary and he found the word Twitter.
+Interviewer,And it's actually in the dictionary and it was in the dictionary before the company and it means a short.
+Dorsey,Inconsequential bursts of information and chirps from birds and we saw the definition were like of course I mean.
+Interviewer,This is it this is what we do so we took that name and then like a standard web 2.0 company we removed the vowels and we.
+Dorsey,Started with the name twt tr but we didn't do it just to copy like a Flickr or the you know the the web 2.0 trends.
+Interviewer,We did it because we were text-based and in the United States a short code was was five digits and we wanted.
+Dorsey,We wanted our shortcode to be twt tr so we applied for it and then we found out that this magazine team people had that.
+Interviewer,Shortcode so then we added the vowels back in and we came up with shortcode four zero four zero four which had.
+Dorsey,Nothing to do with what we did but it was available so so then our name was our name was Twitter and because it was.
+Interviewer,Chirps from birds we we we took a bird illustration that we found on the web and that became our logo and and then.
+Dorsey,The people using the service actually came up with the word tweet and you know we a lot of our history is really around.
+Interviewer,People using the service inventing ways of doing things on the surface the at user name the hashtag the retweet I.
+Dorsey,Think one of the one of the new kind of models and and interesting behaviors is this concept of the tweet storm which is.
+Interviewer,You know number one number two number three number four number five number six it's a series of tweets that's meant to.
+Dorsey,Be won all these things have been invented by the people using the service and the word tweet was coined by the.
+Interviewer,People using the service so it's it's really meaningful when you build a brand so that people can bring their own.
+Dorsey,Personality and their their own invention and and product too because that means you haven't just built a.
+Interviewer,Product you've actually built a platform and people can build upon that platform and make their own thing upon that.
+Dorsey,Platform and then if they feel ownership over that they continue to just use it and in really interesting ways so we've.
+Interviewer,Been very very fortunate in in the name and and the bird as our logo and and the current bird just you know when you see.
+Dorsey,It it really stands for something it doesn't just stand for something for the people in the company but stands for.
+Interviewer,Something for the four people in the world and and and and that's something I'm really really proud of but naming is.
+Dorsey,So difficult and something that i i-i've always had trouble with because my name people always thought my name.
+Interviewer,Was actually john they thought jack was a nickname and no I said you know my name is actually Jack believe me and my.
+Dorsey,Name actually has 14 different definitions and in the dictionary Jack and thirteen of them are derogatory so I.
+Interviewer,Always had i always had issues with my name and a naming in general and but but having the right name just just really.
+Dorsey,Makes makes everything really magical so yeah pretty well unfortunately that's all we have time for today thank you all.
+Interviewer,For coming and i would like you all to join me in thanking mr. Dorsey thank you.

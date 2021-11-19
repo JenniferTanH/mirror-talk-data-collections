@@ -1,0 +1,3413 @@
+so the format for today will be I'm
+
+gonna be doing a short interview with
+
+mr. Dorsey before we then open it up to
+
+your questions from the floor
+
+so my first question is one that I asked
+
+you just ten minutes ago before I
+
+realized I don't want you to answer what
+
+is the best thing about your job
+
+probably the best thing about my job is
+
+just being able to see like the feeling
+
+you get when you are when you help
+
+create something and you actually see
+
+people interact with it and you see
+
+people use it whether it be you know in
+
+my case a program or a piece of hardware
+
+or art when you actually see it on
+
+someone else's face and you and you see
+
+that interaction it's just uh it feels
+
+electric so being able to to see people
+
+use our technologies and and to see our
+
+customers has been really something my
+
+favorite is always when my my mom
+
+independently discovers something that I
+
+didn't have to tell her about and and
+
+there are two moments when the first
+
+thing is my parents were some of the
+
+first people on Twitter and we started
+
+with SMS and my mom thought it was the
+
+it was the way to contact me and my
+
+family like she thought Twitter was SMS
+
+and she thought it was a private channel
+
+so she would and you can now search back
+
+to all of her first tweets and it's at
+
+Marsha Dorsey you can search back to all
+
+of her first tweets and she was actually
+
+like yelling at my brothers and Jack
+
+when he coming home and all these other
+
+things and then she realized oh wait a
+
+minute this is public and then the
+
+second time with with square is she her
+
+favorite coffee store and st. Louis
+
+Missouri some coffee started using us
+
+and she she went in and she she texted
+
+me she's like Jaka
+
+you know my favorite coffee store just
+
+started using square and like I love
+
+when people just happen upon it rather
+
+than having to direct from my head go
+
+look at what I made go look at what they
+
+did especially you know someone someone
+
+like my mom so it's always uh that's
+
+probably the best part of the day is
+
+seeing how people seeing how people use
+
+it okay and with regards to kind of your
+
+early career I read somewhere that one
+
+of the main inspirations for Twitter was
+
+um
+
+taxi systems and how they have very
+
+short you know messages to convey where
+
+they are is that true yeah yeah I really
+
+missed the boat on creating goober but I
+
+was a huge huge into dispatch and the
+
+reason why is and playing again back to
+
+my parents my parents I'm from st. Louis
+
+Missouri st. Louis Missouri how many of
+
+you have been there st. Louis so st.
+
+Louis has has had a has had a tough
+
+history and so in the 40s 50s and 60s a
+
+lot of people left the city and moved
+
+out to the suburbs and my parents are
+
+always stood by the city and the
+
+metropolitan area is about 4 million
+
+people and the city has dwindled down to
+
+about 350,000 people and it's extremely
+
+segregated North and South lines its
+
+highest highest homicide per capita in
+
+the country we switch with Detroit and
+
+DC does those three usually but my
+
+parents they grew up in the city they
+
+loved the city and you know for me it
+
+developed this obsession and fascination
+
+with cities as well and the way that
+
+really manifested for me for maps I was
+
+just obsessed with with maps and I would
+
+get lost and I'm constantly just
+
+wondering what was happening at this
+
+particular intersection or what was you
+
+know down the street whatnot and I had
+
+tons of maps of st. Louis and tons of
+
+maps of my other favorite city they had
+
+never been to which is New York City my
+
+parents also had a police scanner always
+
+in a CB radio so we lived right next to
+
+the highway and
+
+I would always listen to the trucks and
+
+the and the police and fire trucks and
+
+the ambulances and eventually my parents
+
+got a IBM PC jr. and a Macintosh and I
+
+would actually take the information from
+
+the police scanner and plot it out on my
+
+paper maps I could actually watch the
+
+police cars move because there is
+
+reporting where they are and where
+
+they're going or what they're doing but
+
+little by little the computer became
+
+this thing that was uh was amazing
+
+because they could actually build a map
+
+on it and I can make those I could put
+
+dots on that map and I can make those
+
+dots move and I taught myself just
+
+enough programming to make that happen
+
+and and that's always been my approach
+
+in my life as I've never really had a
+
+desire to become an engineer I never had
+
+a desire to become a CEO or start a
+
+company or be an entrepreneur I learned
+
+whatever it took to move me to the next
+
+step to unblock whatever I wanted to do
+
+and for me I wanted to see the city in
+
+any way and the computer was was the way
+
+to get there so taught myself had a
+
+program in C and eventually I had these
+
+maps of police cars and ambulances that
+
+were riding around st. Louis all from
+
+the police scanner and then I little by
+
+little found public databases that were
+
+accessible on the Internet of of
+
+historical movements that I could
+
+program in and then I learned to when I
+
+was about 17 or 18 that this whole thing
+
+I was doing had a name and it was called
+
+dispatch so I found the biggest ditz
+
+dispatch firm in the world which just
+
+happened to be in New York City and it
+
+was called DMS and I found I found their
+
+website but they had no contact
+
+information no way to get in so I was
+
+pretty good at computers at this time
+
+and st. Louis had a pretty strong
+
+underground hacking culture and I
+
+learned a lot from it and I figured out
+
+a hole in their website and I found
+
+their corporate email list and
+
+found the name of the CEO and the email
+
+of the CEO and the chairman and they
+
+sent too many mails saying your website
+
+has a hole in it here's how you fix it
+
+and by the way I write dispatch software
+
+and they flew me out and I I joined EMS
+
+and suddenly I was working on dispatch
+
+for all of New York City which was
+
+amazing because the thing about dispatch
+
+for me is you could actually see how the
+
+city is working living breathing how it
+
+moves but unfortunately in that case was
+
+from a very vertical standpoint in terms
+
+of city services and and Twitter really
+
+was born out of a desire to see it from
+
+a personal level if if an individual
+
+could report what they're doing and
+
+where they're going and what they're
+
+doing next and we could see that all in
+
+real time what would that look like and
+
+so yeah in my my uh what's my
+
+fascination and and career really
+
+started in dispatch was just high
+
+transactional always available low
+
+latency systems over deep deep deep deep
+
+and in the background in many places
+
+that people just didn't consider Asiya
+
+and with regards to Twitter when you set
+
+it up alongside you know the other
+
+co-founders did you have any idea where
+
+did he want it to get where do you think
+
+it might go were you hoping it would end
+
+up we are I mean we didn't really have
+
+any any idea and and that's not why we
+
+were building it we were building it
+
+because we wanted to it was it was fun
+
+and and it was something that we we
+
+wanted to see and I had my dispatch
+
+background and I've had a blogging
+
+background and biz joined up at blogger
+
+for a little while when he was at Google
+
+and we all somehow ended up at OU do
+
+have joined oh do and became CEO I
+
+joined about two months after that and
+
+then biz joins two months after that and
+
+the funny thing about that was no one
+
+there really cared about what we were
+
+building which was podcast
+
+and we just had no passion for it and
+
+that the business was not doing well the
+
+direction was was fairly weak so we we
+
+often went out and just thought about
+
+you know what what would we do and what
+
+would we want to work on and we had
+
+these these hack days where we would
+
+actually try to implement some of these
+
+ideas and and Twitter was born out of
+
+born out or one of those but the
+
+important thing about this we just had
+
+this amazing team but the wrong initial
+
+idea and when you have amazing people
+
+and really creative people you'll come
+
+up with something and and and really the
+
+desire was just to build something that
+
+we wanted to use on a on a daily basis
+
+and it resonated with us every day and
+
+and we were fortunate and that it
+
+resonated with others too but there was
+
+no particular design or desire or goal
+
+around its success and I think it's very
+
+hard to start with that as a as a
+
+barrier because it it ends up blocking
+
+the creativity ultimately from mine
+
+stunning you went to college for a
+
+little bit then dropped out obviously to
+
+pursue your other girls did your time at
+
+college have any impact on the where you
+
+are today or was it just something that
+
+got in the way of your real passion I
+
+think everyone learns in a different way
+
+and I was I was deciding because of this
+
+fascinates from City Heights cities I
+
+also had a fascination with with leaders
+
+of cities and and mayors and I was
+
+deciding actually when I was entering in
+
+University should I go with a political
+
+science program or should I go with the
+
+computer science program I know most
+
+people don't compare the two but I did
+
+and I decided ultimately go down the
+
+computer science route because I imagine
+
+that if I went down political science
+
+and I went down the route of of trying
+
+to be a Marin to get into politics that
+
+I could write a law or a rule and I
+
+could probably see the effects of it
+
+within two to four to maybe eight years
+
+whereas I could write rules and laws
+
+in a program and model it and see it
+
+within see the result of it within eight
+
+seconds so the speed was quite
+
+attractive and and just this unbounded
+
+creativity and potential that's in front
+
+of you when you when you program it's
+
+it's a weird feeling because um you you
+
+have this ability to just create
+
+something from absolutely nothing and
+
+whatever you imagine you you can you can
+
+probably do and there's a real there's a
+
+real electricity to that so in school I
+
+found that it was more driven towards an
+
+academic outcome than it was a practical
+
+outcome in my particular program so I
+
+was learning a lot more I was at DMS
+
+when I was at NYU I was learning a lot
+
+more and moving faster than outside of
+
+the university then I was inside so I
+
+just decided that I'm going to I'm going
+
+to and the University part and just work
+
+on that on the external and get working
+
+on on what I want to build right away
+
+and I you know my my mom reminds me
+
+every week that I'd still have an
+
+opportunity to go back to school but I'm
+
+learning a lot right now and I think
+
+it's a different answer for every single
+
+every single person and you have to
+
+answer it only for yourself on that kind
+
+of point was it a really tough decision
+
+so you mentioned your mom and not
+
+necessarily I don't know she still wants
+
+you to go back to University and was
+
+there a lot of pressure from your
+
+parents when taking that decision or do
+
+you just go ahead and I'm more or less
+
+just went ahead and did it but they they
+
+were not happy about I mean they come
+
+from a Catholic upbringing in st. Louis
+
+Missouri so my parents didn't finish
+
+high school and I was the first to even
+
+attempt going to college parents weren't
+
+all that well off so you know they
+
+definitely had a lot of aspirations for
+
+me in that particular vein so there was
+
+you know there's a lot of
+
+standard Catholic guilt they couldn't
+
+went along with that decision but I got
+
+over it and I don't know if my parents
+
+have and and he talked a little bit
+
+about politics as well and I read
+
+somewhere that your dream job was to be
+
+mayor of New York City
+
+well aspirationally it was but I've
+
+realized that I feel like can probably
+
+influence more with with these companies
+
+and I then I could actually being a
+
+mayor and I think that's generally been
+
+more and more the case these groups of
+
+individuals who are creating these
+
+technologies and creating these
+
+movements and have just so much
+
+influence right now and it's not limited
+
+to any particular geographic or
+
+political boundary and it's really it's
+
+really really exciting in that and that
+
+comes with a responsibility that forces
+
+you to mature very very quickly and
+
+again it goes back to like where are you
+
+learning the fastest and I just felt my
+
+my maturity and going down one
+
+particular route of life was was so much
+
+more accelerated than than another one
+
+and I think going down the political
+
+route and more of a mayor route I still
+
+love I I just don't think I'd be able to
+
+do as much as I like and I I love my I
+
+love my freedoms and my my independence
+
+that would also be cut off so yes yeah
+
+coming back to the companies you're
+
+involved with both with Twitter still as
+
+well as you'll see a square how do you
+
+balance that is there ever a conflict of
+
+interest or just in terms of tying me
+
+how do you decide where the priorities
+
+are well I am I spent a year where I'd
+
+actually did half and half and the
+
+intention was just to keep that to a
+
+year and kept it to a year and that was
+
+really hard I started the week at square
+
+and on Monday and I would go to Twitter
+
+in the afternoon and then I would start
+
+Tuesday at Twitter and then there would
+
+go to square and that
+
+Junoon so i'd have this like snake
+
+through that felt like these you know
+
+24-hour days at one company so i made it
+
+i made it work but it wasn't it wasn't
+
+the healthiest thing and now we we just
+
+have such an amazing leadership team in
+
+place and and the potential is really in
+
+front of the company so I concentrate my
+
+time a lot more now on with our CEO dick
+
+so we have dinner every every Tuesday
+
+night same restaurant same table usually
+
+the same food never the same
+
+conversation which is always a good
+
+thing and then the food is good what is
+
+it it's a restaurant called Zuni yeah I
+
+probably should not have given that name
+
+out but I did probably gonna have to
+
+find a new place now I'm sorry no that's
+
+my fault so I yeah and then I I just
+
+meet with members of the management team
+
+on Tuesday so I think there's actually a
+
+lot of parallels between the two
+
+companies I think they're both working
+
+on something fundamental something
+
+essential to a civilization and to
+
+humanity Twitter obviously working on
+
+communication and square working on
+
+Commerce both have been with us forever
+
+we commerce I believe actually was it
+
+was a predecessor we were trading goods
+
+and services before we're using language
+
+to trade stories and what's what's
+
+inching to me about both is if you if
+
+you simplify either one of them there's
+
+so much that's built on top of each that
+
+actually benefit and get easier for
+
+people and get better for people so I'd
+
+rather spend all of my time and my
+
+effort focused on the the lowest layer
+
+of of what we have to deal with on a
+
+daily basis and I can't think of of
+
+anything more fundamental than
+
+communication and commerce apart from
+
+health and education and obviously
+
+governance so I think all of those are
+
+on the
+
+I would always I would always choose to
+
+work in some dimension and in
+
+simplifying those and so I see a lot of
+
+parallels between the two companies in
+
+that sense and that their fundamental
+
+and I also see that they both they both
+
+stand for a very clear purpose and they
+
+both stand for a leveling of the playing
+
+field what was most amazing about
+
+Twitter was that we we designed it for
+
+for SMS so anyone in the world that had
+
+access to you know just a shared or a
+
+five dollar cellphone could actually
+
+have a conversation with the entire
+
+world and you know someone with a with a
+
+five dollar Nokia could actually have a
+
+conversation with someone the $900 iPad
+
+and we see that almost every single day
+
+and it really makes the world feel small
+
+and we have we have some of the you know
+
+these really powerful individuals using
+
+the service and then we have we have the
+
+largest governments in the world using
+
+the service so you know they're both the
+
+important thing is they're both using
+
+the same tool and that means you know
+
+you're only limited by the are the
+
+quality and the influence of of your
+
+idea and and your ambition ultimately
+
+and it can scale back and forth quite
+
+quickly and we see the same thing with
+
+Square where we have we have people who
+
+are piano teachers or golf instructors
+
+or doing something on the side using the
+
+exact same tool that we supply to to
+
+Starbucks and you know glow and and to
+
+Whole Foods and if we can handle the
+
+transactional capacity of a Starbucks
+
+that means that anyone who has that
+
+aspiration in the same way that Howard
+
+did could also use us to get there and
+
+and that means that because it's the
+
+same tool it truly loves Lovis a playing
+
+field my mother my mother owned a coffee
+
+store when I was uh when I was 12 and
+
+you know she had a very very different
+
+ambition than Howard Schultz her
+
+ambition was to provide a venue for the
+
+neighborhood to provide a sense of
+
+community in the neighborhood to sell
+
+beans
+
+but tell me have three employees and
+
+those three employees happen to be me
+
+and my two younger brothers and she
+
+didn't want to have multiple locations
+
+she don't want to grow beyond that and I
+
+find that to be very admirable and I
+
+think there's a there's generally a
+
+trend today where more and more
+
+companies and more and more groups of
+
+people can actually choose to stay small
+
+and still have massive impact whether
+
+it's a deep impact like my mother in a
+
+community or a global impact like teams
+
+of six who can actually create something
+
+and and really everyone around the world
+
+can can participate in and then use it
+
+Howard Schultz had a very different
+
+ambition which is he had a similar
+
+coffee store and he wanted that coffee
+
+store in every city around the world and
+
+I admire both approaches but it's a
+
+difference in an ambition and and what
+
+they want to do and I believe that
+
+fundamentally the tools should remain
+
+consistent and and really get out of the
+
+way so that people can can meet that
+
+okay just so you kind of continue on
+
+that so you talked a little bit about
+
+how Twitter is a great leveler and
+
+indeed you can make it happen that
+
+they've been amazing things happening on
+
+Twitter and Twitter being useful things
+
+like the Arab Spring the uprising
+
+coordinating the protest and then more
+
+recently there's been a lot of focus on
+
+Twitter trolls and some some of the
+
+negative abuse that can happen on
+
+Twitter do you see the company is having
+
+a social responsibility to promote a
+
+certain view or promote certain ideals
+
+or is it very much as you said just a
+
+tool to allow people to interact I mean
+
+I think the main purpose of Twitter is
+
+to make sure that we let every voice
+
+flow and I think it's really important
+
+for us to see every opinion and I think
+
+ultimately like every technology is just
+
+a reflection of of the world and what we
+
+want in civilization both the present
+
+and the future State so what we we have
+
+to make sure of though is that everyone
+
+who participates in lending their voice
+
+to Twitter and using Twitter to amplify
+
+that voice they feel safe doing so and
+
+you know abuse has has no has no part on
+
+on the service and we have a staff of
+
+many that are dedicated to making sure
+
+that people feel safe and they can
+
+continue to trust the brand and the
+
+service to make sure that their voices
+
+is heard everywhere in a way they want
+
+to be heard and also that they don't
+
+feel threatened in any way but you know
+
+I I wanna I want to live in though I
+
+want to live in a world where I can
+
+actually see all opinions because I
+
+think I think there's there's value in
+
+every opinion it's up to me to decide
+
+which one is truly valuable on which
+
+ones or which ones I act on but if we
+
+were to take that away and and live and
+
+very very sheltered ways I think we
+
+would we would take away a massive
+
+learning opportunity as well so I think
+
+the most important thing is to give
+
+people controls you turn it off you turn
+
+it on and I think as long as those and
+
+those controls are intuitive and people
+
+know how to use them immediately
+
+people people feel great and trust and
+
+trust the service and and when that
+
+fails or when it's confusing or when
+
+people are frustrated we've failed as a
+
+company as well okay my final question
+
+on Twitter before we move on to square
+
+so then based on that do you have a
+
+problem with things like ISIL using
+
+Twitter to promote the latest their
+
+video do you see that as being something
+
+that maybe Twitter should draw a line on
+
+and you know close the site close that
+
+particular account down or do you feel
+
+that it would get a lot of retweets is
+
+it something that people deserve to hear
+
+about I think it goes again back to the
+
+controls and I think um I think people
+
+should have the freedom to choose what
+
+they what they see and what they choose
+
+not to I don't think it should be forced
+
+upon them I don't think it should be you
+
+know an unexpected surprise in any way
+
+I think they fully have to opt into it
+
+but the more we start adding bias or
+
+editorial to the service the less people
+
+all over the world trusted and I
+
+think that that trust is something that
+
+we've really worked hard to earn and and
+
+we'll continue to do more of that and be
+
+very transparent around those policies I
+
+mean I think the most important thing is
+
+is to explain why something like that
+
+may still be on the service and and to
+
+also work with our peers to make sure
+
+that we have a consistent point of view
+
+around that but this is a reflection of
+
+the world today and this is happening
+
+and I would rather live in a world where
+
+at least we're having a conversation
+
+about it and we and we're talking about
+
+it because I think ultimately it allows
+
+us to move faster and in solving it and
+
+fixing it and addressing it if that's
+
+what we need to do okay
+
+now moving on you left Witter or I mean
+
+you left a CEO and most people would
+
+have said that you know creating and
+
+founding one life-changing business is
+
+enough but you moved on to set up square
+
+which has just been launched in the UK
+
+yesterday was it launched around the
+
+world yesterday around the world yes not
+
+sure our cash register product around
+
+the world for free yesterday so those of
+
+people people in the audience who might
+
+not necessarily know that a huge amount
+
+about square do you want to very briefly
+
+explain what it is that you do what's
+
+your vision for the business yeah so
+
+five how many of you have have seen
+
+square good amount we have a lot of work
+
+to do
+
+but we have a lot of work to do with
+
+Twitter tear so I mean that that's one
+
+of the reasons why you you keep keep
+
+working at this as a if it feels over
+
+just I don't think it's it's truly as
+
+big as it as it could be so I think so
+
+five years ago I switched roles with my
+
+co-founder eV and he was chairman and
+
+our CEO and I became chairman he became
+
+CEO and I reconnected with my second
+
+boss after my mother at the coffee store
+
+which is a guy named Jim McKelvey in San
+
+Louis Missouri and he became a glass
+
+artist and we we really loved working
+
+together when I was about 15 16 years
+
+old and he was an engineer as well
+
+and we were talking about you know just
+
+wanting to work together again and we
+
+didn't really know on what and then one
+
+day he called me in desperation and said
+
+I lost I lost I lost the sale of my
+
+glass art and he says you know two
+
+thousand dollar pieces of glass art and
+
+the reason he lost that cell is because
+
+he couldn't accept a credit card and the
+
+funny thing was we were both talking to
+
+each other on an iPhone so we have these
+
+like effectively super computers next to
+
+our ears and the guy can't close the
+
+sale because he can't accept a credit
+
+card so why why is that and and we
+
+started asking why and we started
+
+realizing while this industry is
+
+extremely complicated so it seemed like
+
+a very interesting challenge can we
+
+build something that allows Jim to
+
+accept a credit card and we we set aside
+
+a month to build it and we knew nothing
+
+about the credit card industry both of
+
+us were actually in credit card debt at
+
+the time we you know we we saw what the
+
+credit card industry actually did to st.
+
+Louis and families in st. Louis we
+
+didn't really like the credit card
+
+industry in many ways we didn't think it
+
+was fair but we recognized that buyers
+
+were using them all the time and in the
+
+United States and all these independent
+
+sellers and and the smaller folks really
+
+just had no opportunity to even accept
+
+them so what it meant is they they
+
+ultimately missed a sale and they they
+
+missed an opportunity to grow or
+
+opportunity for revenue and so we we
+
+searched on Google for how to accept
+
+credit cards we found rock-bottom
+
+merchant accounts calm we signed up for
+
+rock-bottom merchant accounts calm and
+
+we started learning about well how do we
+
+actually accept the credit card do we
+
+take a picture with the phone no that
+
+seems like a weird experience if I'm
+
+handing over my credit card and you're
+
+taking a picture of it we looked at the
+
+30 pin on the bottom of the iPhone and
+
+turns out that has a huge license fee
+
+and we just didn't want to pay that
+
+and and then the interesting thing was
+
+uh all these phones have a headphone
+
+jack on it and the headphone jack is
+
+also a microphone and if you probably
+
+not for a lot of your cards but if you
+
+take out your credit card and you look
+
+on the back there's a magnetic strip and
+
+that made magnetic strip is actually the
+
+same technology that you would use in a
+
+cassette tape to play music in fact that
+
+is an audio track and that audio track
+
+can be decoded into numbers and those
+
+numbers are your credit card number and
+
+your expiration and if you actually play
+
+this audio track it sounds like a
+
+squirrel screeching like I don't know if
+
+you've heard a squirrel screaming but
+
+it's not a it's not a pleasant sound at
+
+all
+
+but if you if you swipe it through you
+
+actually hear that sound and you can
+
+write some software to decode that into
+
+a number and then you can send that
+
+number up to Visa and MasterCard you can
+
+check to see if there's funds available
+
+on it and if there are you capture them
+
+and then that goes into a bank account
+
+so we ultimately made a cassette tape
+
+reader that plugged into the microphone
+
+jack of the iPhone and we swiped the
+
+cards through and that and the damn
+
+thing worked and and we swiped this is
+
+my favorite company to pitch ever
+
+because I would go around to people and
+
+I would say do you want to see my new my
+
+new project and they would say yeah and
+
+I would say and give me your credit card
+
+and and they would say no I said well he
+
+and I can see what I'm working on and
+
+and then they would hand it over and I
+
+would take anywhere from five to five
+
+hundred dollars
+
+or take $500 for the from the people who
+
+gave me like black Amex doesn't what not
+
+so and and the way we we pitched it to
+
+TV sees when we actually decided to
+
+build a company and raise money was to
+
+see the pitch they would have to give me
+
+their credit card as well and we we did
+
+something interesting I put all the B
+
+C's that I didn't want to work with in
+
+the first week and I met ten during the
+
+first week and all the VCS that I really
+
+wanted to work with in the second week
+
+and and the reason why is I wanted to
+
+make all my mistakes in the first week
+
+and then just nail it in the second week
+
+in the last the last we see that we Matt
+
+is the one I wanted to work with most
+
+which which was Vinod Khosla of Khosla
+
+Ventures and the price started very high
+
+with a hundred dollars and it went down
+
+to $1.00 with Vinod but it was um it was
+
+just uh there's a lot of fun we learned
+
+so much about the credit card industry
+
+and risk and fraud and we knew nothing
+
+about building hardware and we we
+
+learned everything that we needed to to
+
+make it work in a month and it just
+
+started resonating with with everyone we
+
+showed and and little by little we
+
+figured out how to actually build the
+
+readers and send them out for free and
+
+and then a funny thing happened in that
+
+we realized hey we weren't just building
+
+a credit card terminal but actually were
+
+building a full point-of-sale and these
+
+points of sales around the world and
+
+it's a there's a reason that the acronym
+
+is POS they are not the best systems in
+
+the world and people don't have a hold
+
+you know very high regard for for a
+
+point of sale it's usually a effectively
+
+a calculator on on top of a cash box but
+
+what's what's interesting in the
+
+opportunity is that there's all this
+
+potential data and insights that you can
+
+have around a business you can actually
+
+bring back up to the seller to help them
+
+make better decisions around how to grow
+
+their business and some people decide I
+
+don't want to grow my business I'm happy
+
+like my mom with what I have but a lot
+
+of people do want to grow the business
+
+and they
+
+just no access to any analytics around
+
+how they're doing most places that we
+
+that we found in America like coffee
+
+places you go in and you ask them a very
+
+simple question how many cappuccinos did
+
+you sell today and they'll have no idea
+
+and if they do know they were usually
+
+counting cups coming out of the
+
+dishwasher or waiting for you know their
+
+paper cup inventory to diminish and it
+
+just seemed so simple to solve but no
+
+one's spent the time to do it so we
+
+ultimately have been working on for the
+
+past five years a really sophisticated
+
+register that is in many ways on par or
+
+better with what a Walmart has in terms
+
+of running and understanding their
+
+business and we give it away for free
+
+to all these sellers and that's what we
+
+we launched yesterday and made available
+
+to the whole world so anyone around the
+
+world can download this piece of
+
+software for their Android or their or
+
+their iPhone and and really see and
+
+understand their business and and you
+
+know hopefully hopefully grow that
+
+business from it because we just believe
+
+so much in the power of the independent
+
+business and the small business to to
+
+drive the global economy do you see this
+
+being particular focus you talked a lot
+
+about for example coffee shops in
+
+America but off the top of my head I can
+
+just think of for example in India we
+
+it's a place where there are there
+
+aren't that many huge supermarket chains
+
+and loads of small businesses and
+
+nowadays there are so many smartphones
+
+out there do you see this has been
+
+particularly helpful in places like the
+
+developing world or it's not really
+
+something that you know yeah I mean I
+
+think it's less about we're definitely
+
+seen as a as a mobile payments company
+
+and mobile payments is one of those
+
+phrases that just means kind of
+
+everything and and therefore it means
+
+nothing and and I think ultimately what
+
+it's about is is around commerce which
+
+is a very very simple activity it's a
+
+exchange between a buyer and a seller
+
+and it has nothing to do with the
+
+payment device that's used to do that it
+
+could be a barter it could be a digital
+
+currency it could be a credit card it
+
+could be it could be a paper currency
+
+but what's important is really
+
+accounting for that transaction that
+
+exchanger buyer because if you can
+
+account for
+
+you can learn from it and then you can
+
+grow so I think that applies in in every
+
+every market not just not just a market
+
+like the United States or in Europe but
+
+but everywhere because I think everyone
+
+can make use of of insights and and the
+
+Stata and if they have access to it in
+
+an easy way where they can just flip it
+
+on and Wow
+
+like I you know why am I getting all
+
+these sales at 3:40 p.m. and what if I
+
+open you know an hour
+
+what if I stay open an hour later for
+
+the next two weeks what does that
+
+actually do to my to my business turns
+
+out and increases my business by 20%
+
+we've had we've had sellers you know
+
+look at that and and and and actually
+
+perform those action so now our job is
+
+to answer that question and direct them
+
+in that way before they even ask the
+
+question right and and that's a that's
+
+really exciting and and then we can also
+
+build pretty interesting services like
+
+we we have we've we launched a service
+
+called square capital six months ago and
+
+what it does is we have this deep
+
+because we're building the register our
+
+merchants these companies are putting
+
+their full inventory their full menu a
+
+list of all their employees their full
+
+business all their sales into this one
+
+system so we have this really deep
+
+understanding of how they're doing right
+
+we know their industry we know we know a
+
+lot about where that industry is going
+
+so what we can do is after after a few a
+
+few months of them just using the
+
+register which is free to download and
+
+free to use we can actually send them an
+
+email saying you know here are three
+
+options were we're happy to announce
+
+that you know we we can extend you
+
+advance you capital and from these three
+
+options it could be a thousand dollars
+
+it could be five thousand dollars it
+
+could be ten thousand dollars would you
+
+like to you know get this advance of
+
+capital here's the price it's all fair
+
+it's all upfront you know exactly what
+
+you're paying for the capital and you
+
+can choose one of those and it goes into
+
+your bank account the very next business
+
+morning and typically you have to go to
+
+a bank and get
+
+small business loan and that processes
+
+six months to even a year in some cases
+
+and the way that this advance is paid is
+
+is paid and returned is actually just by
+
+swiping their customers card a fee is
+
+extracted so just in the course of doing
+
+their business they're actually paying
+
+that advance back and and we've lent and
+
+we've advanced over seventy five million
+
+dollars in just six months to 15
+
+thousand sellers and 85% of sellers who
+
+have taken in vance once take another
+
+one so there's an opportunity not just
+
+to build something that accepts a
+
+payment not just to build something that
+
+allows you to see your business but
+
+actually can give businesses capital to
+
+grow their business in a very fair and
+
+up front and in a very rich rich way
+
+okay my final question before we open it
+
+up to the audience how do you see square
+
+working with things like Apple pay the
+
+introduction of NFC chips and phones or
+
+is it a competitor and things that even
+
+like Bitcoin I guess yeah I think our
+
+philosophy has always been you know
+
+we're building this register right and
+
+we need to empower our sellers to accept
+
+every form of payment that comes across
+
+the counter and whether that's cash
+
+cheque EMV NFC Bitcoin any other digital
+
+currency that comes their way our
+
+sellers should never have to think about
+
+that they should always think about
+
+making only think about making the sale
+
+and buyers should just have the the
+
+freedom to use whatever they want to use
+
+so if they want to use Bitcoin they
+
+should be able to use Bitcoin and they
+
+should not the seller should not have to
+
+think about what currency or what
+
+payment method they're they're using so
+
+we we started in the US we opened in
+
+Canada and Japan and NFC has just never
+
+been large in those in those markets and
+
+I know that it seems counter to what you
+
+all experience because NFC is is growing
+
+quite quickly in the rest of the world
+
+but I always found the u.s. is really
+
+behind and technology adoption Masek
+
+adoption like even with Twitter it took
+
+us 10 years to really adopt SMS and mass
+
+you all had it for 10 years prior to to
+
+the United States and and we didn't
+
+really get it until 2005-2006 and the
+
+reason why is it was the first time when
+
+you could send a message between the two
+
+largest carriers a text message between
+
+two large cares which were Verizon and
+
+singular because they both had different
+
+technologies SMS as you know as a g8 GSM
+
+technology and Verizon is CDMA so we we
+
+never really invested in building an NFC
+
+reader because we're in markets that had
+
+no buyer adoption whatsoever of NFC so
+
+Apple could change that but what they've
+
+done is they've created a convenience
+
+which is a chip that proxies a physical
+
+card and allows it to be read by an NFC
+
+terminal so we we certainly don't see it
+
+as as competition in any way because
+
+we're not building a phone and we're not
+
+building a payment payment device we're
+
+building a register that accepts
+
+payments and and what that means is we
+
+need to build NFC terminal that that
+
+accepts it and back to that philosophy
+
+of of making sure that ourselves can
+
+accept every form payment it's something
+
+we have to do we have a we have a
+
+product called square market that allows
+
+anyone who's using the register to flip
+
+a switch on any of the items in the
+
+register and it builds a web page for
+
+them that they can tweet out or put on
+
+Facebook or put it on their own their
+
+web page and people can actually buyers
+
+can actually use Bitcoin to pay with
+
+that so if if they've turned on the the
+
+ecommerce ID for any of those items
+
+bitcoin is an option for a buyer and we
+
+get a small amount of orders from that
+
+but it was important for us to make sure
+
+that we're we're constantly testing
+
+testing these new technologies and and
+
+you know our sellers are paying us to do
+
+that work and to be ahead of it
+
+brilliant so that's it from me I'm now
+
+gonna move on to some questions from the
+
+audience hi why 140 characters
+
+it's a great question so there's two
+
+reasons one practical and one conceptual
+
+so the practical one first is that we we
+
+originally focused on SMS and and the
+
+web was really just a way to kind of
+
+archive and and see the tweets later on
+
+the web was really not a big part of the
+
+original vision because we wanted
+
+something Noah's there was real time in
+
+life and you could actually feel and and
+
+it would buzz your pocket right you
+
+could actually physically feel it so the
+
+other thing that was really important to
+
+us in working with SMS was making sure
+
+that we had a very simple approach and
+
+simple experience and that simplicity
+
+met in that case that we would send one
+
+message that a message would not break
+
+up and there was a limitation in SMS at
+
+the time which was a hundred and sixty
+
+characters so I had a really really
+
+cheap little Nokia device and I loved
+
+the thing it was from a virgin and
+
+there's a prepaid phone and I wanted to
+
+make sure that it worked on this thing
+
+and I had a great experience on it and
+
+you know that was a t9 keyboard and a
+
+lot of you probably haven't used the t9
+
+keyboards but I used them and I loved
+
+them is super fast and so we we took
+
+those 160 characters and you know I also
+
+paid for every text message so we didn't
+
+want to we don't want to break it up and
+
+and and require you know to receive a
+
+text message to get charged twice for
+
+one for one tweet this was important to
+
+me but it was also important to if we
+
+wanted to go around the world we could
+
+actually reach everyone in a in a
+
+cost-effective way as well so the 160
+
+characters we took 20 characters out for
+
+the username and we arrived at 140 and
+
+that was that but the conceptual side of
+
+it was we believed that you know this
+
+constraint inspires a creativity and if
+
+we really constrain the size of the
+
+canvas
+
+people might be more off-the-cuff and
+
+they might be more in the moment and
+
+that's really what we wanted because we
+
+wanted this to feel again very live and
+
+just very very human and very of the
+
+moment and and the metaphor you know we
+
+use is like if I were to give you a red
+
+paintbrush and this huge canvas that
+
+that just took up this entire wall and I
+
+asked you to go paint that canvas you
+
+compose yourself naturally right because
+
+this is a huge canvas and you want to
+
+you you want to you want to do the right
+
+thing you know that that's what it kind
+
+of goes through your mind but if I were
+
+to give you that same paintbrush and
+
+that same red paint and I'd give you a
+
+business card and I say make a mark just
+
+very quick to make the mark and and
+
+that's kind of the feeling we wanted was
+
+that everything you everything you write
+
+everything you tweet is a value to
+
+someone and we wanted to make sure that
+
+it feels like you can just fire these
+
+things off very very quickly as if you
+
+were you're speaking and and and someone
+
+the interpreter is going to devalue it
+
+and that's always been really important
+
+to us and you know in the in the early
+
+days of the service we we got a lot of
+
+we got a lot of heat for 140 characters
+
+and just how useless Twitter was right
+
+and and people would would explain in a
+
+way that wow this is just a since it's
+
+only only 140 characters you know all
+
+people are gonna end up doing is just
+
+talk about what they have for breakfast
+
+and we would share that so much like
+
+theirs and Twitter is just about what
+
+you have for breakfast and you know my
+
+answer to that is well you know
+
+sometimes I do tweet about what I have
+
+for breakfast and most of the world
+
+could care less and was probably
+
+offended because it's so not valuable to
+
+them but there was one person in the
+
+world that really cares and that's my
+
+mom and when she gets the tweet that I
+
+just stayed breakfast and one day for
+
+breakfast and she's really happy because
+
+she knows that I'm still eating I'm
+
+alive and yeah and I had breakfast and
+
+she loves it so what I mean what's in
+
+thing about that is it's all up to who
+
+receives a message and who interprets
+
+the message and we can't we can't judge
+
+the value as it goes out we you know we
+
+have to leave it up to the individual to
+
+really bring value to that message into
+
+that tweet and that's always been an
+
+important part of our philosophy Thanks
+
+what are some of the key lessons from
+
+your time at Twitter which helped and
+
+influenced the way you set up and
+
+launched swear there were many I you
+
+know again I really had no aspiration to
+
+be a CEO or to be a leader in the
+
+company or even create a company I just
+
+wanted I wanted to to build and use this
+
+thing and I was so excited about that
+
+and and and really you just learn
+
+whatever you have to you learn whatever
+
+you have to learn to make that work and
+
+and right now a company is just a great
+
+vehicle to spread an idea around the
+
+world and it allows an idea to to thrive
+
+but the idea and the purpose of our work
+
+always leads not not the company the
+
+company is support and that and the
+
+businesses is oxygen not a to that idea
+
+so I think you when when you are tasked
+
+with then creating a company you kind of
+
+want to you you you tend to or at least
+
+I did you grow up a little bit too fast
+
+sometimes and you try to put too much
+
+structure in place or the wrong
+
+structure in place and that distracts
+
+you from you know really the work that
+
+you absolutely need to do and one of the
+
+interesting thing I did two big lessons
+
+from from that time number one was the
+
+power of instrumentation the power of
+
+knowing exactly what's happening within
+
+the system and the power of transparency
+
+within the system but also within the
+
+company so we would go down a lot in the
+
+early days of the company because we
+
+just had no instrumentation at all
+
+it's like driving the car flying a plane
+
+and not having any sense of how fast
+
+you're going
+
+right it's extremely dangerous so we we
+
+just didn't know what people were doing
+
+with it
+
+how how the resources were being used
+
+and and ultimately it just crashed to a
+
+halt multiple times and little by little
+
+we started instrumenting the system and
+
+we we built simple things that would
+
+tell us what the system is doing or how
+
+people are using it and these seem like
+
+of course you build dashboards and of
+
+course you you know you look at the data
+
+but you know in the in a moment when
+
+you're creating these things that's not
+
+what you put first it's it's often an
+
+afterthought and the biggest thing that
+
+that solved was we stop speculating
+
+about what was going on and we could
+
+actually point to what was going on and
+
+then since we could point to it we could
+
+fix it and we had a ton of communication
+
+issues in the company at that time just
+
+that we wouldn't talk to each other for
+
+in some cases and and in like
+
+engineering sometimes we want to talk to
+
+operations and when you have those
+
+divisions in the in the company the
+
+people using the service actually see
+
+the results of it right so any
+
+organizational difficulty actually
+
+manifests in the service itself and
+
+that's just ultimately rude and selfish
+
+and you're putting your own your own
+
+mess in front of the people that are
+
+using your service or the customer so as
+
+we started instrumenting the system we
+
+had a lot healthier communication this
+
+is a funny thing because we're building
+
+a communication company and we couldn't
+
+communicate internally so that was
+
+number one and the first bit of code I
+
+wrote for square was an admin dashboard
+
+so we could actually see everything
+
+that's happening constantly and then
+
+number two is just how important it is
+
+to to really make sure that you're
+
+building the right team dynamic and and
+
+that means hiring great people who share
+
+your you know who share the purpose and
+
+share the vision but it also means that
+
+we're parting ways with people who who
+
+don't and and we had some people in the
+
+is a Twitter who were just you know not
+
+not not not folks who really worked well
+
+together with others and and this was
+
+probably the hardest thing for me to do
+
+as a CEO in the early days I had to I to
+
+fire someone who had the entire system
+
+in their head and when you're faced with
+
+that you're like well I can't I can't
+
+fire this person because if I fire this
+
+person then the whole system is going
+
+down and we can never get it back up and
+
+it took me a long time to do it about
+
+six months and that's you know a regret
+
+actually but ultimately when I when I
+
+did it and I did it and you know when I
+
+when I was when I was when we were
+
+parting ways I was crying and he was
+
+crying and then I went back to tell the
+
+company and we're only about seven
+
+people and I was crying and the company
+
+was crying and like it was at a very
+
+emotional period because we were also
+
+under a lot of stress because we're
+
+constantly going down and now we just
+
+parted ways with the guy who knew how to
+
+bring the system back up but something
+
+really interesting happened immediately
+
+after that all these new leaders and the
+
+company emerged and actually we didn't
+
+go down and and we built we built a lot
+
+of great practices to stay up more and
+
+more so I think when you're just getting
+
+started whether it's a company or
+
+organization you try to get people
+
+really quickly but you don't you don't
+
+edit as much and you don't really make
+
+sure that there's a great team dynamic
+
+and if you don't it can be really really
+
+poisonous to the culture and and
+
+ultimately will will block new ideas and
+
+new leadership from from emerging so
+
+constantly looking at the team and
+
+making sure that we have the right team
+
+in place is something I applied to
+
+square as well hi my name is Christian R
+
+once and thank you for coming to Oxford
+
+today my question to you is what do you
+
+think more people in your position
+
+within the tech industry can do to
+
+encourage women in tech so in your case
+
+you've invested in peak and you've also
+
+AM set up a female coding program at
+
+square what do you think others in your
+
+position can do to follow suit well I
+
+mean I think
+
+I think doing it I I don't I don't think
+
+it's just women in tech but really
+
+established establishing more leadership
+
+in in our in our women and I'm really
+
+proud to say that like over over 54% of
+
+squares led by by women on my team so
+
+our CFO our head of business and our
+
+head of engineering are all women
+
+leaders and they you know I think the
+
+most important thing is to always
+
+establish a role model for who you're
+
+who you're really looking to become in
+
+terms of your own leadership aspirations
+
+and and your own aspirations around
+
+impact so making sure that we're we're
+
+really hiring for that and and we're
+
+hiring really great people to put them
+
+in those positions of leadership and
+
+we're and we're establishing that in the
+
+company as a majority of the company not
+
+a minority of the company is really
+
+critical and and then and then talking
+
+about it all the time this is this is
+
+what we've done and and we're really
+
+proud of it and we're doing more and
+
+this is what that looks like and we've
+
+invested a lot of time and effort and
+
+resources into programs like girls who
+
+code who does an intensive seven-week
+
+program teaching girls how to engineer
+
+and program and we have our own program
+
+called code camp which we do three four
+
+day intensive for college girls and also
+
+high school women as well so I think
+
+it's you know just just doing it and
+
+making the time investing in it and and
+
+setting the intent and and you know
+
+making sure the whole company knows that
+
+this is our intent and this is something
+
+that we believe in it'll just spread
+
+because everyone in the company will
+
+constantly talk about it as well and
+
+that'll spread around around the
+
+industry so we try to talk about it
+
+in in there's many ways and channels as
+
+we can with square you seem to have got
+
+lots of funding on board and it seemed
+
+sort of from the face of it that you're
+
+very much in charge still in my
+
+experience that's quite hard small
+
+startup but big funds on board how do
+
+you go about attracting funding and then
+
+managing your investors after you've
+
+secured it I think the the thing that's
+
+always worked for me is realizing that
+
+your your investors are first and
+
+foremost I always want to go to anyone
+
+that I want to work with with something
+
+to show and it was really important to
+
+us before we talked to any investors on
+
+the Twitter side that we actually had
+
+people using the service and in in in
+
+some at some scale and on the square
+
+side that we actually had a working
+
+prototype square we had really seven
+
+merchants when we actually went to raise
+
+money but we had a working prototype
+
+that people are actually using and if
+
+people can't see it and feel it's very
+
+very hard to sell and I don't want to
+
+just go and tell people this is gonna be
+
+the biggest thing ever
+
+I want to I want to be able to show that
+
+and have them feel it and walk away
+
+feeling that as well so that's first and
+
+foremost is have something to show and
+
+so that they can actually feel and start
+
+making it a part of their story as well
+
+and feel like they have ownership over
+
+it and then second is the realization
+
+like I always kind of approach this is
+
+like this is a this is a if if we take
+
+money from someone this is kind of like
+
+hiring someone that we can never fire we
+
+can never get rid of right so that means
+
+do we really want to work with this
+
+person is this person going to be
+
+someone that really pushes us pushes us
+
+in a way that we need to be pushed and
+
+and you can tell that very fairly
+
+quickly in that first week of pitching
+
+square got a lot of people who said you
+
+know okay great we don't have any
+
+questions we'll get back to you in about
+
+30 minutes probably with with the term
+
+sheet and I said I don't want a term
+
+sheet especially if you're not asking
+
+any questions
+
+because they asked no questions
+
+during doing the pitch and that means if
+
+if they're on our board that they're
+
+actually not going to be all that
+
+constructive in terms of really asking
+
+the tough questions and making sure that
+
+we're you know we're not just in our own
+
+bubble but they're looking outside that
+
+is the role of the board is to is to
+
+look outside and bring all their insight
+
+and wisdom to us so that we can help
+
+guide to guide the company and and that
+
+second week we got a lot of tough
+
+questions and and that's what I love
+
+because I know if I'm getting tough
+
+questions in the pitch I'm going to get
+
+tough questions in the boardroom as well
+
+and not just the boardroom but every
+
+week I mean if a node emails me once a
+
+week about have you thought about this
+
+are you doing this and you know I know
+
+this person can I make an introduction
+
+here and it's just very very useful so
+
+I'm looking for someone who I just love
+
+working with and I think you you have to
+
+set a very very high bar it's not just
+
+about money or the firm it's about the
+
+individual that you're ultimately going
+
+to work with and people ask me all the
+
+time like you know what firms would
+
+would you suggest I go pitch and like
+
+fine find the people that you really
+
+want to work with in those firms and if
+
+there's someone that really you know
+
+just really resonates with you and you
+
+love and you love the idea of working
+
+with them focus on them and if it if it
+
+test out to be to be the case great but
+
+I think you have to kind of treat it as
+
+like I'm adding this person to my team
+
+and square was um was a little bit
+
+different because one of the things that
+
+I stated to all the investors in the
+
+board meeting and and and folks who
+
+might join the board is like look this
+
+is not going to be a stress-free company
+
+like there are so much interest in in
+
+commerce and payments and there's gonna
+
+be a ton of competition in the future
+
+we're very early right now but this for
+
+me a ton of competition in the future
+
+and not a lot of people want to work in
+
+payments because it's perceived as being
+
+slow and you have to work with these
+
+banking partners which aren't the
+
+fastest moving organizations in the
+
+world and people are trying to steal
+
+money from me all the time
+
+so this is not a place that you know
+
+it's going to be stress-free so I need
+
+to know that you will actually have a
+
+level head in times of in times of
+
+crisis because it's going to be very
+
+easy for us to see something and then
+
+react quickly and if we constantly react
+
+to something then we're actually
+
+building someone else's roadmap and
+
+we're not fulfilling our own vision and
+
+I want to make sure that we stay calm
+
+cool collected in that as a board and as
+
+an investor group and that you trust the
+
+folks with the most context to do the
+
+work and that is the folks in the
+
+company and I just made sure that
+
+everyone everyone knew that and if they
+
+didn't like that then don't invest and
+
+and some people some people walked
+
+because that and that was great great
+
+for me because that meant I didn't have
+
+to deal with that later on you know I
+
+think social networking platforms have
+
+had the dual effect of attracting
+
+hundreds of millions of people but also
+
+alienating many those who've used it and
+
+also those like me who never joined them
+
+not because I never wanted to sort of
+
+enjoy the benefits that they offered but
+
+because of my sort of fears over privacy
+
+and you know my fundamental skepticism
+
+of sort of where technology is headed so
+
+what do you say to that and how do you
+
+try to coax those people that the
+
+unconverted the the fearful but the ones
+
+who are equally as enthusiastic as you
+
+to to join sort of the global community
+
+whether online or personally thank you I
+
+think it's a I think it's a great
+
+question and it's definitely a concern
+
+shared by by many I think the first and
+
+foremost we we say the word technology
+
+and we tend to put it on a pedestal and
+
+that pedestal makes it very abstract and
+
+then that abstraction makes it very
+
+scary and we have to keep in mind that
+
+technology is ultimately just a tool and
+
+these are tools and we pick up the tools
+
+and we give power to the tools and
+
+and we can also take that power away
+
+from the tools fundamentally I believe
+
+that all tools and all technologies are
+
+really just reflections and mirrors of
+
+our desires as civilization our desires
+
+is as a humanity and and ultimately I
+
+think a reminder and potentially even a
+
+crutch that we're already born with
+
+everything that we need and I truly I
+
+truly believe that you know and you see
+
+this trend where we're moving from these
+
+abstractions where you know before a
+
+computer would fill this room and now it
+
+fits in my pocket and maybe very soon
+
+around my wrist and just 10 years ago
+
+the only way to input something was a
+
+keyboard and a mouse and now we're using
+
+our fingers and potentially very very
+
+soon we'll be using our voice and and
+
+and and more of these these very human
+
+aspects so the interfaces keep becoming
+
+more and more human and and and
+
+utilizing more of what we're born with
+
+and I think what what's important to me
+
+about about Twitter is that I think it's
+
+a closest thing that we have to right
+
+now that we have to like a global
+
+consciousness where you can actually see
+
+the world in real-time and not only can
+
+you see what's happening from from a
+
+news level and from an event level but
+
+you can actually see how people think
+
+and feel about it and ultimately if we
+
+have more of that sort of activity and
+
+and the nice thing about Twitter is you
+
+share as much as you want or you can
+
+just stop if we have more of that
+
+activity though we actually see how
+
+people live and what they desire and you
+
+know how they want to how they want to
+
+see the world how they want to change
+
+the world how they want to live in the
+
+world and ultimately I believe that that
+
+creates a potential for empathy and if
+
+we have more empathy in the world we
+
+have more opportunity to remove a lot of
+
+a lot of conflict so I think broadly we
+
+can use these tools in a way to build
+
+more empathy around the world
+
+and that empathy can actually actually
+
+has a chance to to diminish a lot of the
+
+conflict that we see in you know where
+
+we've also internalized but I I believe
+
+that we have the tools necessary to do
+
+it without these technologies as well
+
+and I think these technologies really
+
+serve a purpose of reminding us of that
+
+and you know maybe in 20 years 50 years
+
+we will understand how to lock more of
+
+the powers of the mind in order that in
+
+order to do that when we're busy
+
+exploring space and we're busy exploring
+
+the the physical universe but but what
+
+really interests me is are the folks
+
+that are really exploring that the
+
+depths of the of consciousness and how
+
+the consciousness actually interconnects
+
+and how it relates and I think
+
+technology provides a model for that
+
+that might teach us in different ways so
+
+I think it's something to be excited
+
+about but it again goes back to these
+
+controls of how do I turn it off and how
+
+do I turn and turn it on and if that's
+
+not intuitive or if it's not apparent
+
+then it's going to feel scary and if we
+
+continue to use these words like
+
+technology or disruption or we don't
+
+explain that the why of what we're doing
+
+with these things these these are things
+
+to increase the amount of people who can
+
+participate and these are things that
+
+increased velocity of communication or
+
+effort and if you increase velocity and
+
+the increase participation you get time
+
+back for more meaningful pursuits and I
+
+think that's enough positive but we can
+
+also use the tools in a very negative
+
+way and we just we have to make that
+
+decision it's ours and ours alone it's
+
+not the tools
+
+greatest inspiration I that that varies
+
+that varies a lot I think I think you
+
+always find role models for phases of
+
+your life and right now I'm I'm really
+
+obsessed with this artist named Robert
+
+Irwin I mean how many of you know Robert
+
+Irwin okay well he has a he isn't
+
+there's a book out about him which is an
+
+interview of his life and he's an artist
+
+and he he started as a as a painter and
+
+then he started questioning well do I
+
+really need the boundaries of the canvas
+
+and then he moved to to light and then
+
+you know he made these these light
+
+sculptures upon walls and he's like well
+
+do I really need the the wall and then
+
+he started using you know just these
+
+massive rooms and he's just constantly
+
+questioned every single thing and I love
+
+people who who really are comfortable
+
+exploring this this this ultimate
+
+question of why right so you know why is
+
+the question that is just it's the
+
+easiest question to ask but it's the
+
+hardest question to answer right and
+
+that to me is is really you know the
+
+driving force and and and what how
+
+curiosity manifests is being able to
+
+constantly ask the question why and
+
+doing the work to answer the question
+
+why and this is a this is a you know
+
+sometimes a fun little exercises you
+
+take a your friend or your parents or or
+
+your nephew or nieces or brothers or
+
+sisters and I would do this to my
+
+parents all the time like dad why is the
+
+sky blue as I well you know
+
+such-and-such recession like well why
+
+like well you know because this and why
+
+and he's like that's just how God made
+
+it and it's just it's it's interesting
+
+how quickly people kind of go to
+
+Authority and then there's another route
+
+where instead of going to authorities
+
+look well that's that's what we prove to
+
+science or you know that that is uh
+
+that's how the universe works or that's
+
+what you know this person said or that's
+
+what you know my boss said or whatever
+
+it is there's another course where we
+
+can say I don't know and if you're
+
+saying I don't know then that means that
+
+you're going to find out and and Robert
+
+Irwin is someone who just constantly
+
+questions every single thing that he
+
+does in terms of this that's why what
+
+like why am i painting in a canvas why
+
+is that I don't know and and then he
+
+explores a completely different meaning
+
+so he's a he's definitely a current role
+
+model but I've I've had I've had many
+
+many throughout my throughout my life
+
+Virginia Woolf is another one to whom I
+
+love and in terms of just her her prose
+
+and her writing style and just her
+
+strength and confidence and comfort with
+
+being isolated and in her work and her
+
+art and you know just how how she lived
+
+thanks very much for coming today Jack I
+
+really enjoyed your talk my question
+
+relates primarily to the branding of
+
+Twitter and you touched briefly on on
+
+some branding issues could you talk
+
+about a little bit how about how you
+
+came up with named Twitter and also the
+
+verb to tweet I mean it's something that
+
+everybody knows regardless of whether
+
+they're a Twitter fan or user or not and
+
+to me it's very iconic and I think you
+
+really nailed it I'd really like to know
+
+the thought process about how you got
+
+there yeah I I would agree with you I
+
+mean I think um I think Twitter is a is
+
+one of those brands now that has so much
+
+awareness around the world I think it
+
+actually has more awareness or equal
+
+awareness to to coca-cola but unlike
+
+coca-cola it actually stands for
+
+something it's not just a beverage no
+
+offense to coca-cola but I don't drink
+
+it
+
+but it actually stands for something to
+
+people because people bring the meaning
+
+to people bring their own purpose to it
+
+and people bring their own ideas to it
+
+and and they feel ownership over it as
+
+well so we uh when we were starting the
+
+company we wanted something that really
+
+kind of expressed or had a physical
+
+manifestation you know because when you
+
+received one of these messages and they
+
+were called updates at the time we
+
+didn't have the word tweet when you
+
+received an update your phone would
+
+would buzz and we we just thought that
+
+was so cool that like you know you do
+
+something virtually and it actually
+
+affects something physically that was
+
+amazing and it was just so cool for me
+
+as a programmer I could write one line
+
+of code and I could actually make
+
+business pocket buzz which is hard to
+
+say and he's like whoa and takes out his
+
+phone and it's a message and I just
+
+thought that was so cool so we wanted a
+
+name that really celebrated that and we
+
+came up with the word jitter and twitch
+
+and both of those words don't really
+
+bring up the best sort of imagery right
+
+it's something you actually want to
+
+avoid so Noah Noah glass who started OTO
+
+and and and and and was formative in the
+
+early early Twitter days went to the
+
+dictionary and he found the word Twitter
+
+and it's actually in the dictionary and
+
+it was in the dictionary before the
+
+company and it means a short
+
+inconsequential bursts of information
+
+and chirps from birds and we saw the
+
+definition were like of course I mean
+
+this is it this is what we do so we took
+
+that name and then like a standard web
+
+2.0 company we removed the vowels and we
+
+started with the name twt TR but we
+
+didn't do it just to copy like a Flickr
+
+or the you know the the web 2.0 trends
+
+we did it because we were text-based and
+
+in the United States a short code was
+
+was five digits and we wanted
+
+we wanted our shortcode to be twt TR so
+
+we applied for it and then we found out
+
+that this magazine team people had that
+
+shortcode so then we added the vowels
+
+back in and we came up with shortcode
+
+four zero four zero four which had
+
+nothing to do with what we did but it
+
+was available so so then our name was
+
+our name was Twitter and because it was
+
+chirps from birds we we we took a bird
+
+illustration that we found on the web
+
+and that became our logo and and then
+
+the people using the service actually
+
+came up with the word tweet and you know
+
+we a lot of our history is really around
+
+people using the service inventing ways
+
+of doing things on the surface the at
+
+user name the hashtag the retweet I
+
+think one of the one of the new kind of
+
+models and and interesting behaviors is
+
+this concept of the tweet storm which is
+
+you know number one number two number
+
+three number four number five number six
+
+it's a series of tweets that's meant to
+
+be won all these things have been
+
+invented by the people using the service
+
+and the word tweet was coined by the
+
+people using the service so it's it's
+
+really meaningful when you build a brand
+
+so that people can bring their own
+
+personality and their their own
+
+invention and and product too because
+
+that means you haven't just built a
+
+product you've actually built a platform
+
+and people can build upon that platform
+
+and make their own thing upon that
+
+platform and then if they feel ownership
+
+over that they continue to just use it
+
+and in really interesting ways so we've
+
+been very very fortunate in in the name
+
+and and the bird as our logo and and the
+
+current bird just you know when you see
+
+it it really stands for something it
+
+doesn't just stand for something for the
+
+people in the company but stands for
+
+something for the four people in the
+
+world and and and and that's something
+
+I'm really really proud of but naming is
+
+so difficult and something that I
+
+i-i've always had trouble with because
+
+my name people always thought my name
+
+was actually John they thought Jack was
+
+a nickname and no I said you know my
+
+name is actually Jack believe me and my
+
+name actually has 14 different
+
+definitions and in the dictionary Jack
+
+and thirteen of them are derogatory so I
+
+always had I always had issues with my
+
+name and a naming in general and but but
+
+having the right name just just really
+
+makes makes everything really magical so
+
+yeah pretty well unfortunately that's
+
+all we have time for today thank you all
+
+for coming and I would like you all to
+
+join me in thanking mr. Dorsey
+
+thank you

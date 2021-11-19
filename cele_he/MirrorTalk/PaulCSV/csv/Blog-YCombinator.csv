@@ -1,0 +1,381 @@
+name,line
+Interviewer,"Paul, there's a lot that people have learned from you over time, both from your essays and from working directly with you. So I just want to say thanks so much for joining us today. I'm looking forward to the conversation."
+Paul,"I'm looking forward to it, too. Let's see how good a job you guys do. Are you going to ask me interesting questions?"
+Interviewer,I hope so. At least I hope you'll have interesting answers regardless of the questions.
+Paul,"It is actually a trick for interviews. If someone asks you a boring question, just answer the interesting one they might have asked, and nobody complains."
+Interviewer,"The most fascinating interview I ever saw... it wasn't really an interview. It was a Senate inquiry or Senate panel. It sounds weird, but it was questioning Donald Rumsfeld. And the skill with which he responded to any question was a master class in how to answer questions. He never said anything he didn't want to say. He never answered any question he didn't want to answer."
+Paul,"Yeah, I'm not so good at that."
+Interviewer,"And I wouldn't aspire to try to be like him in a lot of other ways, but he could an interview very well."
+Interviewer,"There's a lot of things that you've done for startups, but I actually want to go back to your startup, to Viaweb. What drove you to start a company? Because before that, you were a writer, a painter, and an academic."
+Paul,"Yeah, kind of."
+Interviewer,What drove the decision to go start a business?
+Paul,Poverty.
+Interviewer,Poverty.
+Paul,"I was tired of being poor. I was working as a freelance programmer, and it was this sort of boom/bust thing where I would get money and then I would run out of money, and then it would be a disaster, and I just got tired of it. And then I thought, ""I'm just going to work until I won't run out of money.""."
+Interviewer,"Did you consider joining a larger company, not doing the contracting thing?"
+Paul,No. I've never really had a normal job.
+Interviewer,"Is that sort of a religious thing with you, or you just knew you weren't suited to it?"
+Paul,"It's like the idea of eating roadkill. Is it a religious thing with you, or do you just know you're not suited to it, right?"
+Interviewer,And this is something you've always known?
+Paul,"Oh, God, yeah. I'm the last person in the world who'd be suited to being in a big company."
+Interviewer,So where did the idea for Viaweb actually come from then?
+Paul,"Well, we did something else that was a bad idea."
+Interviewer,Which was?
+Paul,"We made software for putting art galleries online. Because remember, here I was in New York in the slums of the art world, basically, and it seemed like, ""Oh, now here comes the Web. We'll put art galleries online."" What a stupid idea. That's not how that business works at all. But we persisted in it for six months trying to sell this thing to people that nobody wanted. That is where Y Combinator's motto, ""Make something people want,"" comes from. From making something people didn't want."
+Paul,"And so, then, we saw all these online stores that were the big deal. That was the big deal back in the mid-'90s, online shopping. And with these online stores, they were exactly the same as the sites that we were generating for art galleries. Instead of artists and artwork, it would be categories and products. We thought, ""All we have to do is write an order button, and we've got an online store builder already."" So we just started making something people did want instead."
+Interviewer,What were the big online stores at the time?
+Paul,"Marketplace MCI. Can you believe it, right? That's what was going on. These gigantic companies... does MCI still exist anymore? I don't even know."
+Interviewer,I don't know.
+Paul,"But these gigantic, late 20th century oligopolistic telecom companies thought, ""Oh, here's the Internet. Let's set up a task group of 500 people sitting in cubicles making HTML by hand."" These people were all making HTML by hand."
+Interviewer,"So given that at the time, the  stores were being started by these super large corporations as side projects, the decision to say, ""Well, we're going to build a store builder that lets anyone do this""... Who was that ""anyone"" at that time? Did you think that companies like MCI were going to use Viaweb?"
+Paul,No. We thought
+Paul,"So actually, we spent all our time chasing catalog companies. But all our early users were these entrepreneurs who were looking at a way to start a new catalog company."
+Interviewer,"Right. It's interesting to think how long catalog companies were entrenched in commerce, right? The Sears Catalog was such an important part of the world for so long."
+Paul,"Oh, God, yes. Sears was so huge, so early. Like, 1900. Sears was this huge deal. And it was so big. Like the Walmart of its time."
+Interviewer,"It was so ubiquitous... the catalog was so ubiquitous that when people finished them, they actually used it as toilet paper in their outhouses in a lot of places. Because it was everywhere. It was the most available source of paper."
+Paul,"When I was a kid at Christmas, the Sears Catalog was your reference work."
+Interviewer,Really?
+Paul,"You would go through the Sears Catalog... whether your parents bought the thing from Sears or not, it was the list of stuff. It was the list of available stuff."
+Interviewer,It's wild to think that that was the list of stuff. That was everything.
+Paul,Yeah. It was that comprehensive.
+Interviewer,"Right. So then, here you come and you say, ""Well, we're going to take things like the Sears Catalog and we're going to convince them to put it online.""."
+Paul,Yeah. Some of them did.
+Interviewer,They did?
+Paul,"Yeah. There were some that were quick to get online. Frederick's of Hollywood measured by page views. We charged a flat rate regardless of page views, and they got so many page views, we basically broke even on Frederick's of Hollywood."
+Interviewer,"Moving back a step, how did you decide to work with Robert ?"
+Paul,"Well, Robert, like everything I've ever done, I've done with Robert. Everything I do, the first thing is I bounce it off Robert and say, ""Is this a good idea? And if it is, do you want to do it with me?"" And then...."
+Interviewer,And you were undergrads together?
+Paul,"No, actually, he...."
+Interviewer,How do you know each other?
+Paul,"I went to grad school where he was an undergrad. He's one year younger than me, but he also got kicked out of college for a year for basically getting Harvard back on the Internet. Harvard's Internet connection had died of bit decay, which showed how unimportant the Internet was back in the mid-'80s. The Internet connection died and no one complained for a year."
+Paul,"But then Robert, just out of curiosity, decided to resuscitate it and he didn't do any classwork, and he got bad grades, and got kicked out. So even though he's one year younger than me, he was two years behind. So when I went to Harvard for grad school, he was still there as an undergrad."
+Interviewer,And you met through CS Program? Or just through building stuff?
+Paul,We were the ones who were there at night programming.
+Interviewer,"Got it. Because this goes back to something that I've heard you say to a lot of people, which is the best place to find cofounders is school...."
+Paul,"School. Yes, I think so."
+Interviewer,And it's coming out of your own experience with it?
+Paul,Yeah.
+Interviewer,"And you weren't thinking at the time, I don't think anyone was really thinking at the time, ""Hey, I'm going to find a cofounder now who we're going to go start a company with or we're going to do something.""."
+Paul,"Oh, my God, no. I went to Harvard thinking I was going to do general AI in 1990."
+Interviewer,And then go into academia?
+Paul,"Good luck. Yeah, of course. I was going to be like Isaac Newton."
+Interviewer,That was the computer science path?
+Paul,"Yeah, sure."
+Interviewer,And where does Trevor come in?
+Paul,"Well, what happened was I recruited Robert to work on this startup thing with me. And after a month... it's so funny how things turned out later. But after a month, Robert said, ""I've been working on this for a month and it's still not done."" He was starting to get a little grumpy. So I thought, ""All right. We better get some more people to work on us with this. Because Robert might suddenly disappear at any moment.""."
+Paul,"So I asked him, ""Who's the smartest person in the CS department?"" And he said, ""Trevor."" And I said, ""Trevor? Are you kidding?"" Trevor was a complete goofball. And it turns out, he is, but he's also very smart."
+Interviewer,Had you spent much time with Trevor at that point?
+Paul,"No. He seemed at the time, man... he had just adopted this new plan for organizing his life on note cards, and he would carry around this big stack of note cards. You would ask him a question and before he could answer, he had to get the appropriate note card. He seemed like such an eccentric that I had just completely written him off. Robert would be talking to Trevor in his office and I'd be gesturing behind Trevor's head, ""Get this loser out of your office so we can go to lunch!""."
+Paul,"But Robert said Trevor was the smartest, and I trust Robert, so we got Trevor."
+Interviewer,At what point in that relationship did you start trusting Trevor? Or have you?
+Paul,"Well, we recruited Trevor to work on Viaweb. And we wanted him to write certain things. We needed to be able to re-size images and stuff like that, right? So we get Trevor to work on Viaweb. And for two weeks, we hear nothing from him, and I think, ""Oh, this guy is so useless.""."
+Paul,"And then after two weeks, he comes to me and he's rewritten the entire thing in Smalltalk. Which was impressive, but also somewhat not what I wanted. And so I said, ""Great, powerful engine, no rudder. I will now be the rudder and send this powerful engine off in the direction of re-sizing images.""."
+Paul,So we didn't use any of that. The entire product rewritten in Smalltalk. But that's Trevor for you.
+Interviewer,But he proved what he could do and it was just misguided a little bit?
+Paul,"Yeah. Basically, it took the combined efforts of me and Robert to sit on Trevor and keep him under control. But once sat on, he was super powerful."
+Interviewer,"Did the three of you think similarly about what the goals were for Viaweb at that point? It's a month or two into the company, the three of you are working together. Do you have a vision for what you wanted it to be other than not poverty?"
+Paul,"Well, we wanted to get users. We knew we had to get users. Because this was one of these old-fashioned startups where we charged users money. And so, if we got lots of users, we would be able to pay our expenses and our rent, and we would not have to shut down the company. So we knew we had to get users. It was sort of like, whatever would get users."
+Paul,"But Robert and Trevor didn't like talking to users very much, and I didn't either."
+Interviewer,Not surprising.
+Paul,"We were all computer nerds, but I was the least nerdy of three, so I was...."
+Interviewer,So then you were in charge of getting users?
+Paul,"Yeah, of course. They did not want to talk to users. We had this joke"
+Interviewer,"And that's the first time anyone referenced Buckaroo Banzai on the show. Which if you don't know who Buckaroo Banzai is, he was a fictional character. But President, billionaire, inventor, pilot, race-car driver?"
+Paul,Brain surgeon.
+Interviewer,"Brain surgeon as well. Right, I forgot about that."
+Paul,And rock star.
+Interviewer,"Rock star, yeah. Really, the complete renaissance man of late '70s B-movies, I guess."
+Paul,That was a great movie. I recommend that to anybody.
+Interviewer,"It is. When he goes into the mountain with the car and all of a sudden, there's another dimension because that's how that works... great movie."
+Interviewer,"This idea of going and talking to your users and you being the person who did it, you had this conception that your users were going to be the catalog people."
+Paul,Yeah.
+Interviewer,"What else were you learning as you were actually talking to all these ""Johns""?"
+Paul,"Well, we learned about their strange desires. You know what we had to do? We had to do things that didn't scale. This is where I learned about doing things that didn't scale. And in the beginning, I thought that doing things that didn't scale was something that we were forced into because we were lame. It was only later that I realized it was actually the optimal thing to do."
+Paul,"And so, basically, the deal was we would go to these people and say, ""We've made software you can use to make your own online store. Want to make your own online store?"" And they would say, ""No."" And we would say, ""Well, what about if we used it for you? Then would you do it?"" And they would say, ""Okay."" So we would have to build everybody's stores ourselves. Even though the idea was that this was for end users to build their stores, we would have to build their stores."
+Paul,"So I learned how to sell men's shirts. I had to digitize all these damned images of men's shirts, right? And I got these beautiful images, and I made this whole site with all these pictures of these shirts. And I learned from the shirt guy that all they want is pictures of the collar. I had to go and redo them all, the whole site, hundreds of shirts. I still remember those shirts so well."
+Paul,"I learned how to sell pens, to sell ""Star Wars"" merchandise... The most random crap. But it was interesting. It was useful. I learned, my God, and boy, if there was anything that was annoying about our software, the turnaround time for changes was real quick. Because I would be making their website with our software, I would discover something annoying about it. I was the one who wrote the site building part of the software, so I would immediately ."
+Interviewer,"Were people not interested in using the software because they didn't see the revenue potential, they didn't see the value? Or it was too hard?"
+Paul,"It was a combination of, they didn't know if it was going to work, and they thought software would be hard. Still, to this day, one of the big things programmers do not get is how traumatized users have been by bad and hard to use software. The default assumption of users is, ""This is going to be really painful, and in the end, it's not going to work.""."
+Interviewer,Right. It's crazy that that is still the default assumption.
+Paul,"That's still my default assumption. I've used Amazon Streaming and it says, ""You have to reinstall Silverlight,"" and I'm like, ""Oh, my God. Half an hour later, I'm still going to be trying to do this and it's not going to work. Can I avoid reinstalling Silverlight? Please?"" You know?"
+Interviewer,"It's interesting to hear that's the thing that doesn't work now. Whereas ten years ago, anything you tried to do on a Windows computer resulted in the blue screen of death."
+Paul,I wouldn't know. I've never used a Windows computer.
+Interviewer,"You never used a Windows machine, right."
+Paul,"Did you know, by the way, that the big incentive for inventing software-as-a-service was that we didn't want to have to figure out how to develop software for Windows?"
+Interviewer,Really?
+Paul,Yes.
+Interviewer,Because you didn't want to write in that universe?
+Paul,"Because back then, developing software meant developing software for Windows. That's what it meant, right? We thought we were going to have to build a store builder that would run on Windows. We wrote it on Unix in the beginning, because that was the only operating system that we knew or liked, right? That was just our world. So we wrote this thing and we thought, ""You know, if we just made it work through that browser, you could make clicking on links control the software. Instead of clicking on links just go to some other page, you could generate the page on the fly."" The page could be essentially a UI."
+Interviewer,Right.
+Paul,"It sounds so obvious now. But back then, that was not what hypertext was supposed to be for."
+Interviewer,It was just links from place to place.
+Paul,"Yeah. And so, we thought you could generate the places on the fly. They don't have to be static text that you're fetching off disks somewhere. It can be the next screen in the use of some program. And we thought, ""You know, if we did this, we'll never have to learn Windows.""."
+Paul,"Not only won't we have to learn how to write programs on it, we won't even have to learn how to use it. We can just avoid the whole thing. There was an advantage to the Windows monopoly, which was it inspired software-as-a-service to get going faster."
+Interviewer,Right. It inspired people in that anyone who didn't want to build for it would have to try something new.
+Paul,"And boy, it was so great. My God, software, we would ship in a second. You want a bug fix? We would do this trick, sometimes, that we couldn't resist"
+Paul,"When you're doing stuff like that, you can't resist playing that kind of practical joke."
+Interviewer,Right. Because everyone was used to software where a bug fix came in the next version that was pressed in a CD-ROM that was shipped in a box that took months.
+Paul,"Even if it was sitting on the Web, they assumed it would have to go through engineering and would take days or something like that."
+Paul,"They didn't realize we were engineering. If they had realized that, these catalog companies, if they had realized they were talking to two guys sitting in the top floor of a triple decker in Cambridge with crap strewn about the floor... I lived there. It was not a very office-like environment."
+Interviewer,"There's a great illustrating example in this. There's a book about Intuit and how Intuit got started, and how they competed with Microsoft Money and all and stuff, it's a great story. And at some point, they're talking about how they finished this new version of the software. And as they pressed everything, put it in boxes, it was ready to go, and they found a major bug, and had to rewrite the software and repackage it in a weekend kind of thing. Everyone who worked at the company came in for the weekend and was just shoving discs into boxes to send out to re-sellers because that's what happened, right? It went out to Comp-USA and places like that."
+Paul,"Even that was advanced. Because what would normally happen is they'd say, ""We can't redo it. There's a code freeze. Ship the broken thing and we'll fix it later,"" right? That's how a more grown-up company like Microsoft used to do things. They would ship stuff broken. They would ship stuff knowingly broken and say, ""You can download a patch later, because that's the procedure.""."
+Interviewer,That's the 30- and 40- years of software trauma that people are dealing with. Which is why I think people are still amazed every time something works. A little bit amazed.
+Paul,"You know what, though? I'll tell you. The one real advantage of having a Ph.D. in computer science is you don't blame yourself. Because you can say, ""This is really hard and painful for me."" And instead of stopping at that point, you can say, ""And I have a Ph.D. in computer science, so here's an interesting data point. That means it's probably too hard and painful for almost everyone,"" right? Except the people who wrote it."
+Interviewer,"Right. Because they know all of the quirks and all of the tricks, and they internalize that."
+Paul,"Yeah. Well, that's why it's really useful to go and watch your users use your stuff. If you build something for users, go and stand behind them. And my God, it is so hard to say, ""Oh, no, don't do that. Just click on that obvious button right in front of you. What are you doing?"" It's not so obvious."
+Interviewer,Why do you think people have such a hard time taking that step and actually going and spending time with their users?
+Paul,"I think because they think they know what their users are already like. And they don't realize how different they are. And boy, let me tell you, direct marketers are very different from programmers. We brought down the average for a while because we were members of the DMA, the Direct Marketing Association. So for a while, there was a brief convergence."
+Paul,"But it's funny, we went to the DMA Conference, the trade shows to present our stuff. That was how you got users back in the day, trade shows. And we were the last people to book a booth, and the only booth left was next to the bathroom. We thought, ""Typical.""."
+Interviewer,"It could be a great spot, though...."
+Interviewer,"Yeah, it could be a great spot."
+Interviewer,... everyone has to come through.
+Paul,That's what we discovered. It was fabulous.
+Interviewer,Smart.
+Paul,"All these people going to the bathroom would walk past our booth. We learned, though, you want to get them on the way out, not the way in."
+Interviewer,Makes sense.
+Paul,"All these little things, the 1,001 little things you learned. We learned, ""Don't take a house plant on the roof of your car."" We bought a house plant to decorate our booth. We were such bunglers. And when we got to New York, all the leaves had blown off. It was just this stick."
+Interviewer,There was just a trail of leaves flying behind you on I-95 as you booked it from Boston?
+Paul,Yeah.
+Interviewer,That's amazing.
+Interviewer,How long did you work on Viaweb?
+Paul,Three years.
+Interviewer,And then....
+Paul,"Three years between starting it and getting bought, almost exactly."
+Interviewer,"And then, did you all spend time at Yahoo after?"
+Paul,"Me and Trevor did. Robert didn't, because Robert still had to go and finish his degree. Trevor got rich and got his Ph.D. the same weekend. He graduated the same weekend the Yahoo deal closed."
+Interviewer,He was still working on his coursework and his dissertation while he was....
+Paul,"Oh, yeah. Grad school, man, you've got a lot of...."
+Interviewer,A lot of free time?
+Paul,... yeah.
+Interviewer,How did you feel about selling the company to Yahoo?
+Paul,"Well, we had made the thing to sell it. We had really made the thing to sell it. When we were getting kind of big, people would talk to me about going public. And I knew back then, going public would have been a disaster. They would have had to hire some suit to be the CEO. And what if the suit actually believed the part about him being CEO and tried to tell us what to do, right? What a nightmare. I didn't want to deal with that. Selling it was the only plausible thing."
+Interviewer,Right. There was no model then for the founders....
+Paul,E-commerce was not my life's work. I didn't actually want to spend my life working on this. I did it to get money and make that money.
+Interviewer,"Yeah. This is such an interesting thing because it's so opposite from what you tell people a lot of the time, what YC tells people, certainly, of ""Don't do things just because there's a business there,"" right?"
+Paul,"Well, it depends what you want. I tell founders, ""Do what you want,"" right? If you want this to be your life's work, then don't sell the company just because someone's offering you money. But if you're just doing this to make money, then do it to make money, but do it right."
+Interviewer,Right.
+Paul,"And your attitudes could change. There are lots of people who start out thinking they just want to make money, and then it gets big, and they think, ""Wow, I'm important. I already have enough money. I'll just keep doing this.""."
+Interviewer,"Right. So when you hit that decision point, Yahoo came knocking and said, ""Hey, we want to buy you."" How did that work?"
+Paul,"Well, we flirted extensively with Yahoo. They didn't just come knocking. We were an e-commerce firm. Back in the '90s, people tried to buy us 12 times in the course of our existence. This is how I learned another rule"
+Paul,"We wanted to get bought by Yahoo, and fortunately...."
+Interviewer,Why?
+Paul,"Because they were like us. They were like us. One of the things we did that is now completely taken for granted was running everything on open source software. We used this free operating system, and everyone said, ""What? You're using freeware on e-commerce servers?"" Yes, it's actually better."
+Paul,"And so, Yahoo was just like us. They were started by CS grad students from Stanford and we were CS grad students from Harvard. They were like us."
+Interviewer,How long had they been around at that point? Two years?
+Paul,Not much longer than us.
+Interviewer,"Yeah, they were like three, three and a half years old at that point."
+Paul,"Yeah, it made us feel kind of small, actually, that they were so huge."
+Interviewer,"You wanted them to buy you, so does that mean you turned the other 11 down until Yahoo showed up? You said some of the deals fell through."
+Paul,"Oh, my God, all kinds of disasters happened. People...."
+Interviewer,You wanted the other 11?
+Paul,"It depended what kind of offer they came up with. Basically, what would happen is people would suck up vast amounts of their time and then either disappear or come in with some low-ball offer."
+Interviewer,Got it.
+Paul,"Before Yahoo, we almost got bought by another big search engine, and they actually welched on the deal. It was a complete disaster."
+Interviewer,Really?
+Paul,Yes.
+Interviewer,You've seen all the things that can go wrong with a deal?
+Paul,"Oh, my God. I have seen almost everything that can go wrong with startups, period."
+Interviewer,How did you like working at Yahoo?
+Paul,I didn't like it.
+Interviewer,"Was it the thing you said at the beginning? You're just allergic, basically, to working at large companies?"
+Paul,"Yeah, pretty much. It's funny to think... to call it a ""large company."" Because when we got bought, Yahoo only had 500 people. We were only their second acquisition. Geoff Ralston was their first. But already, it seemed like a big company to me."
+Interviewer,Yeah. And they had raised a lot of money. Were they public yet?
+Paul,"Yeah. Yes, my God."
+Interviewer,"They went public... 12, 18 months after they started?"
+Paul,They had a market capital of $500 million when they went public. Isn't that crazy?
+Interviewer,It's crazy.
+Paul,Yeah.
+Interviewer,It's crazy how to think how different the IPO market....
+Paul,One-fiftieth of the valuation of Airbnb as they went public.
+Interviewer,That's incredible.
+Interviewer,Capital markets have changed a lot in the last 20 years.
+Paul,Yeah. You know what's happened? The balance of power between VCs and founders has changed.
+Interviewer,Right.
+Paul,"This was back in the day when VCs thought, ""I want to unload this sucker as fast as possible.""."
+Interviewer,"And they owned 60 to 75% of the company, so they controlled everything."
+Paul,"Well, it wasn't that. It was board control."
+Interviewer,"Well, yeah."
+Paul,"And so, Yahoo was like a very different kind of company. Jerry and David were not the CEOs. The VCs appointed adult supervision. They called themselves ""adult supervision."" It was like this weird transitional state between pre-startups and the present-day startups. But now, the reason companies don't go public now is because founders don't want to go public. Who wants to be the CEO of a public company? Bleh, it's all downside. Who wants their company to be public and have a bunch of people speculating and the stock going down next month? There's just no upside to it."
+Interviewer,"Well, there is some upside in terms of the liquidity that you can provide to employees and things like that. There are different things that you can do as a public company."
+Paul,That's true.
+Interviewer,"It's become more onerous, certainly, with Sarbanes-Oxley and other regulations."
+Paul,Yeah.
+Interviewer,"So you sold the company, when your goal, originally, when starting the company was to make money. You accomplished the goal."
+Paul,Yeah.
+Interviewer,"And you could have just said, ""All right, I'm done. I'm going to paint for the rest of my life or write.""."
+Paul,Yeah.
+Interviewer,How long did you stay at Yahoo?
+Paul,"I felt like I had to work there for a bit. They were expecting us to go work there, and it would have been a bad move to . Trevor lasted longer."
+Interviewer,That's interesting.
+Paul,"Well, the reason is they gave us options when we went to work for Yahoo. And I thought Yahoo was so overpriced. I just treated these as a joke. I didn't even count how many there were. My God, from the point where we got bought, Yahoo stock went up 12X. These options were worth huge amounts of money. I guess I better not say the number, but it was a shocking number each month after tax, just shocking."
+Paul,"It would add another number to the left-most digit of my net worth every month, basically. Shocking."
+Interviewer,"I think that most people, or a lot of people in startups now, don't quite remember how fast these companies were moving, like, how fast they were going up, and the amount of wealth that was being created by them."
+Paul,Yeah.
+Interviewer,It's crazy.
+Paul,Yahoo was like... it was the poster child of the Internet.
+Interviewer,A fact I did not realize until my mother told me about it
+Paul,Dell?
+Interviewer,"Almost positive. I should probably triple check this. But basically, when Dell started in the '80s, they had all these splits and all this growth. And so, they were earlier than all those others, and they just exploded...."
+Paul,Rose with the market.
+Interviewer,"... and then obviously didn't do great. And now, they're a private company again. But people always point to the Internet companies as the ones that got the most valuation bump. And it was Dell, I think, that was the leader of that pack."
+Paul,"Well, considering Yahoo started out at practically zero, surely, the multiple for Yahoo was higher?"
+Interviewer,Probably over those few years.
+Paul,Yes.
+Interviewer,Yeah. But not from graphs.
+Paul,You should see the graphs. I remember looking at these graphs.
+Interviewer,So Trevor ended up lasting longer because he....
+Paul,"When I left, I left after a year."
+Interviewer,So you left in '99?
+Paul,"Yeah. Because I felt like it was okay. The product was safely launched within Yahoo. They didn't really need me, and I didn't like working there. And I figured, why trade something I don't need for something I do? I had enough money, but I didn't have enough time. So why trade money for time?"
+Interviewer,Did you think about starting another company?
+Paul,"No. But everybody at Yahoo thought I was going to. They thought, ""How could he possibly leave all this money on the table except if it's to go and start another company?""."
+Interviewer,To make more money.
+Paul,"So they totally did not believe... it's funny, at the time, all these top people at Yahoo were asking me all these things about my future plans. And I thought, ""Oh, how nice of them to care."" And it was really just because they totally didn't believe my stories about how I wasn't going to go start a new startup. They thought I was going to go and go and try and recruit Trevor, and take the whole store team. No, I just wanted out."
+Interviewer,What did you end up doing?
+Paul,Writing.
+Interviewer,Is that when you started writing more regularly?
+Paul,"Well, writing software and writing essays. That's what I ended up doing."
+Interviewer,What was the purpose of the software you were writing? Just things for fun?
+Paul,"Programming languages. That's what I've always been interested in. That's what I was always specialized in. Programming languages, especially dialects of Lisp."
+Interviewer,"So you basically got enough money to return to the roots of what you wanted to do, which was being an academic?"
+Paul,"Yeah. And I went back to Cambridge, too. I basically went back to my old life of sitting around hacking and writing stuff. Because I had been writing books before, too."
+Interviewer,Right. So what made you start thinking about startups again to the point where you actually started writing about startups?
+Paul,"I was always interested in startups. Startups are interesting. It's an interesting novel phenomenon. But I didn't write that much about startups. The way I got to be talking about startups really was, one of my tricks for writing essays was to agree to give talks. And the Harvard Undergraduate Computer Club, doesn't that sound nerdy? Well, it was, invited me to give a talk. And I thought, ""What shall I give a talk about? What could these people want? What would be useful to them?"" And I thought, ""I know. I'll tell them how to start a startup. All that stuff I have in my head that's otherwise going to go to waste, I'll write down in an essay and give them this as a talk.""."
+Paul,"And that talk led to Y Combinator. In the audience at this talk were Steve Huffman and Alexis Ohanian, the founders of Reddit, who had come up on the train from Virginia."
+Interviewer,How did this pair of UVA guys found out that you were giving a talk to the Harvard Computer Club?
+Paul,"Because I advertised it on my website. I had all these people who would go to my website to read the essays. And I said, ""I'm giving a talk."" And these guys got on a train and came up there from Virginia."
+Interviewer,"I think looking at the startup landscape, the echo chamber now online of everyone writing about it and all the stuff out there, it's a little hard to realize how little was being written, and how few people were talking about it back in '04, '05."
+Paul,"Well, you know what? Startups had become unfashionable again. They were deeply fashionable in the late '90s, and then, pow, the Internet bubble burst, and the whole economy was bad, and no one was talking about startups in 2004, 2005."
+Interviewer,Do you know how they initially found your essays?
+Paul,"Well, Steve Huffman was a Lisp hacker, right? And so, he was reading stuff on my website because he was interested in Lisp, not startups. But then, I was going to give this talk and they thought... I don't even know if they knew the talk was going to be about startups. I'm not sure. Maybe."
+Interviewer,"Startups weren't even really that much of a... like you said, it was a dead thing. No one was thinking, ""Oh, that's something I really want to do.""."
+Paul,Yeah.
+Interviewer,"""I want to go and start a company."" Were you surprised, then, when you first launched YC... let's actually talk about that a little bit, because I'm curious if you were surprised by the reaction. Jessica spoke a little bit about where the idea came from and why you decided to do it. For you, was it a decision that you wanted to keep learning more about startups? Because now, this is a thing you were more interested in?"
+Paul,"No, not at all. You know what it was? Jessica was going to go work for this VC fund. Like anybody who knows me knows, it's almost a joke how much the following phrase comes out of my mouth. ""You know what you should do?"" So here, Jessica is going to go and work for this VC fund. While, I, in the last few years, had had all these bad experiences with these idiots at VC funds. So I thought I knew how to do it a lot better."
+Interviewer,"It's funny, though. In the last few years... at that point,  were eight and ten years prior. It had been a while, right? This was 2004, '05...."
+Paul,Seven years.
+Interviewer,Seven years.
+Paul,But it was still fresh in my mind.
+Interviewer,Yeah. A traumatic experience.
+Paul,"Yeah. So I was telling Jessica, ""You know what you should do? When you go and work for this VC fund, you should do this and you should do this."" And the VC fund was taking a real long time to make up its mind about hiring her. Big surprise, a VC fund taking a long time to make up its mind."
+Paul,"And meanwhile, we were having all these ideas about what to do. Plus, then, I had given this talk at the Harvard Computer Society, and I said, ""If you want to raise money, raise money from people who made the money doing startups. And then, they can give you advice, too."" And I suddenly noticed, they were all looking at me."
+Paul,"And I had this horrifying vision of them all e-mailing me their business plans. Which is funny, because that's what YC turned into."
+Interviewer,You created your nightmare.
+Paul,"Up there, in the middle of the talk, I said, ""But not me. No.""."
+Paul,"But then afterwards, I thought, ""You know, it's been seven years."" I always thought, people who start startups feel like they should do at least a little bit of angel investing. Because if no one had invested in them, how would have they gotten started, right? And so, I thought, ""It's been seven years and I still haven't gotten around to angel investing."" Plus, I was talking to Jessica about all the things she should do, you know? Plus, this VC fund was taking a lot of time to make up their minds. So we said, ""All right. We'll do it. We'll do some angel investing.""."
+Interviewer,Did you call Robert to see if it was a good idea?
+Paul,"Well, I called Robert to see if he would do it with me. I couldn't back out at that point because I told Jessica, ""All right, I'll put $100,000 into this thing, and you can quit your job."" So even if he said it was a bad idea, it would be too late. But fortunately, he wanted to do it with me, and so did Trevor."
+Interviewer,"So it's funny to hear about you talking how the two companies you founded were founded, right? When you talk about Viaweb, it's, ""Well, I don't want to be poor, and so I want to make some money.""."
+Paul,Yeah.
+Interviewer,"And you sell the company for an amount that makes you not poor. And with YC, you started not from that perspective. It's like, ""All right. I'm doing this for other reasons.""."
+Paul,"YC, honestly, we had to incorporate it. But we didn't even think of it as a company. We just thought of it as a project. ""We'll just do some angel investing,"" right?"
+Interviewer,Right.
+Paul,"And so, the big innovation about YC... I mean, there's a bunch. There's a network of related innovations, but probably the single most important is investing in startups in batches. And that was just an accident that we did in the beginning. It was something we did in the beginning to learn how to be founders, investors."
+Interviewer,Investors.
+Paul,Interesting Freudian slip.
+Interviewer,"So talk to us about how that first batch went for you. You decided... you called Robert, you called Trevor. Jessica was in. And Jessica mentioned when she was on the show that about 200 applications came in."
+Paul,Yeah.
+Interviewer,How did you go about sorting through all of them?
+Paul,"Well, back then...."
+Interviewer,How did you know what to look for?
+Paul,"Well, you know, actually, we, ourselves, we're startup founders, and we knew lots of other people who were startup founders. So it would be like asking a writer, ""How do you know what to look for in a writer?"" These people were our peers. We could tell, right?"
+Paul,"And so, that wasn't too hard. But we didn't have any infrastructure in the beginning. It was just like a website and an e-mail address. That was YC. And we took that applications by e-mail. We didn't have any software at all. We didn't have any software. Our website was static HTML."
+Paul,"And so, we got all these e-mails. We printed them out on paper. And we would go through the stacks and hand the stack to the next guy, and write our grades at the top. And that was where putting grades on applications from."
+Interviewer,It's very much a grad student approach to getting through a lot of the paperwork.
+Paul,"Yeah. We would just have these big piles of paper. We did this for several batches, actually."
+Interviewer,How do you start to decide what it is you tell startups to do at that beginning?
+Paul,"I would just say what I would do if I were in their position, which varies tremendously depending on the startup, because startups all have different problems. But there's usually one problem that's the most urgent. And so, you zero in on the most urgent problem and then you figure out how to fix it."
+Interviewer,"In those first startups, they were all basically consumer-focused Web at the beginning, weren't they?"
+Paul,"Sam  was not doing Web. Sam was doing mobile apps before smartphones, how about that? And Reddit wanted to as well. The Reddit guys, their original idea was to order fast food on your phone."
+Interviewer,My Mobile Menu.
+Paul,Is that what it was?
+Interviewer,"Yeah, it was."
+Interviewer,Did the type of business the founders were starting influence the advice at all?
+Paul,"Well, it must have, because I don't remember much about what I told all these people 10 years ago."
+Paul,"YC is not a school. It's not like lectures where you tell everybody the same thing. It's more like graduate school where you have graduate students working on their dissertations, and you talk to them about whatever they're doing on their dissertation. It's very customized depending on the startup. So it would have depended entirely on what they were doing, not just what kind of customers they had. But the problems a startup has can be a lot different from what customers they have."
+Interviewer,Sure.
+Paul,"There could be fights among the cofounders, right?"
+Interviewer,Did you learn a lot from that first group?
+Paul,"Well, I learned that YC would work. We thought of that first group, we thought of it as this throwaway thing. You know how when you're doing something with dye or something like that, or some sort of cleaning fluid, they say, ""Try it on a corner of the jacket first?"" This was the corner of the startup world's jacket, you know? We just thought of it as this complete throwaway thing. In fact, we pitched it for undergrads. It was supposed to be an alternative to doing a summer internship, which is like a throwaway job. We said, ""Instead of a throwaway job, do a throwaway startup. And at the end of the summer, if it's doing badly, you throw it away.""."
+Interviewer,Right.
+Paul,"And lo and behold, non-zero numbers of these startups were viable. It was astounding. We did not expect at all. This was supposed to be just a learning experience, and it seemed like it might actually work."
+Interviewer,What showed you they were viable?
+Paul,"They were getting users. They were getting growth. These people were actually building stuff and launching, and getting users. And they were going to keep working on it."
+Interviewer,How did that then lead to deciding to do it again?
+Paul,"Well, we realized very quickly that this might actually work."
+Paul,"The startups might work, and moreover, that doing startups in batches, even though it was originally just a hack to fund a whole bunch of startups at once so we could learn how to be investors, we learned that doing startups in batches had all these advantages. We learned that we had inadvertently stumbled upon applying mass production techniques to venture funding. Which traditionally had been this very much hand-done business."
+Paul,"And so, once we realized what we had stumbled upon accidentally, then we started trying to do it on purpose. Very quickly, like, in the first week or two."
+Interviewer,It was the first week of the actual batch?
+Paul,Yeah.
+Interviewer,"Oh, wow."
+Paul,"Very early on, we thought, ""Holy cow. This might actually work."" And then during YC, we seemed like a joke to everybody, which is not surprising because we thought of it as a joke. And we had this name for this phenomenon that would happen, when people would visit YC and realize that it wasn't lame. We called it the ""Y Combinator Effect,"" Jessica and I. And we would see it time after time. People would come to give talks at the dinners, in the same spirit they might have given a talk to a Boy Scout troop, right? And Steve Huffman actually looked like he might actually have been a Boy Scout not that far before."
+Paul,"And then these  would walk out with their eyes wide. Like, ""Holy cow, these startups might actually work."" Time after time, people had this reaction. ""Y Combinator is not lame. Good God.""."
+Interviewer,"When you say that you figured out it would work, had your goal or your definition of work evolved? What did it mean?"
+Paul,"No, ""work"" meant the startups would not die."
+Interviewer,Ah. So startups wouldn't die?
+Paul,"Right. Because in startups, there's a bimodal distribution of outcomes. If you don't die, you become rich."
+Interviewer,Unless you become a zombie.
+Paul,"Well, okay... that happens very rarely. It's pretty rare for a company to just drift along sideways. Because what are the odds you'd make exactly the amount of money that would be a good salary for the founders, but no more, right? How are you going to hit that exactly? So it's pretty rare for that to happen."
+Interviewer,"Right. So within the first week, you looked at it and said, ""These are going to work in the way that the founders are going to get rich and the investors are going to get rich""?"
+Paul,"Well, at least the investors aren't going to have to stop doing it."
+Interviewer,Got it.
+Paul,"Our big worry, when we started YC, was we didn't say it was going to be this ongoing thing. We said it was like the ""Summer Founders Program."" Just this one summer, right? We tried to hedge our bets and not say we were going to keep doing it. Because it was pretty expensive to fund all these people, basically, out of our own money."
+Paul,We decided to do more batches probably a week or two in.
+Interviewer,Wow.
+Paul,Yeah.
+Interviewer,"Yeah, that's fast."
+Paul,It wasn't guaranteed that these startups were going to succeed. But it was a sufficiently good bet. Which is all you ever get in the startup world. All you ever get is a sufficiently good bet.
+Interviewer,Did you have any thoughts of how long it would take for those startups to actually prove you right or wrong?
+Paul,"Well, we knew from our own experience that it took years. Viaweb took three years, and that was fast."
+Interviewer,That's so fast.
+Paul,"Yeah, so we were thinking it would be years, but we would have data along the way. Companies don't seem like they're failing, failing, failing, and then suddenly after five years, bang, success."
+Interviewer,Right. And I guess Reddit sold really quickly.
+Paul,Yeah.
+Interviewer,How long was it?
+Paul,Like a year and a half or something.
+Interviewer,Yeah. That's really fast.
+Paul,I'm sure the Reddit founders would say too fast.
+Interviewer,Right.
+Paul,"I'm sure they wish they hadn't sold it. But at the time, it seemed like a big deal. Everybody was high-fiving one another at the time. Because everybody had such low expectations."
+Interviewer,So what point did you notice other investors start taking YC more seriously? Was there a turning point or did it happen gradually?
+Paul,"Well, the first batch, Sam Altman had... Sequoia invested in Sam Altman in the first batch, and we thought this was just amazing. That one of the startups we funded got a Series A from Sequoia? Holy cow. The first batch, at least one-eighth of the startups  12.5%, that's not bad. 12.5% of the first batch got Series A from Sequoia."
+Interviewer,It's amazing what small numbers and single occurrences can do on statistics.
+Paul,Yeah.
+Interviewer,"How did it change, then, from the first batch, to the second batch, to the third batch? Other than the California piece."
+Paul,"Well, the California piece was huge. That was a huge change. And boy, did we do that at the last minute. The first dinner in California, we had to explicitly warn people not to lean against the walls because the paint was still went. Kate Courteau, the architect, had been in there an hour before these people started... in fact, I think we had probably had to get the paintbrushes out of the way."
+Interviewer,The fumes were still pretty strong?
+Paul,"Yeah, probably. We had the windows open. So it was really this last minute seat of the pants thing."
+Interviewer,What drives a last minute seat of the pants decision to move across the country?
+Paul,"Well, everything we did at that point. YC was so informal. It was just me and Jessica. We would just say, ""Hey, want to put on a conference called Startup School and invite everybody? Maybe we can get a room at Harvard.""."
+Interviewer,"You know, the parallels to what happens in startups and what happens in YC are so strong. And I think people looking in from the outside have absolutely no idea how seat of the pants everything is."
+Paul,Even to this day.
+Interviewer,"At YC, certainly. But I mean in startups, in general...."
+Paul,"Oh, yeah."
+Interviewer,"You look in from the outside and everything looks so carefully plotted and organized. And just, everyone is just making decisions on the fly and hoping for the best."
+Paul,"Yep. Yeah, seriously."
+Interviewer,So long.
+Paul,"Yeah. Early-stage startups are just fast-moving chaos. That is a constant. That was true in Henry Ford's day, it was true when we started YC. It'll be true in 50 years."
+Interviewer,"Yeah. When you have a small group of people tackling a brand new problem with potentially new technology and customers they don't know, there's no way for that to be organized."
+Paul,"That's why, by the way, you want the cofounders to have a close relationship before they start the company. Because they're going to have to throw a ball without looking and assume that the other guy will already be reaching out his hands to catch it, you know?"
+Interviewer,"Yeah. Over the years, have you been surprised at the importance of the cofounding relationship? Did you know that right from the start? That that relationship between the two cofounders was as critical as it turned out to be?"
+Paul,"No. One of the things I learned from YC, actually, is how many things Viaweb did right by accident. We just basically executed perfectly without realizing it and in fact thinking that we were doing everything wrong. And everybody would give us grief for so many of our choices. But in retrospect, we did everything right by accident."
+Interviewer,Yeah.
+Interviewer,Happy accident.
+Paul,"And YC did a lot of things right by accident, too. Actually, it's sort of like, maybe if I ever write an autobiography,  ""Doing Things Right by Accident."" Because that's the story of my life."
+Interviewer,"I think the way that we sort of rely on that in YC is everything is kind of an experiment, right?"
+Paul,But YC was started in order to learn.
+Interviewer,Right.
+Paul,"It was not started to make money, right?"
+Interviewer,Right.
+Paul,"It was started in order to learn about how to be investors. That is in YC's DNA. You know what you should do? You should keep that. Don't lose track of that explicit part of the origins, because that's the secret."
+Interviewer,And maybe that's the key.
+Paul,That's why it makes so much money.
+Interviewer,"And I think that influences virtually every decision we make, and everything that we try, and everything we tell the startups as well, right?"
+Paul,Yeah.
+Interviewer,"We tell the startups, ""Don't do the thing that's going to necessarily maximize revenue. Do the thing that's going to help you figure out this market, or learn, or figure out what's next."" And you see people making these really weird, false optimizations when they're only concerned about making the next dollar."
+Paul,It's basically sprinting in the first 100 yards of a marathon.
+Interviewer,Yeah. Which usually ends up with a very tired person not finishing the marathon.
+Paul,They look great for a while.
+Interviewer,Yeah.
+Interviewer,"Yeah. I think someone recently on the show said, ""You have to sprint the whole marathon at a startup. At least for a few years."" I think that's probably true up to a point."
+Paul,It is true.

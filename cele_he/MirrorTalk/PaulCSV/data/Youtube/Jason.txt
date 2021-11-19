@@ -1,0 +1,2891 @@
+today's episode of this week in startups
+
+is brought to you by Walker corporate
+
+law a boutique law firm specializing in
+
+the representation of entrepreneurs
+
+visit them at Walker corporate law comm
+
+and by New Relic
+
+visit New Relic comm slash twist and see
+
+why thousands of developers worldwide
+
+don't deploy without it
+
+and by AWS activate it's easy to start
+
+and scale your business with Amazon Web
+
+Services check out free resources like
+
+one-on-one office hours with AWS
+
+solutions architects and much more learn
+
+more and sign up at aws.amazon.com slash
+
+activate hey everybody it's this week in
+
+startups and I am so thrilled to share
+
+with you this latest fireside chat I was
+
+able to do with Paul Graham the founder
+
+of Y Combinator
+
+Paul is literally one of the most
+
+helpful individuals to founders in the
+
+last decade he has helped over 600
+
+startups launch through Y Combinator and
+
+he's been a tireless supporter of
+
+entrepreneurs he had a really great
+
+heartfelt honest discussion for almost
+
+an hour at the launch festival and he
+
+put it out there he was super honest
+
+about stuff very blunt but also very
+
+joyful I mean the guy is a real Mensch
+
+he's a tremendous entrepreneur and a
+
+tremendous you know supportive of
+
+entrepreneurs a great writer to which I
+
+really respect if you can really
+
+crystallize your thoughts as a writer I
+
+think that's something special in the
+
+world so I have a great deal of respect
+
+for Paul and I was thrilled to have him
+
+sit down and do this fireside chat I
+
+know you're gonna love it you probably
+
+don't want to listen to this twice so go
+
+ahead and have a listen and make sure
+
+that you retweet it my handles that
+
+Jason and the show's handle is at Twi
+
+startups enjoy
+
+[Music]
+
+if like equals until we get the money
+
+spend the money and in future money is
+
+suburban fall
+
+funny how it feeds Bob
+
+we ain't gonna be a flight equals a
+
+totally gets his money spend the money
+
+in the future
+
+all right I'm really thrilled to have
+
+our next fireside chat here he's a
+
+legend and perhaps nobody has supported
+
+more entrepreneurs certainly nobody
+
+supported more entrepreneurs in the last
+
+nine years than this individual please
+
+welcome the co-founder of Y Combinator
+
+program
+
+my brother join me okay so let's get
+
+right to it there's been some changes at
+
+Y Combinator yeah that you timed
+
+perfectly before this speaking gig thank
+
+God to make sure we have to get that
+
+announcement done by the by before the
+
+launch conference thank you kidding
+
+exactly what exactly is the announcement
+
+and and how does it change why comment
+
+oh my god
+
+and your role yeah here's a picture you
+
+can throw up you know who you know who
+
+that is that Sam Altman Alexis Steve
+
+Huffman and Justin and Emmett from
+
+twitch Wow and everybody in that picture
+
+now works for Y Combinator in some way
+
+except Steve Huffman that's amazing
+
+what yours that that's the first batch
+
+that is the first summer that is
+
+probably a demo of Reddit judging by
+
+where the way people are standing that
+
+is probably a demo of an early version
+
+of Reddit and I see you kept the same
+
+shirt and you know it might it might
+
+well be actually is that nine years ago
+
+that's that's the summer of 2005 yeah in
+
+Boston yeah in Cambridge and Sam almond
+
+all they on the left with the blue shirt
+
+who did you pooped yeah which was the
+
+first really mobile location-aware
+
+product yeah kinda sad people didn't
+
+want to broadcast their locations people
+
+want to consume location but they don't
+
+want to supply it interesting and now
+
+you've made him the president of Y
+
+Combinator yeah he is gonna be the boss
+
+I'm not running the show anymore it's
+
+Sam's show now and why is that we just
+
+tired after nine years and 600 startups
+
+yeah he do have I think you said in your
+
+piece that you thought he would do a
+
+better job why well what you're thinking
+
+Y Combinator is gonna have to grow right
+
+we grow as the number of startups grows
+
+when the number of startups has been
+
+growing um
+
+and Y Combinator it's like this it
+
+started out you saw what it was like it
+
+was just that what that was in my
+
+kitchen that picture and now we've got
+
+like ten full time partners maybe 20
+
+people total and I mean no exactly six
+
+hundred and thirty two startups we
+
+funded it's turned into this
+
+and I'm no good at running giant things
+
+Sam however is gonna be good at running
+
+a giant thing and are you going to be
+
+involved every day or a couple of days
+
+or to be determine because that was
+
+something that I think a lot of people
+
+weren't clear about you said you're
+
+gonna do office hours I'm gonna do
+
+office hours with the startups but I
+
+don't do office hours every day right so
+
+probably I'll end up doing office hours
+
+a couple days a week that will probably
+
+be enough to talk to everybody in each
+
+batch and other than that I'm not doing
+
+anything I'm not reading applications
+
+I'm not doing interviews I'm not
+
+worrying about all the hideous internal
+
+crap that takes up the time of most
+
+organizations it yeah the founders in
+
+each batch they see me at office hours
+
+and as far as they're concerned that's
+
+what I do that's about a tenth of what I
+
+do I spend all the rest of my time
+
+dealing with random crap associated with
+
+any anything of any size so now I won't
+
+so it'll look the same to the founders
+
+right but it will feel very different to
+
+me yeah so when you started it and you
+
+were in your apartment I mean what was
+
+the origin I mean why did you start Y
+
+Combinator for those folks who don't
+
+know the origin story in the well I
+
+wrote something about this so if you go
+
+to Google and search for how YC started
+
+yeah I actually wrote down the story of
+
+how it started but really I mean what I
+
+say in that is the reason it started was
+
+a combination of me feeling guilty but I
+
+hadn't gotten around to doing any angel
+
+investing yet and also that Jessica was
+
+talking to this VC fund about becoming
+
+their VP of Marketing and the VCS were
+
+taking so long to make up their minds I
+
+said fuck'em we'll just start our own
+
+thing right so if that VC fund in Boston
+
+had not been so typically slow-moving Y
+
+Combinator would never have existed and
+
+how did you get those first six
+
+companies or whatever it was in the
+
+first eight eight companies
+
+how did you convince them to come on
+
+this journey with was a pretty easy
+
+thing right because when Y Combinator
+
+first started this is something a lot of
+
+you
+
+don't realize when y combinator first
+
+started it was a summer program for
+
+undergraduates that was that was the
+
+idea and so compared to a summer job
+
+where you'd have to like go work in a
+
+cubicle and like maybe get up earlier
+
+than you would like to you and work on
+
+not what you would want with people you
+
+don't want to worked with right compared
+
+to a regular summer job it was a great
+
+deal you just go to Cambridge work on
+
+whatever you want with whoever you want
+
+and we like you know pay you money and
+
+give you give you dinner once a week um
+
+so we got lots of applications you got
+
+more than we expected hundreds of
+
+applications but in that first batch
+
+were Sam Walton who started looped
+
+reddit was in that first batch Kiko
+
+which was started by the founders he
+
+went on to start justin.tv a a k-8 which
+
+all in that first batch Aaron Swartz was
+
+in that first batch to you yeah what was
+
+Aaron's project what was it called
+
+infogami it was called infogami and it
+
+was kind of tumblr I remember yeah and
+
+it merged with reddit what was that you
+
+were one company what was what was Aaron
+
+like um precocious he had sort of made
+
+at that point I think he was 18 and he
+
+had sort of made a career of being
+
+precautious up till that point right he
+
+sort of had decided he had realized like
+
+most kids don't realize this but he had
+
+realized like when he was probably about
+
+13 or so he was sort of very
+
+obstreperous he never wanted to do what
+
+he was supposed to um and he would
+
+realized that like he could just sort of
+
+start acting like an adult and maybe no
+
+one would stop him he yeah and so he
+
+like didn't go to high school and he
+
+made money by writing code he just
+
+started acting like a grown-up right
+
+yeah like and he'd realized that
+
+essentially kids don't realize this but
+
+they're all kept in place by a bunch of
+
+dotted lines that aren't real
+
+and they could just like start acting
+
+like a grown-up and no one is gonna come
+
+away with submachine guns and black ski
+
+masks and drag them away right um so he
+
+was one of the few people who realized
+
+he could cross the dotted line and when
+
+you look at his untimely death and sort
+
+of what happened with him
+
+how do you reconcile it I mean what how
+
+do you feel about it that's a personal
+
+question but Aaron Aaron and the federal
+
+government were not very evenly matched
+
+right like those guys are a bunch of
+
+humorless an Aaron was
+
+sort of an innocent
+
+um I don't know innocent it's not quite
+
+the right word to use for him because he
+
+was a pretty scheming innocent but
+
+anyone who's had small children could
+
+understand that scheming and innocent
+
+can be combined yeah and that's what he
+
+was like in some ways he was it's weird
+
+in some ways he did approaches in some
+
+ways he was like right right in some
+
+ways he was like an adult when he was 13
+
+and in some ways he was still a child
+
+when he was 25 right um but I think I
+
+think like the federal government just
+
+like the federal government they assume
+
+that everyone is al Qaeda right you know
+
+and so they just like hit you with
+
+everything they got which turns out to
+
+be a lot and then he discovered he had
+
+sort of bitten off more than he could
+
+chew
+
+yes Scott Walker is a great attorney who
+
+is also a tireless supporter of startups
+
+I've known Scott for a long time he's
+
+partnered with me to bring you this
+
+program for years now and he runs a
+
+boutique law firm that specializes only
+
+in startups all of his attorneys come
+
+from those bigger firms but they prefer
+
+to be at a boutique firm when they don't
+
+have to ratchet up the hours and try to
+
+destroy startle through these crazy
+
+legal bills no he does something
+
+different he gives flat fees for all the
+
+different things you have to do it your
+
+startup whether its incorporation
+
+employment agreements or you're selling
+
+your company he's a true man he truly
+
+focuses on the founders and he makes
+
+himself available in the same way I try
+
+to make myself available or Paul Graham
+
+makes himself available to founders he's
+
+a really great guy go ahead and give him
+
+a call for one five nine seven nine nine
+
+nine nine eight that's right call Scott
+
+ed Walker at four one five nine seven
+
+nine nine nine nine eight or visit
+
+Walker corporate law comm and he's very
+
+easy to get in touch with Scott at
+
+Walker corporate law and you just put
+
+Jason in the subject line and I
+
+guarantee you he will respond quick
+
+and he will be an incredible advocate of
+
+your startup I've gotten so many great
+
+great responses back from people I've
+
+referred to Scott over the years so he's
+
+just a tremendous tremendous supporter
+
+of startups go ahead and thank Scott ed
+
+Walker on Twitter and follow him really
+
+great guy really great team over there I
+
+can't give them any bigger endorsement
+
+they've been a great partner of the
+
+program they do a great job for startups
+
+everybody I sent over there is pleased
+
+what more do you need to know let's get
+
+back thanks Scott and let's get back to
+
+this incredible fireside chat with Paul
+
+Graham so you brought Y Combinator the
+
+next sort of seminal moment I guess was
+
+bringing Y Combinator to the valley
+
+leaving Boston yeah how did you come to
+
+that decision Addis / of the moment you
+
+know what happened I went to foo camp I
+
+went to foo camp after over the first Y
+
+Combinator batch and I thought wow it's
+
+so much better here uhm the start the
+
+streets are paved with the corpses of
+
+startups you know the weather so nice
+
+what I thought was actually someone is
+
+gonna start the Y Combinator of Silicon
+
+Valley and it better be s so we thought
+
+we had better go out here and plant the
+
+flag and also like Boston in the winter
+
+is not as nice as Silicon Valley it's
+
+not like this in Boston so we decided
+
+and Jessica was freaking right because
+
+like we had just figured out how to make
+
+this thing work and I said you know what
+
+let's move across the country and do the
+
+next batch in Silicon Valley right and
+
+she's like what and the reason we ended
+
+up in Mountain View was because our
+
+friend Trevor had a building there and
+
+the only way we could get a building on
+
+such a short with like such short notice
+
+is to take over part of his but even so
+
+that first dinner we had to tell all the
+
+founders not to touch the walls because
+
+the paint was still wet the first dinner
+
+and when people applied we said on the
+
+application form we don't know where
+
+it's gonna be you're applying for this
+
+thing and you don't know whether it's
+
+going to be in Cambridge or Silicon
+
+Valley so let us know if either of those
+
+problem for you prior to my Combinator
+
+the only incubators that really existed
+
+I know it's you don't consider an
+
+incubator really but it was a class of
+
+incubators in the first ball thank you
+
+Bader's yeah they the model or were you
+
+the this the anti model of no no no they
+
+were definitely not the model they were
+
+like the model of what not to do right
+
+so the early version that most people
+
+here probably never even knew what the
+
+incubators and the bubble were like but
+
+they were their idea was they would do
+
+all your funding ever right Y Combinator
+
+is just supposed to be first gear and
+
+then you go off and raise money on at
+
+the market at market rates from whoever
+
+these things in the 90s the idea was it
+
+would it was almost like you were a
+
+subsidiary of the incubator they would
+
+like you would operate out of their
+
+building and they wouldn't have your you
+
+wouldn't have to have an accountant
+
+because their accountant would manage
+
+your money right and they would like
+
+give you a lot of money and take like 30
+
+40 percent of the company yeah you know
+
+80 90 percent or that yeah they were
+
+gonna really control you and and that
+
+model seemed to me and yes like work out
+
+of their building right very much like
+
+an employee um that model seemed to me
+
+because I had the advantage of having
+
+been a founder and so I could ask myself
+
+would I have done that
+
+no right it's like an adverse selection
+
+filter right you do things like that how
+
+do we not get the best ah yeah yeah I
+
+was always in the beginning now the
+
+funny thing is the word incubator has
+
+changed nobody even remembers those
+
+stupid things in the news now it means Y
+
+Combinator so now on our FAC it says are
+
+you an incubator and I'm like no no
+
+we're not an incubator except now as
+
+people who use the word we are yeah
+
+meaning if the word has changed I'm the
+
+only one who remembers the old stupid
+
+yeah so we should probably give in and
+
+agree to be called an incubator so how
+
+did you define what the program was in
+
+the early days was it strictly the
+
+constraint of the summer session yes yes
+
+the reason nobody even a lot of people
+
+probably don't realize this a lot of
+
+people who even start these things
+
+probably don't realize this but the
+
+reason it's three months is because that
+
+was summer vacation right and it turned
+
+out there were a lot of things we got
+
+right three months turned out to be just
+
+about right
+
+and so we kept the three months and
+
+having dinner once a week which was not
+
+modeled on the Society of fellows at
+
+Harvard it's a group of people who were
+
+all grad students and sort of went off
+
+and did their research and then once a
+
+week but you get together for dinner
+
+that turned out to be good to you
+
+getting speakers to come having demo day
+
+at the end that was something I think we
+
+only decided to have demo day about
+
+halfway through we're getting to the
+
+enemy thought maybe we should put on
+
+some sort of event where these guys
+
+present to investors so we and demo day
+
+is now a misnomer nobody does demo as a
+
+demo day right um
+
+the presentations are two and a half
+
+minutes but you know the name was
+
+already established by that point did
+
+you all a bunch of accidents all a bunch
+
+of accidents that turned out to be good
+
+is there a moment at which you thought
+
+this is going to scale to what it has
+
+become today which is in just nine or
+
+eight years is kind of like an
+
+institution nine short years Jesus they
+
+don't feel well I mean yeah that's why
+
+you gave the president's lot of yeah I
+
+think I'm supposing it's been very long
+
+for you but nine years is not a long
+
+time you know to build an institution uh
+
+was there a point where I thought I
+
+could get this big yes yes cuz I
+
+remember Steven Levy I don't know if I
+
+don't know if this was the first batch
+
+of the third so I'm not sure but I think
+
+about about halfway through the first
+
+batch I'm a very optimistic person right
+
+and so you show me an Altair basic I see
+
+Microsoft right right um
+
+so pretty early on during YC because I
+
+was ridiculously optimistic I imagined
+
+that it would become sort of what it in
+
+fact I imagined probably would become
+
+even bigger than it has become today but
+
+that doesn't mean I was correct she's
+
+wildly optimistic by Nature
+
+it wasn't like in the five like planned
+
+to make it riot it's more like I had
+
+these crazy imagined futures that turned
+
+out to be correct but they shouldn't
+
+have been where did you come up with the
+
+deal as it were you know six percent for
+
+15 K or 21 K whatever it is it was based
+
+on what a lot of what we did was based
+
+on the
+
+funding we got for our startup via web
+
+so we had this guy who was the husband
+
+of my painting teacher at Harvard and he
+
+was a lawyer he gave us $10,000 and got
+
+us incorporated and like set up as a
+
+company and taught us a little bit about
+
+business he didn't know much about
+
+startup specifically but he sort of knew
+
+about business like I knew nothing about
+
+business um like nothing and he was on
+
+our board and sort of saved us from
+
+stepping in a bunch of dog poops along
+
+the way a bunch of land mines actually
+
+be more accurate um and so I remembered
+
+thinking later
+
+boy what a good deal for Julian he got
+
+10% of this company for $10,000 and then
+
+I realized wait a minute without him we
+
+would never have made it so it was a
+
+good deal for us too and when you like I
+
+thought wow that's a good deal for both
+
+so 10% seemed a bit much yeah so we
+
+didn't ask for 10% I think originally
+
+used to ask for 6% and then along along
+
+the way it became 7 and the reason we
+
+invested the amount of money we did is
+
+cuz I asked Robert he was a professor at
+
+MIT
+
+how much MIT grad students got his
+
+stipends for the summer and it was
+
+$2,000 a month so that's what we did
+
+$6,000 per founder for the summer
+
+because we knew you could live on that
+
+in Cambridge yeah so all of these things
+
+that people think you put a people
+
+wonder where these sort of devices come
+
+from they come from that sort of summer
+
+yeah of summer school basically yeah
+
+like a summer job a summer program you
+
+you've seen 600 of these startups now
+
+some pattern recognition happens yeah
+
+and about the smallest things it's weird
+
+when you have 632 data points the
+
+patterns you can see or astonishing yeah
+
+so what are some of them that are some
+
+of them my god yeah I think about
+
+thousands of things yeah but what are
+
+the ones that matter the ones that
+
+matter
+
+okay well founders have to get along
+
+okay if the founders hate each other
+
+you're in big trouble right how often
+
+does that happen once or twice a very
+
+often um
+
+I mean like do you guys realize that
+
+Apple had three founders not two right
+
+yeah there's a lot of companies that
+
+have more founders than you realize so
+
+there's founder conflicts or like you
+
+don't know how good you are how good
+
+friends you are with somebody until you
+
+try to start a start-up with them so
+
+you've got to have a good relationship
+
+between the founders that's why it's
+
+that's why it works so badly when you
+
+have a start-up that's started by some
+
+dude in the business school who has this
+
+idea for some startup and then he goes
+
+and find some like 20 year old meek
+
+undergraduate computer science major to
+
+realize his vision right and that is the
+
+founding team and you know and these
+
+guys come in for the interviews and the
+
+guy says Arthur you know I was
+
+quarterback with my college team you
+
+know this is my co-founder he's like and
+
+you know we asked him a question and he
+
+looks nervously at the business dude to
+
+see if he's allowed to answer right are
+
+you gonna whip me afterwards if I say
+
+stuff right that's like that kind of
+
+like if you go into a Y Combinator
+
+interview and one of you looks in terror
+
+at the other one before answering the
+
+questions that's one of our secret tells
+
+right or say if you roll your eyes at us
+
+while your co-founder is speaking right
+
+actually happened works if you stand up
+
+your co-founder like if you don't show
+
+up for the interview and you asked and
+
+we ask the guy where's your co-founder
+
+Eisel I don't know he was supposed to be
+
+here right these are all happens
+
+literally yes it all happened
+
+yeah um what do you do in an instance
+
+where you know you have two people who
+
+are brilliant you know to use the Apple
+
+you know metaphor I mean woz and Jobs
+
+obviously brilliant in different ways
+
+and they just can't get along one has to
+
+win in order for the startup to survive
+
+one has to bow out how do you even
+
+broach that conversation you have to
+
+have a mechanism for doing anything one
+
+of them has to leave
+
+well--we're because not necessarily
+
+because in the best startups what
+
+happens is each founder is king of their
+
+own domain so in Apple like the wat was
+
+was like he was not a super forceful
+
+person but he did not let Steve Jobs
+
+change anything about the Apple one
+
+computer like there was one thing he
+
+wanted to change I think like fewer
+
+expansion slots and woz said no hey
+
+that's nothing like Steve knew Steve
+
+Jobs knew where the limits were so
+
+Steve's like but wise didn't give a damn
+
+about the business stuff so Steve Jobs
+
+was off selling the thing and was built
+
+it and they were each masters of their
+
+own domain that's that that's the model
+
+that works that's how you have multiple
+
+people who are each extremely effective
+
+and not step on one another's toes you
+
+do as a rule multiple founders is that
+
+true or do you you mean we prefer to
+
+fund startups with more than one founder
+
+correct
+
+oh yes yes have you ever done single
+
+founder startups we have the result in
+
+them we have funded some single founder
+
+startups the most successful well okay
+
+so there's a bunch of weird cases like
+
+drew Houston of Dropbox was a single
+
+founder when he had filled out the
+
+application form but we told him it
+
+would be really good if you got a
+
+co-founder and so between getting
+
+invited to interviews and the interview
+
+just like two weeks he got a rash right
+
+um so that worked out really well and
+
+then the most successful startup that is
+
+run by a single founder now is pebble
+
+smiley yeah it sure but though that was
+
+two people when they came to YC and one
+
+of them left ah right so but like single
+
+founders who've been single founders all
+
+the way through God I mean they always
+
+get other people and I never know if
+
+their co-founders are just employees
+
+there's a lot of equity yeah you know so
+
+I don't recommend it though got a
+
+co-founder when people walk up to me and
+
+say legs start blabbing to me about
+
+their idea I'm like no no who's your
+
+co-founder that's what I care about
+
+Dropbox is the most successful on a
+
+valuation level
+
+of any why cause I have this week as of
+
+this week ten billion dollars change
+
+yeah so that's a super unicorn and
+
+you've had a couple of others Airbnb I
+
+guess would be considered a unicorn in
+
+the new parlance I would say Airbnb is
+
+value is comparable to drop boxes
+
+valuation and value are not the same
+
+thing right like if a company hasn't
+
+raised money for a year or two and
+
+they're growing like 5x a year right
+
+they could two years of not raising
+
+money at 5x a year their value is off by
+
+25 X X right right um so you got to
+
+watch out for going for treating
+
+evaluation as value I would say Dropbox
+
+and Airbnb or our peers than their
+
+stripe and stripe is also yeah yeah did
+
+you know in the case of those three that
+
+they were very very very very special
+
+what did you just think they were
+
+special enough to accept they were all
+
+there the they were all no brainers at
+
+the interview they were all cases where
+
+in the interview we didn't even have to
+
+think about it right um we decide
+
+whether to fund people or not
+
+immediately after the interview we have
+
+to because we do 20 interviews a day
+
+like we won't even remember the first
+
+people in the morning by the end of the
+
+day well so we have to decide while our
+
+memory is fresh and the good ones that
+
+we talked to people for 10 minutes and
+
+the good ones were like looking we have
+
+you know after all these years we can
+
+just look at each other and sort of send
+
+signals by our eyes right this person is
+
+in right right we're looking at each
+
+other like these people are in or or
+
+sometimes we're looking at each other
+
+like oh my god
+
+how long can ten minutes last right
+
+right um but if there's if there's
+
+borderline cases and then there's cases
+
+where definitely yes and definitely no
+
+halfway through the interview and
+
+Dropbox
+
+Airbnb and stripe we're all like we
+
+didn't even need the full ten minutes I
+
+remember that I mean I didn't predict
+
+that they would end up being worth
+
+billions of dollars you know why because
+
+you cannot predict that that is
+
+unpredictable it's not like there was
+
+some data there that I didn't see it's
+
+actually indeterminate you know and I
+
+back when drew Houston applied drew
+
+Houston zapped location for Y Combinator
+
+is on
+
+line and back when he applied we used to
+
+still ask this stupid question that we
+
+no longer ask which is if someone wanted
+
+to buy you right after why see how much
+
+would you take right
+
+and if Drew's answer was a lot less than
+
+10 billion dollars I don't remember what
+
+it was it was probably like a million or
+
+two or something like that maybe even
+
+less it was this turned out to be a
+
+stupid question that obviously predicted
+
+nothing as you can see yeah so just as
+
+well we took it out but a lot of these
+
+companies that end up being worth
+
+billion billions of dollars they only do
+
+that because the M&A people that
+
+potential acquirers are stupid enough to
+
+not pick them off early right hey speed
+
+we all need our applications to be fast
+
+and reliable I'm busy I'm the CEO of the
+
+company I want to know what's going on
+
+with the servers because I know through
+
+watching Marisa and Larry Page at Google
+
+just absolutely crush it by having the
+
+fastest services in the world and the
+
+most stable services they build a lot of
+
+trust with their audience well New Relic
+
+is the tool that you need a CEO or CTO
+
+to monitor the performance of your
+
+applications and let me tell you a
+
+little story we were launching a little
+
+startup named inside.com a month ago and
+
+we had a tremendous technical difficulty
+
+something was going wrong on our servers
+
+so I emailed like at 9 o'clock at night
+
+hey listen we have a lot of users coming
+
+in tens of thousands of people are
+
+rushing the front door and our servers
+
+are questioned we can't figure out why
+
+the database servers going off the
+
+charts my boys and girls over there boom
+
+they just gave me all the all the
+
+licenses they need we put it on all our
+
+servers and all of a sudden it was very
+
+clear we had some kind of problem with
+
+our database and it turned out when
+
+people were scrolling up through inside
+
+com it was firing off the voting
+
+mechanism which was then flooding
+
+flooding our database and pinning the
+
+server and making this service unusable
+
+for everybody else and it was like God
+
+came down from heaven and pointed his
+
+finger at the problem that would have
+
+taken us a week to figure out thanks to
+
+New Relic it's literally as good as god
+
+I mean how much more do I have to sell
+
+these people
+
+it's a powerful application performance
+
+tool Nike Warby Parker Airbnb Comcast
+
+and AT&T used it we use it here and I
+
+get this beautiful email every week that
+
+shows me how fast there
+
+things going so I can have like a
+
+top-level perspective on I have to get
+
+in the weeds every day and we love it go
+
+to New Relic calm such twists go to New
+
+Relic calm / twist New Relic calm / twis
+
+tea and you'll get a free this week in
+
+startups t-shirt it's a great product
+
+it's super fast it's super easy no
+
+credit card required you're gonna love
+
+it and I want to just take a moment to
+
+personally thank at New Relic go ahead
+
+and thank them on your Twitter handle
+
+for supporting independent media like
+
+this week in startups okay let's get
+
+back to the rest of this amazing
+
+interview with mr. Paul Graham of Y
+
+Combinator let's talk about this sort of
+
+period of supreme growth what was the
+
+largest class size you guys ever had in
+
+when you hit that 80 the whole industry
+
+was like whoa there was this a year
+
+where I think we iced we have 68 in the
+
+current batch right not that much
+
+different it's not that much the demo
+
+day is still gonna be pretty tiring but
+
+there was this year where I think the
+
+industry because of the massive success
+
+Y Combinator was sort of like this
+
+promising thing over here but then
+
+something happened in the same year you
+
+hit 80 and then oh the $250,000 like
+
+uncapped node or something 200 150 150
+
+50 but it hit at the same time did it
+
+and everybody got that note it was like
+
+the same year or something yeah that
+
+year was that the year it got too big it
+
+might have been I don't remember I don't
+
+remember when when all these things
+
+happened because all these people have
+
+internet connections everyone in the
+
+audience got the answer and I don't what
+
+did you feel absolutely perspective
+
+skidded feel like it was getting too big
+
+because I thought when I saw it like oh
+
+my god 2012 was the batch that we said
+
+was too big right huh um and I don't
+
+know what the rest of the world was
+
+thinking I don't care what they think
+
+but it felt big to us because as we
+
+later realized we embodied an N squared
+
+algorithm up till the summer 2012 YC did
+
+not have any kind of sharding every
+
+partner had to know what every startup
+
+was doing and when a partner when the
+
+startups this was embodied in the office
+
+our software when a start-up requested
+
+office hours they did not specify the
+
+partner was not
+
+monistic when someone posted office
+
+hours they was just FIFO right now just
+
+get whoever was sitting in the queue the
+
+longest and we I can't believe we were
+
+all computer science people and we made
+
+this mistake so obviously and the
+
+squared
+
+duh duh I mean when we realized when you
+
+looked him you thought like why did this
+
+batch suck so bad why did we hate our
+
+life right like there there were
+
+startups like halfway through the batch
+
+I still didn't know what they were doing
+
+um
+
+and we were asking what went wrong it
+
+was so obvious a little bit too much to
+
+do yeah well no no because it was N
+
+squared specifically like it would be no
+
+problem having that many partners deal
+
+with that many startups right so long as
+
+they were sharted so then we redesigned
+
+why I seem to be sharted and it has been
+
+ever since and it works just fine like
+
+68 no problem right yeah each partner
+
+has no no it's not each partner we have
+
+three silos three silos each one
+
+overseen by a group of partners so
+
+basically it's like three little Y
+
+Combinator's and we know little Y
+
+Combinator works right sobs problem no
+
+what about the everybody gets this note
+
+because that was a first in the industry
+
+as well yeah did that I remember you
+
+writing I think that it cost a little
+
+bit of a problem of fighting over the
+
+money and got the money and whatever
+
+with the bad startups the bad startups
+
+it used to be the bad startups they
+
+would just like drift away right right
+
+didn't work it was like a divorce where
+
+weren't where there was like a large
+
+fortune at stake Hey ah $150,000 is a
+
+lot of money let us remember right like
+
+$150,000 for most people it's like a
+
+house right um in a lot of parts in this
+
+country so so like they would fight over
+
+the money like one guy would leave and
+
+he would say and I'm - I want my $75,000
+
+is $75,000 it was the company's but then
+
+he wouldn't leave you know got it oh
+
+what a disaster and so the notes still
+
+exist but in a smaller form now 80 80 80
+
+you know I thought of getting rid of it
+
+I thought of getting rid of it entirely
+
+um because it was like a big a big pain
+
+to organize and I thought of getting rid
+
+of it and so I pulled the startups and
+
+said did this money help you
+
+like 80% of them said yes it had helped
+
+them significantly like oh all right
+
+we'll keep it yeah so we kept it we made
+
+it smaller and when you look at the
+
+those meetings what else when you're in
+
+that decision meeting do you think
+
+actually comes out of it that you know
+
+the signaling that is correct and then
+
+one of this what's the signaling what
+
+name is out of it and the signaling
+
+that's correct yeah we wouldn't you're
+
+signaling you mean how to work that we
+
+have fun yeah how do you know how to
+
+fund and then are there signals that
+
+you've gotten wrong consistently that
+
+you've switched like reverse course on
+
+you know saying like you thought this
+
+type of person is unfunded well that the
+
+crazy jock from the Brit Business School
+
+but they you know you know what actually
+
+there are some cases where that crazy
+
+jog actually could do it well it's true
+
+we have a bunch of MBAs now there Quincy
+
+will our MBAs in yeah well that's what
+
+you get if you stay at business school
+
+long enough yeah when an MBA comes in on
+
+the application I mean you know so many
+
+the products that we see today or
+
+companies are driven by product people
+
+when you see MBA does that make
+
+everybody go uh not automatically not
+
+automatically cuz rescale for example
+
+the founder of the CEO of rescale has an
+
+MBA but he also has a huge amount of
+
+domain expertise in the aircraft
+
+industry right he's not just some sort
+
+of finance dude right um so no we don't
+
+automatically discriminate against MBAs
+
+specifically that like the MBA has an
+
+idea and then he goes and finds a hacker
+
+that he never knew before
+
+he's like eight years younger you know
+
+and like lives in a box and his in his
+
+house um so let's see are there things
+
+either are you asking are there things
+
+we used to well you used to look at and
+
+say you know I used to not want to
+
+accept these people but now we accept
+
+them like hackers you know uh you've
+
+been since you're a developer yourself
+
+very developer centric now
+
+businesspeople maybe now you let
+
+nonprofits in I mean what what signals
+
+have changed for you over the years very
+
+I'll tell you the one probably the one
+
+thing
+
+is people who are very smart but that's
+
+it right people who are really smart but
+
+ineffectual we used to think we used to
+
+we used to have more faith in brains
+
+yeah it turns out it turns out like you
+
+can be surprisingly stupid if you're
+
+sufficiently determined right and
+
+actually you can you can anyone can tell
+
+this empirically I mean I'm sitting
+
+right here Paul they know they know but
+
+you're talking about it like there are
+
+some parts of America where there's a
+
+lot of rich people and they're not very
+
+smart right like there are some some
+
+parts of Manhattan and Florida and LA
+
+right like like you don't have to be
+
+super smart if you're if you're really
+
+fearsomely effective at its nature what
+
+is the most important thing for start-up
+
+just to focus on now you've looked at
+
+600 of them you've seen them fail you've
+
+seen you know them there's a meta answer
+
+to that I mean the most important thing
+
+for startups to do is to focus ah right
+
+because there's so many things you could
+
+be doing one of them is the most
+
+important if you should be doing that
+
+and not any of the others right so you
+
+should not be grabbing coffee with
+
+investors right when you want to raise
+
+money you shift into fundraising mode
+
+and you go and raise money you do not
+
+like promiscuously meet with investors
+
+in the middle of the day when you should
+
+be working simply because they like sent
+
+you an email saying hey let's grab
+
+coffee right um and there's there's like
+
+a thousand things you could be doing and
+
+only one of them is the most important
+
+you do the most important thing it's
+
+like optimizing software there is
+
+something that is currently the
+
+bottleneck to making the software faster
+
+you work on that right and that's a lot
+
+of what we do it why see we like figure
+
+out we just like sit down with people
+
+and just like look at all the things
+
+they could be doing and ask them which
+
+one is the most important they know the
+
+answer in their head they just don't ask
+
+themselves this question and then I'm
+
+like okay so why aren't you doing that
+
+you're like oh gosh I don't know I guess
+
+we could do and
+
+being a Y Combinator company now means
+
+you're gonna drowned an opportunity to a
+
+certain extent
+
+you mean funding funding attention I
+
+mean it won't automatically get you
+
+customers I mean it'll automatically get
+
+you customers if you're making something
+
+for startups sure and so it's that's you
+
+know a lot of the companies we fund are
+
+yeah and we're getting we're starting to
+
+have this sort of little GDP 8na where
+
+companies are building stuff for other
+
+companies but we've funded but if it's
+
+some consumer thing it's not
+
+automatically gonna get you users now
+
+all right a couple of controversial
+
+statements that have I think got you in
+
+a little bit of hot water and I think
+
+actually quite unfairly to be totally
+
+honest but you said something about
+
+people's accents you know if they can't
+
+present properly if people can't
+
+understand them if people can't
+
+understand an entrepreneur that is a
+
+difficult thing for the entrepreneur to
+
+raise money right but you've got kind of
+
+barbecued a little bit by that what
+
+people thought you were a xenophobe yeah
+
+confirm you've had many people in the
+
+program from many different countries
+
+from any firm I am an immigrant myself
+
+yes so you're not a Xena Floyd in
+
+America so when you get barbecue like
+
+that is the best yeah I mean I get the
+
+sense that that was particularly unfair
+
+how did you feel when you were sort of
+
+getting attacked relentlessly do you
+
+think that just comes with the territory
+
+of building something as successful as Y
+
+Combinator no actually I think what's
+
+going on is there's there's a new
+
+phenomenon which is and on Twitter
+
+especially actually what I was watching
+
+is it was sort of like being bitten by
+
+some fascinating it was like being an
+
+entomologist and being bitten by some
+
+fascinatingly horrible bug like while
+
+the bugs biting you and you're thinking
+
+ouch that hurts you're also thinking
+
+whoa what an unusual bug that's
+
+interesting right um and so I think
+
+what's going on is basically the
+
+internet if you heard built fires you
+
+know like if you build a bunch of if you
+
+put a bunch of logs and a sort of teepee
+
+like shape it'll just like burn like
+
+crazy and if you just like sit them next
+
+to each other won't burn at all right
+
+and so the Internet is now out of shape
+
+where fire spreads really fast right
+
+right because the
+
+things like Twitter and so some meme can
+
+get out there and if it's there's sort
+
+of you know the idea of linkbait yeah
+
+well there's sort of like indignation
+
+bait right right
+
+um and so and something can get out
+
+there and everybody you know like that's
+
+this is this must stop
+
+right right and they're starring and
+
+retweeting it without ever being the
+
+original sources that's what I think is
+
+happening that's what I think that was
+
+that was what it was I think like there
+
+was there's this this landmine exists
+
+yeah right so be careful what you say
+
+and it just happened like I stepped on
+
+it right right and then gender is the
+
+other one your co-founder is a female
+
+yes and other and wife not that's a
+
+founder and wife yeah and you've had a
+
+decent number of female startups and you
+
+act 24 percent in this batch in this
+
+batch you actively work on this issue
+
+but they also grabbed a quote from you
+
+in isolation and said you thought that
+
+wasn't just isolation they took a word
+
+out of that one yeah and you you guys
+
+are important word well how do you feel
+
+about females in technology and sort of
+
+promoting diversity and those kind of
+
+issues in your own words well um it's
+
+half the population right so if if more
+
+women started startups that could
+
+produce an awful lot more startups right
+
+since we want to scale in fun more
+
+startups you know like even if people
+
+like honestly I would have to I would
+
+have to like want to lose money right
+
+against women starting startups so of
+
+course I want more women to start
+
+startups I want everybody to start
+
+startups and women are half of everybody
+
+right and you're accepting many more and
+
+you're doing a female founders
+
+conference yeah you're actually taking a
+
+lot of steps to try to be extremely open
+
+and helpful maybe even by the way the
+
+female founders conference was something
+
+we were already working on before that
+
+whole controversy erupted right yeah we
+
+can't make too big of a deal of it
+
+because it's March first it's like in a
+
+week so where do you see ten years from
+
+now
+
+Y Combinator I mean if you went from six
+
+people in your kitchen to 650 startups
+
+in nine years like
+
+yeah so you guys sit around yeah do you
+
+get 632 to be exact you guys sit around
+
+and think the next 10 years or do you
+
+think let's get through the next class
+
+well what you want to do is you want to
+
+simultaneously you want to mostly focus
+
+on what to do now but you want to know
+
+what general direction you're heading in
+
+it's you sort of inch forward you know
+
+you're inching south rather than north
+
+right um I'm certainly hoping Y
+
+Combinator will grow a lot but really
+
+you shouldn't be asking me what's gonna
+
+happen in the future you should be
+
+asking Sam well yeah he'll be here next
+
+year to talk about it I remember I don't
+
+know what I don't know what he's
+
+planning except in the most general
+
+terms I mean the most general terms it's
+
+gonna grow and does that mean multi-city
+
+maybe or I'll be eventually yeah
+
+something you haven't done and not in
+
+the short term yeah maybe eventually and
+
+what do you think of the change in the
+
+funding environment I mean we have so
+
+many more angel investors right now the
+
+market is so bullish on startups you had
+
+people come in and and give these notes
+
+to everybody yeah it's a pretty robust
+
+market does it worry you you think it's
+
+a great thing what do you think about
+
+funding it's a great thing and I'm
+
+worried it's gonna stop yeah hey um
+
+price is what I tell people is like
+
+prices are high right valuations are
+
+high that's not the same thing as a
+
+bubble a bubble is a very specific
+
+version of prices are high it's prices
+
+are high because people feel like they
+
+can sell this overpriced thing to a
+
+greater fool later right right so you
+
+can't really get a bubble without a
+
+bubble in the public markets and it
+
+doesn't seem there it's one of those yet
+
+so like it's really just like I mean
+
+prices go up and down sort of like a
+
+sine wave and then like weird uh prices
+
+seem high right and so that means
+
+they're probably gonna go down somewhat
+
+in the future and that's what I tell
+
+startups and it has gone down a little
+
+bit I think it maybe was two years ago
+
+it seemed like I saw a lot of Y
+
+Combinator startups in the uncapped 15
+
+million you know kind of you know range
+
+and stuff like that
+
+gmass patch I feel like the valuations
+
+were the highest ever well I don't know
+
+for sure what um do you advise him in
+
+what were the range what would you
+
+advise them on what they should do
+
+valuation wise and yes
+
+not for I mean not as a knot in a
+
+blanket statement because I depends on
+
+the start up some right we're like Oh
+
+thirty million will be no problem for
+
+you guys another like if anybody wants
+
+to give you money you should take it
+
+right so there's what is the range now
+
+of these you know the range of
+
+valuations the people have raised money
+
+at well currently you said it was very
+
+high in the most recent batch who was in
+
+the most recent - I mean it's nineteen
+
+batches they all blur together certainly
+
+like there's probably somebody in the
+
+last batch she was at least 50/50 coming
+
+in right after YC yeah I think so I mean
+
+they're certainly happy that company
+
+that was had been worked on for a year
+
+then join YC because you do see that
+
+sometimes - somebody comes into YC and
+
+they've been working on it for a little
+
+while some of them yes some of them no
+
+but that's not correlated with that's
+
+like how far along people are when they
+
+come to YC it is not very well
+
+correlated with how they end up doing
+
+even immediately after YC like Airbnb
+
+Airbnb had been launched for a year
+
+before they came to YC but they would
+
+have been launched in like we're sort of
+
+flatlined right right um so there's not
+
+a pattern there there's no pattern there
+
+let's talk a little bit about growth as
+
+we wrap up here startups want to grow it
+
+seems like one of the things Y
+
+Combinator really teaches people is how
+
+to grow stuff what what do you think the
+
+secrets of growing startups are well in
+
+terms of techniques you've got to start
+
+with you got to start with a small
+
+intense fire so you have to if you're
+
+suppose you're the Apple one right you
+
+have to find I mean I think they made
+
+something like 500 of those things right
+
+yeah so all I had to do is like find 500
+
+people to buy these computers and they
+
+launched Apple Apple yeah so you gotta
+
+find a small number of people it's
+
+necessarily gonna be a small number of
+
+people you can't find you could there's
+
+it's impossible to make something that a
+
+large number of people want a lot so
+
+you've got to find people who want what
+
+you're making a lot
+
+and that's necessarily gonna be a small
+
+number and that's okay that's how these
+
+giant things get started right you don't
+
+have to do any better than Apple and
+
+Facebook just goes 500 true fans found
+
+that your fan whatever it is I mean if
+
+it's a mobile app it might not be a 500
+
+it might be five thousand right but
+
+you've gotta you gotta know who those
+
+first users are and how you're gonna get
+
+them and then you just sit down and you
+
+just have a party with those first few
+
+users and you just focus entirely on
+
+them and you make them super super happy
+
+right like there's a start-up in the
+
+current batch that it's making a new
+
+mobile email client right and their beta
+
+group has one user Sam Altman their goal
+
+is to just make Sam Altman happy and
+
+when they like send Sam Altman is like
+
+uses email a lot on the go he's
+
+sufficiently demanding that if they mate
+
+and he knows what all the other options
+
+are - yeah
+
+so he's sufficiently demanding that if
+
+they make him happy they've they've sort
+
+of used him it's like the positive for a
+
+mold right they can now look they like
+
+could make lots of people happy um and
+
+that's sufficient right so all one of
+
+the things we tell startups in these
+
+extreme cases where you could just like
+
+make one user happy is act like you're a
+
+consultant act like Sam has hired you to
+
+make an email app just for him all you
+
+have to do is mix am happy it can say
+
+Sam Altman at the top of the screen
+
+that's okay yeah hey just so long as you
+
+make Sam feel that he would be bummed if
+
+you stopped working on this that's the
+
+test right not like your friend say oh
+
+yeah it's good I'll use it right like
+
+they have to be bummed if you stop
+
+working on it so what startups in the in
+
+these 19 sessions have gone away that
+
+you most miss etherpad etherpad I
+
+remember etherpad
+
+yeah if your dad still exists Google
+
+Docs no no no it's like an open source
+
+open source project but it was like a
+
+Google Docs kind of I think we have
+
+funded etherpad four times I like that
+
+idea so much right and in smash had yep
+
+etherpad sty pee well was there a fourth
+
+one you might add
+
+at least I mean at least collaborative
+
+writing real time real time real time
+
+like you type and other people are
+
+typing in the same document um so boy
+
+whoever the fourth one is if I they're
+
+gonna be mad at me if I don't remember
+
+the name but so it goes um that's one of
+
+those ideas I just that's gonna happen
+
+right it's Google Wave who away was a
+
+good idea well they just like they just
+
+launched it like new coke or something
+
+you know if they had launched it like a
+
+startup it's like here look there's this
+
+little thing that doesn't matter the
+
+problem they said is like this is gonna
+
+change everything
+
+right they made a fake video yeah right
+
+what does it do I don't know everything
+
+um like if it does everything it does
+
+nothing
+
+um and they should have just like
+
+launched it is this apparently
+
+inconsequential thing right and then
+
+everyone have said hey this is much more
+
+than a simultaneous typing thing yeah
+
+that's could replace the web like yeah
+
+yeah what didn't you accept that you
+
+should have accepted well um
+
+you must have the anti portfolio the
+
+area there is what we say we're not
+
+gonna talk about we say we're gonna keep
+
+it confidential at people apply um well
+
+if they're that successful they're gonna
+
+be pretty flattered that you would well
+
+I don't know I haven't talked about him
+
+so far but there are pretty there's I'll
+
+tell you an easy algorithm for figuring
+
+them out right we there are a bunch of
+
+other things like Y Combinator ah and
+
+when people get rejected by us they
+
+often get accepted by one of the others
+
+alright so a Center in or something like
+
+that could have gone to one grid or
+
+something like that yes Bernie you know
+
+I've just picked techstars as biggest
+
+win I think yeah we changed our
+
+application process after that to have
+
+so a particular application that might
+
+have been recently mentioned was only
+
+read by one partner Robert Morris who
+
+was really harsh and he like gave them
+
+such a bad grade that they sunk to the
+
+bottom of the queue no one else ever saw
+
+them and his comment was just spam
+
+company oh yeah
+
+so now we changed our procedure after
+
+that to double no one has ever anyone
+
+that Robert gives a bad grade to you I
+
+would go and look at as well hey just to
+
+me
+
+you guys have so many people reading
+
+applications that could never happen you
+
+have like ten people reading
+
+applications what do you think of Google
+
+under Larry Page Google under Larry Page
+
+I find it indispensable yeah what do you
+
+think if I want to look for things on
+
+the Internet
+
+it's Google all the way well more like
+
+Google corporate I mean so not Google
+
+search but Google buying six robotic
+
+companies Google self-driving car DX
+
+yeah I think they're trying to be Bell
+
+Labs or you know belt whatever Bell Labs
+
+is now um and that's great I think
+
+that's great but they're not just
+
+sitting there like you know trying to
+
+turn up the screws on advertisers or
+
+something like that
+
+Apple under Tim Cook I have an iPhone um
+
+I'm really bummed they funded that
+
+patent troll Rock yeah yeah yeah like
+
+Isis bummer that when I heard that news
+
+I actually for the first time ever like
+
+thought like maybe I don't want to have
+
+an Apple computer anymore you know I
+
+feel like that was probably wished upon
+
+them by Steve Jobs I don't know the
+
+origins of that but I feel like that was
+
+way that was probably something that
+
+like Steve decided and they were kind of
+
+stuck with because they've spent so
+
+money on so much on it but like and that
+
+and then I now feel ambivalent about
+
+Apple in a way I never did before I
+
+think they crossed the line with that
+
+and they're being really quiet about it
+
+no one's talking about Rockstar so let's
+
+talk about Rockstar everybody and what a
+
+sucky thing to do
+
+they just waddle defunded a patent troll
+
+yeah like have you ever been to the
+
+website of Rockstar
+
+like the kid the copy on that page um
+
+it's a work of like art you
+
+know like like the guy who ever wrote
+
+that stuff was like like they told him
+
+just like you know channel some evil
+
+dictator propaganda it's like a Bond
+
+villain right yeah and the guy who it's
+
+probably some nice guy who wrote that
+
+and he was probably like I can't believe
+
+this this is like this is like like some
+
+guy stroking a cat on his lap you know
+
+yeah
+
+and Facebook you know had a billion
+
+people I mean how do you look how do you
+
+look at your relational men they've got
+
+a lot of employees not I mean in a way
+
+basis they are creating the content they
+
+are employees
+
+it's a carriage um Facebook I mean
+
+startups depend a lot on their founders
+
+and Mark Zuckerberg has infinite energy
+
+and Drive and cleverness so I wouldn't
+
+worry about Facebook yeah and and how
+
+about like everybody else they read the
+
+news about whatsapp and they thought
+
+that's ridiculous to pay 19 bill it's
+
+ridiculous that 19 the white SAP is
+
+worth 19 billion dollars a month I
+
+thought I read it like as if someone had
+
+measured the atomic weight of whatsapp
+
+and it turned out to be higher than I
+
+thought
+
+right really what's half is worth 19
+
+billion dollars that's interesting
+
+because who knows better these random
+
+people chattering on forums I won't
+
+mention any names right were like
+
+Zuckerberg himself who like knows all
+
+the numbers and is actually betting this
+
+money right people like it must be worth
+
+19 billion dollars if if Zuckerberg was
+
+willing to pay 19 billion dollars for it
+
+because he is no idiot right yeah so
+
+congratulations on the newfound freedom
+
+and a couple of days off a week it's
+
+gonna be antastic for you it's not the
+
+time it's the attention it's that I
+
+won't have to think about Y Combinator
+
+all the time right in order to build
+
+something like this you have to give up
+
+like a lot of cycles there's this funny
+
+like the thing the quote of mine that
+
+people quote the most is that one about
+
+how you can't do a good job that's
+
+something without thinking about it in
+
+the shower in the morning I'm like every
+
+time I see this on Twitter I'm like ah
+
+every time every doll I think about in
+
+the shower in the morning is y
+
+combinator
+
+right it's taken over my brain now I'm
+
+gonna get my brain back I'll take two
+
+showers every morning I'll be so psyched
+
+oh you uh you think you'll ever do your
+
+own startup again no no never
+
+why I always say you are encouraging
+
+people and telling them I have to start
+
+side on in a mine right hey it's just
+
+not worth money start a startup but it's
+
+not worthy you might be starting a
+
+startup is the most efficient way to do
+
+it but starting a start-up hurts like I
+
+mean you would expect it to there's a
+
+conservation law there
+
+like you shouldn't expect starting a
+
+startup to be the great way to get money
+
+and to like feel really easy and good
+
+like like that would be great wouldn't
+
+it yeah it feels great and it's the
+
+easiest way to make a large amount of
+
+money yeah the quickest way yeah yeah
+
+felicitous yes and we we don't try and
+
+like we don't tell founders any other
+
+it's painful right if it's not a certain
+
+amount of painful you're probably not
+
+trying hard enough
+
+well that's as good a notice any to stop
+
+on ladies and gentlemen Paul Graham that
+
+was awesome well done well done

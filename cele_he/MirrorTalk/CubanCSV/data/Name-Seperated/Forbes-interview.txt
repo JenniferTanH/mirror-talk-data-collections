@@ -1,0 +1,284 @@
+Steve Forbes: Mark, good to have you with us.
+
+Mark Cuban: Thanks for having me, Steve.
+
+Forbes: You're in the media business, so let's ask a Shakespearean question. Whither media? One question, but you've been involved in so many aspects of it.
+
+Cuban: It's a great question. Everywhere. I mean, you obviously have lived and breathed the media your entire life. And, you know, as we've become more and more digital, we've evolved to expand from just beyond to Internet to mobile devices. And, you know, it's interesting, because we're have a Renaissance in computing power. Used to be, we got excited about what would happen on a desktop and that created video and other opportunities. We got excited about faster Internet. Now, with mobile devices of all sizes, from phones to iPads and other tablet type devices coming, you know, media isn't about picking up a newspaper at the airport or stopping at the newsstand. It's using whatever device you happen to have with whatever time you happen to have available to you to consume. And I think that's great for media, overall, because it means we're consuming so much more.
+
+But it also means that the rules are going to be rewritten every several years as these devices changes and as we understand how we integrate those devices into our lives.
+
+Forbes: You've made some observations about how, if something is free, be prepared to die.
+
+Cuban: Yeah.
+
+Forbes: And if you're No.1, be prepared to be upended--preempted, as you put it.
+
+Cuban: Yes, sir.
+
+Forbes: Can you explain?
+
+Cuban: Sure. You know, there's a consciousness that goes with all technology. You know, there's again, going back in history, when I started working with PCs, there was those who used PCs and those were, you know, "old-school," and paper-driven. But people paid for software. People paid for content. And then, over time, it evolved to once the Internet hit and the marginal cost of delivery of content in other items was free, because, you know, one more bit in your bandwidth pipe didn't really cost you anything, we started to see people give away content, in particular, for free and there were companies that were built on delivering whatever it is. It could be search results as content. It could be aggregating information, a la Drudge Report or some others. And they made their living based off of advertising around that content.
+
+Well that model's pretty much been played out. At some point, if you're going to originate content, somebody's got to pay the people who are originating it and where we've kind of fallen apart is that end user perception. [The] consumer perception is, while it's been free, I've been able to find things for free, that's the way it always should be. And websites and other digitally driven companies have tried to take advantage of that, because that's what the consumer wants. But in reality, you know, they haven't been able to come up with the revenues to pay for it. And unless you invent a category, and dominate it, and have some other ways to monetize, you're going to find yourself a victim. I'll give you an example of what I think could be a future catastrophe, if you will. You look at YouTube, right? Now, YouTube--
+
+Forbes: YouTube, you think is something of a villain, in terms of live video on the Web, as you said, 10 years, what's to show for it?
+
+Cuban: Well, no, it's not so much that they're a villain, I think they've created a misconception. Yeah, they are a villain, you know. In their own way, right, you know.
+
+Forbes: You're an entrepreneur, you can get [away] with that.
+
+Cuban: I can get away with that, yeah. When you buy a market, right, there's some villainy--I don't have the right word, right, but there's going to be a bad guy. And in YouTube's case, they, you know, I've always felt they stole content. You know, and Viacom feels the same way; they've sued them for it. But the, I think the bigger picture now, while they're litigating that in court, is that You Tube has subsidized the bandwidth of the Internet. You know, five years ago, if somebody would've said, "Steve, we want to post this video online," the conversation then would've gone to, "Well, how much is going to cost us? Where are we going to host it? Where are the servers going to come from?" Now, [for] anybody who wants to post video online, it's presumed to be free.
+
+Well that's good as long as Google's a dominant search engine and as long as the revenues from their primary product--search--are large enough and their profits are large enough to subsidize the ongoing losses at YouTube. If that changes, or if there's an acceleration in the cost to subsidize that, you know, now they say they get 24 gigabits per second of uploads on YouTube. Let's just say it's 240 gigabits and they can't afford it.
+
+All of a sudden, if they pull the chair out of the free perspective of anybody can post video online for free, the entire Internet changes. It's almost like when AT&T put caps on their pricing for wireless just recently, and said, "You can't have unlimited bandwidth with your wireless account. You know, 2% of the people consume most of the bandwidth, we need to change that formula." Well, if Google pulls the chair out on free video, the whole perception of what free is on the Internet changes.
+
+How people deal with consuming and uploading and sharing video changes. So, in essence, this whole perspective of the future of video is online and it's a threat to television, really is built upon Google's desire to subsidize all that. And should that change, for whatever business reason, I mean, you obviously are a very astute observer of the business world. It always changes, right? Something always changes, whether it's regulatory, economic or just operationally. Then what's going to happen? And there's no substitute there for free. And I think we'll learn a lot of lessons about how free is never really free. It just sometimes appears to be free.
+
+Forbes: So, talking about Google, Google TV, and all of that, you've made the point, they're going into it.
+
+Cuban: Uh-huh.
+
+Forbes: And you made the example of House.
+
+Cuban: Right. One of my favorite shows, right.
+
+Forbes: And if Google puts up a kids thing, instead of what they perceive as a rival.
+
+Cuban: Right. Well, yeah, I mean, with Google Television, Google's kind of taken Microsoft's place as the dominant player in the current leading technology, if you will.
+
+You know, it used to be that whatever Microsoft announced, you had to immediately give it credence that it could be a dominant factor in the marketplace until it wasn't. And we've assigned that same position to Google, so now with Google Television coming out, everybody has to give it very strong consideration as a future market leader. But it's a very tenuous position that they're walking into, because people have a perception about how they want to consume television content. And media providers, the content creators and distributors, also have a big stake in the game, in how that content is presented. So, if in Google Television, if you do a search for House, as an example, because it's my favorite show, so it'd be nice, I would probably do it.
+
+And all of a sudden up comes, you know, My House By Susie and Joey when they moved into their house and that's No. 1, you know, the No. 1 listing, because you know, Joey or Susie happens to work at a search engine marketing company and they know how to game the system, well, there's problems, you know? And if you're Fox, or whoever owns the rights to House, you're going to pull out from that Google index, and all of a sudden, what we thought could be a dominant player with Google Television isn't at all, because it doesn't serve the basic needs of consumers. It's not the path of least resistance to finding what you want to watch on television.
+
+Forbes: Taking online. How, on advertising, how do you get real revenues from that, when you have networks, exchanges, where they try to commoditize everything?
+
+Cuban: You don't. You really, really don't. I mean, it's the unwritten lie. You know, that, well, if I create a website, and I generate enough pageviews or have unique users, then I'll just be able to sell advertising. But the reality is, you know, there's unlimited inventory. Anybody can create it, so there has to be some value proposition, whether in the quality of the content or just sheer, absolute numbers that allow you to generate revenue.
+
+And, you know, I've stated many, many times before on my blog and other places that if you start a business, and it's built around the Web, and you're here to tell me that you want me to invest in the revenue source, is advertising built around pageviews or unique viewers, I don't want any part of it. Because you're, it's unlimited inventory, there's no standards for advertising, whether it's audio or video, and now same with mobile. And I think you're going to have problems. I think you're going to go out of business, unless it's a labor of love.
+
+Forbes: So, even if you have unique content, it's, in the old days are old days. A year ago.
+
+Cuban: Yeah, weeks ago, yeah.
+
+Forbes: You get a premium for it. You think the squeeze is going to be in the opposite direction?
+
+Cuban: Yeah.
+
+Forbes: It's just pennies instead of dollars?
+
+Cuban: Yeah, no question. Just because great content is subjective, obviously. You know, you always hear people talk about the music business, which is the ultimate a la carte business.
+
+All you need is, you know, any type of recording device and a guitar and you can you know, and a video camera, and you can have a hit song, right, if you just put it on YouTube, or you just put it out there, where someone can consume it, and potentially buy it. Well, you know, that's the cost to create video content these days. And so, it may be good, but not only is it hard to create audience for, and hard to sell, but because you're one of an unlimited number of competitors, it's difficult, which, I think, bodes well if we can figure out the right model for traditional media companies, who can continuously invest in good content. Because the other--
+
+Forbes: How do you get paid for content? Especially now, we consider, like, bread and butter, it's free.
+
+Cuban: Right, right, right, right. You know, there's an interesting lesson going on right now, with Facebook and Google. One of the most unique lessons of Facebook is that most of its stuff's not indexed in Google. And it's doing just fine. You know, 500 million unique users, yet you know, Google's, and I don't mean this to sound like, let's just, you know, [do a] step-on-Google interview. But when they're--
+
+Forbes: Why not?
+
+Cuban: Yeah, why not, huh? But when they're the dominant player, I mean, just like we used to talk about Microsoft all the time.
+
+Forbes: Exactly.
+
+Cuban: But, you know, Google's stated intent is to index all the world's information.
+
+Yet, there's a lot of information created by 500 million users globally on Facebook, that for the most part, unless, you know, unless you specifically said, "I want my status updates public," Google can't get to. So that's kind of a crack in the armor. Then you see what's happening with mobile applications, whether it's iPhone with their operating system for iPad and iPhones, or Android, which is owned by Google, for all those other phones. You know, it used to be, if I came to New York, I'd do a search [for] restaurants, or whatever, get reviews.
+
+Forbes: Right.
+
+Cuban: Now they're, like the commercial says, "There's an app for that." And that's information that Google no longer has access to. So how does that transition to media? Well, the fear always was if I'm not participating with Google, I'm not going to have access to all those people. That's disappearing. So between Facebook, who generates probably more usage outside of it than maybe even Google for a lot of scenarios, for a lot of content, Twitter, which generates a ton of content. I know my own blog, Twitter generates 90% of the referrals that I get. Google is just a de minimus amount. And so now we're starting to see that there are other sources. And, you know, we're starting to see a greater influx of real-time data being created by media sources as well.
+
+So that not just putting up and posting a blog, but you know, once something kind of happens, to take a step back. We're not in a real-time Web yet because you still have to hit refresh. You've got to go check your mail, you've got to hit F5, you've got to hit the little refresh button on your, the Web page that you're at in order to consume it. And so, you've got to think to do that. But the technology has changed now, so that you can push content out in real time. And Google hasn't mastered that either and they haven't mastered indexing that. So for a media content creator, there's a very unique point in time where you just might say, "Look, I can create the apps, I can work with Facebook, I can work with Twitter, I can, you know, work with people who are influencers in Twitter. And that's how I'm going to create an outside the Google world, and potentially start charging for content."
+
+The challenge in doing that isn't getting eyeballs, I don't think. The challenge is in being a path of least resistance. It's not going to be micro payments. No one wants to worry about whether they paid --
+
+
+Forbes: So it's not like Easy Pass, you know, pay 10 cents for this or pay 90 cents for another?
+
+Cuban: Because, you know, if you're interested in good content, your time is of some level of value, in trying to determine whether it's worth it to pay a penny or not, just going through the process makes it not worth it. So, there's got to be an, that's why Amazon is so dominant. Your credit card's already there. It's easier just to, I mean, I'm spoiled, I'll order shampoo and shaving cream and everything, and it'll just show up because it's just easier than getting in the car and doing whatever.
+
+Forbes: Sort of like cable, you do it once a month, and that's it.
+
+Cuban: And it's there, yeah. And it's simple, exactly. Great analogy. And I think newspapers have got to put themselves in the same position. That's kind of the chicken and egg right now. I don't think the difficulty's going to be getting people to pay. I think it's in how you get them to pay. And it may well be that like the cable analogy, where it's already bundled, and you pay one bill, and you know, it's cheaper than if you had to do a la carte.
+
+Forbes: So instead of maybe a site, you have an app?
+
+Cuban: Well, an app is going to be one part of it, but you've got to get people to use the app. But I think you might even glom on to what other people are doing. So, you might say, "Amazon, what are you selling? Netflix , would you like to include newspapers as part of it?" You know, for an extra $1.00, you get access to these 15 newspapers, then we just pay back the newspapers per turn, just like Netflix does with movies. And so, you go where the credit cards already are. You go where the perceived value is greater than the incremental.
+
+Forbes: So it's not content, it's marketing.
+
+Cuban: It's both, right? But I think you've got to get there, but it's got to be easy. It's got to be the path of least resistance.
+
+Forbes: And, so, just to be philosophical for one second, what you see unfolding against the monster Google as the alternatives are coming?
+
+Cuban: They're here.
+
+Forbes: They're breaking them up.
+
+Cuban: Right. And it's really a question of how to package and market, and make it so that it's the path of least resistance. Because Google has always been so fast and so easy, it was the path of least resistance to get to news.
+
+Forbes: Path of least resistance.
+
+Cuban: That's the difference.
+
+
+Forbes: And you keep emphasizing with things like Facebook or Twitter, enjoy your dominance, [because] other things are coming along.
+
+Cuban: No question. You know, we're, mobile is changing everything. You know, we're in a boring stage of the Internet, if you will, where it's a utility. Ten years ago it wasn't a utility. If you put together an application on the Web, there's a very good chance it was going to break. And, you know, five years ago, if you started, you know, when, look at Twitter, it still breaks sometimes.
+
+But for the most part, it works with, you know, tens of millions of users. Facebook with 500 million users, but it's just a scripting language that any 12-year-old kid in high school or junior, middle school, whatever it is, could create the same type of application. But with mobile, it keeps on getting faster and faster and faster and I keep on turning back to history repeating itself. But what we're seeing in mobile is, like, 1985, you know, right after the Mac was introduced, and it was Microsoft vs. Apple . Now, it's Apple with the phone IOS, vs. Android and Google. You know, which applications, you know, which phone with which operating system? You know, if you're developing applications, which operating system do you work for first? You know, and what are the differences in terms of being a developer, in terms of opportunity?
+
+In terms of the consumer, what kind of phone do you pick? You pick the iPhone? You pick an Android-driven phone? It's really interesting. And to your point, the rules are going to change again and again. And you could see the dominance of the desktop disappear, which you know I've been talking about for years. Steve Jobs recently started talking about it. Steve Ballmer recently started talking about it. I think AT&T saved the in-home Internet connection, because you know, because of their caps. Because if there aren't caps on wireless Internet, do you really need your wired Internet at home? You know, because if you're a traditional user that never uses more than a megabit download at a time, really don't stream a lot of video, cut the cord, right? That's the cord you would cut. But now, because of AT&T's step, and I think it'll be copied by everybody, that kind of saved in-home Internet. And I think that'll save some of the video online that comes into the home. But it's still, things
+
+Forbes: So it's not going to go the way of wire lines?
+
+Cuban: No, it's not going to go the way of lines, but there's a lot of change. I guess the bigger point is, the philosophical side is, the rules are going to be rewritten again because of how we integrate mobile devices into our lives. Not just outside the home, like we use them today, but inside the home as well.
+
+Forbes: Where's that leave cable?
+
+Cuban: I think cable's in a good spot, right? Because they're the better packages of television, which I don't think goes away. One of the driving forces that I think people miss all the time is big-screen televisions are the No. 1 consumer device. You know, when I started HDNET in 2001, a 40 inch, you know, plasma that was, you know, [that] wasn't even 720p, was $12,000.
+
+Forbes: Right.
+
+Cuban: Now, on the way over here, I'm reading on, you know, in the back page of one of the newspapers that you can get a 40 inch television for $398, and a 32 inch all hi-def, HDMI, all the fanciest of the fancy, right?
+
+You know, and so, what are you going to buy? You're not going to buy an old tube television. You're going to, your next TV. So now, you have a digital device on your wall, and I think because cable has connectivity there, all the technology you can use on the Internet, cable can also use with their connectivity to the television. And they have the advantage that their networks are designed to deliver video, where the Internet doesn't have that opportunity, because of things like net neutrality, so I think cable is fine. And it's going to be interesting to see how they integrate those new opportunities with new devices. Comcast --not to talk your ear off on all this stuff, but Comcast just came out with a software that works on the iPad that acts as your remote control, acts as a preview device. You know, shows you a TV listing, things you would normally see on the big screen, now you can see on your iPad.
+
+You know, they have ebif, they have a Tru2Way, as platforms, that they're starting to open up a little bit more for interactive television. So it's conceivable that more advances will come on a cable, you know, your TV provider network, than you see on your Internet in the home. I'm not predicting that, but there's a chance.
+
+Forbes: Wow. You're a great entrepreneur.
+
+Cuban: I try.
+
+Forbes: Well, the economy.
+
+Cuban: Uh-huh.
+
+Forbes: Washington doesn't seem to recognize, if you don't have entrepreneurs, you don't get innovation .
+
+Cuban: Well, I mean, you obviously know, you have been talking about that better than anybody.
+
+Forbes: So what's the most alarming trend you see right now, and do you see correctives coming along?
+
+Cuban: Well, the most alarming trend is that Congress thinks they know what they're doing, when everybody knows that they don't. And you get a bastardized solution, as a result. And you know, the more pages in the bill past probably 100, the more the law of unintended consequences is waiting, just to kick everybody in the butt, and the whole economy.
+
+Forbes: Sort of a perverse Moore's Law.
+
+Cuban: That's exactly right. It's a very perverse Moore's Law. And so, I've always been of the mindset that the American spirit is what sets our country apart from every other country in the world. You know, we're just raised that there's a unique opportunity for any one of us should we decide to take advantage.
+
+Now, there's inhibitors, there's roadblocks for a lot of us, I don't want to make it sound like everybody's got equal opportunity to go out and create businesses. But for those of us who really, really want it, it's out there. And I think Congress has got to recognize that that's where jobs are going to come from. It's not going to come, I understand the stimulus programs, and I understand our back was against the wall, and I understand you can't lose 50 pounds without, you know, losing the first pound and getting on the treadmill and that kind of was the idea of the stimulus programs. But at some point, you have to recognize that you have to enable, and set free, entrepreneurs. Right now, I mean, I'm hearing all this stuff that, well, it's the banks' fault, because they're not loaning [to] businesses, [to] the startups, to small companies. The worst thing you can do to a small company is give them a loan. Because startups don't operate on a schedule like a bank loan has to be paid back. Bankers want to be paid back. You know, angel investors like you and I, we can look at a company, recognize the opportunity.
+
+Taxing Carried Interest
+
+Forbes: The idea of taxing so-called carried interest.
+
+Cuban: Right.
+
+Forbes: Not a good idea.
+
+Cuban: Actually, I'm going to disagree with you. I like the idea of carried tax and carried interest because I like to say short-term, but there is no such thing as a short-term tax, right?
+
+It always ends up being a long-term, you know. So under the guise that we need to create tax revenues somewhere and even somebody who runs funds and stuff like that, I realize it's going to cost me more. I just think that the entrepreneurial spirit of fund managers, you know, going for the big hit managing funds, I don't think they're going to stop putting out capital. You know, if you're a fund manager, regardless of what type of fund, and because the rate's going from 15% to even 40%, 39.5%. I think whether, if you make 400, $600,000 becomes $400,000, or $6 million becomes $4 million, or $60 million becomes $40 million, depending on scale, you're not going to go into another business.
+
+Forbes: So, if you own the U.S. government, like you own the Mavericks, what would you do to unleash the entrepreneur?
+
+Cuban: I would do a couple things. One, I would say that any equity investment in a company with 25 or fewer employees, held for, pick a term, three years or five years, when you sell it, it's tax-free.
+
+Forbes: Reduce the capital gains.
+
+Cuban: Reduce the capital gains, but with a holding period. Because I think part of the flipside of where we have some problems is money in this country now has become fast money. It's become traded money, as opposed to shareholder-driven, as opposed to enabling capital. You know, over the past 10 years, you know, there used to be a progression.
+
+You save your money, you know, friends' and family money, you find--some find an angel investor, maybe even a VC. You busted your ass, and then you started to build a company, and then, you could raise capital again, by going public. And parallel to raising capital in the public markets, you know, you had a liquidity event of some level, or you know, you built your own personal market value. What companies go public these days?
+
+
+Forbes: This gets, how do you revive the IPO market? I mean, especially for smaller companies?
+
+Cuban: Right.
+
+Forbes: Your $25 million, $50 million?
+
+Cuban: There's nothing.
+
+Forbes: No bankers, investment bankers interested?
+
+Cuban: It's funny you say that.
+
+Forbes: So Sarbanes-Oxley kills small businesses [with] unnecessary expenses.
+
+Cuban: You are exactly right. You're exactly right.
+
+And not only is it very difficult, once you are public with Sarbanes-Oxley, but there's just no market, the investment bankers, there's, you know, I'm actually talking to people about starting an investment bank, geared towards small to medium-sized businesses, because I think there's an appetite for it from real investors, right? People who will buy shares in the open public markets and hold them and be shareholders, as opposed to, you know, high-volume traders, just looking to make, you know, basis points and flipping the stock, and billions of shares. And so, you're exactly right. There's this huge, huge, huge hole where nobody is investing in entrepreneurs.
+
+Forbes: And why do you think that is?
+
+Cuban: I just think the money is gravitated towards fast money. And, you know, I think the hole has been created, because investment banks, once they started going public, in particular, they just went to the biggest, you know, wherever they could find the biggest money. As much leverage as they can get as quick and as fast. Look, if I'm Goldman Sachs , and I have a whole quarter's worth of trading days where I don't lose a penny, I make money every single trading day, would I rather do that, or take the next Broadcast.com public? Or any small company public? Would I rather spend the money on going out there, and evaluating companies?
+
+Forbes: So let's say on banks, instead of 30-to-one, you're now restricted like a real bank, 11-to-one, 12-to-one. You have a stable dollar, so you don't get the juice of stability of trading in commodities and currencies.
+
+Cuban: Uh-huh.
+
+Forbes: You lower tax rates, or give holidays for certain periods of time.
+
+Cuban: Uh-huh.
+
+Forbes: You think boutiques, like what you're talking about, can rise up and fill the void that the big ones have left out there?
+
+Cuban: Yeah, because there's going to be guys like me.
+
+Forbes: Like going against a big retailer, if you have a boutique, people will pay up for specialized services?
+
+Cuban: Absolutely, positively. What's happening right now, Steve, and it's really just over the past 12 months, there's kind of a groundswell that's, I don't want to say underground, but it's not being covered by the mainstream media, of companies like one called Y Combinator, which is just a little angel funding, where it says, "You know what? We're probably not going to invest more than $100,000 in you, it may only be $50,000, it may be $25,000. And you're going to give us some preset amount, 10% of your company, and we're going to help you grow."
+
+
+Forbes: So a version of micro-lending?
+
+Cuban: Yeah, only micro-VC, if you will, right? But now, these things are springing up everywhere. Myself, I posted a blog post called The Mark Cuban Stimulus Plan about a year ago, right? And I just started getting these great ideas out of the woodwork. I thought, I'm probably, I think, nine in the past 12 or so months, where I've invested $250,000 or less and just found these great companies. And you can do it now because the cost of technology, you know, even when I started Broadcast.com, just to get a basic PC was $3,000. Now an iPad or a PC or a laptop is $400, and has 10 times the power.
+
+Forbes: So give some of the things you invested in. I love the name Naked Pizza.
+
+Cuban: I'm not going to touch that. Naked Pizza's a perfect example. I posted The Mark Cuban Stimulus Plan, I got an e-mail, and they were, like, "You know, when the Mavericks play the New Orleans Hornets, you've got to come try our pizza. We think you'll like it." And I did. It was, like, I got to eat a whole pizza that I loved for under 800 calories. And I'm, like, "You just convinced me that the product's worth it," right? And so, the guys are, busted their butts, bust their butts, but they were, because they'd taken out some loans, because there were some other elements that they kind of got ahead of themselves, they needed a small infusion of capital.
+
+So, I think I put in $65,000 in total and now, they've signed, you know, they've used that to kind of get their head above water, invest in their one store in New Orleans. They've signed franchising agreements, you know, across the country. I mean, they've got over $1 million in down payments towards new franchises because I put in $65,000. And, you know, we've got companies like that. Now, I need my list.
+
+Forbes: Wickler?
+
+Cuban: Yeah, we have Wickler, it's just a very simple company that any public auditoriums, or bars, restaurants, that have big crowds, they face an issue with the fire marshal. And you see, like, people standing with these little clickers--
+
+Forbes: Right, right.
+
+Cuban: Out at the front door, which is ridiculous, right? It's, you know, you can't even do it. So Wickler has a system where it automates that whole process and then with password driven, it connects right to the fire marshal, just to say, "Hey, we've got a big crowd, just so you don't freak out, and B, feel free to come in and take a look at our numbers, online, as opposed to you getting in your truck and driving out there and making a big stink." And we're also looking at another company to complement that, it's called Motion Lift, that has a camera that has some really cool software that identifies through heat and visuals, the difference between bodies and live people and other devices, right?
+
+So now, we'll integrate those two together, and they have their own crowd control software for security applications. And again, I think that's a $250,000 investment. And the list just goes on and on and on and on. That is what's driving, all these companies are hiring people. They're just small startups, no loans. That's where economic growth is going to come from, and the government's got no clue. No clue that's going on. And, you know, there will be a book written talking about the underground VC economy of 2010 and it's just exploding right now.
+
+
+Forbes: So, in essence, it's like the '70s, terrible decade, but you had Southwest Airlines .
+
+Cuban: Yep.
+
+Forbes: FedEx , Oracle, Apple, Microsoft, all of these things.
+
+Cuban: Absolutely. Yeah, and look, Oracle with Larry Ellison, Microsoft with Bill Gates starting in New Mexico out of his parents' house. You know, Michael Dell.
+
+I remember when I was just out of college, driving down to see Michael Dell to buy computer components to help me with my startup business, Micro Solutions, and telling Michael Dell, "I think you've got something here. You guys are doing a really good job." You know, it was just two kids, you know, and he wasn't even in his 20s, I was in my early 20s, just saying, you know, just busting their butt. And that's exactly what it is.
+
+Forbes: So the takeaway is, if the government just stepped aside and, if there's a need, entrepreneurs like you are going to find a way to fill it.
+
+Cuban: No question. The hard part is, you know, they're so far in, or so far up our, you know, how do you get them out, right, and what's the progression?
+
+Forbes: How do you shoot the elephant?
+
+Cuban: That's exactly right. How do you shoot the elephant? And, you know, I'm not smart enough to have.
+
+Forbes: Maybe I should say donkey.
+
+Cuban: Either way, both, how do you shoot both? How do you get that wild game out of the living room?
+
+Forbes: Yeah. Mark, thank you very much.
+
+Cuban: Thank you, Steve, I really enjoyed it. It was a great interview.
+
+Forbes: Good fun. You're terrific.
+
+Cuban: It was a fun interview.

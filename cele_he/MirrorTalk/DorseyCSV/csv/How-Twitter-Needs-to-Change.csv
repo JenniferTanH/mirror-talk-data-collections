@@ -1,0 +1,761 @@
+name,line
+Interviewer,What worries you right now?
+Dorsey,You've been very open.
+Interviewer,about lots of issues on Twitter.
+Dorsey,What would be your top worry.
+Interviewer,about where things are right now?
+Dorsey,Right now.
+Interviewer,the health of the conversation.
+Dorsey,"So, our purpose is to serve."
+Interviewer,the public conversation.
+Dorsey,and we have seen.
+Interviewer,a number of attacks on it.
+Dorsey,"We've seen abuse, we've seen harassment."
+Interviewer,we've seen manipulation.
+Dorsey,"automation, human coordination."
+Interviewer,misinformation.
+Dorsey,So these are all dynamics.
+Interviewer,that we were not expecting.
+Dorsey,13 years ago when we were.
+Interviewer,starting the company.
+Dorsey,But we do now see them at scale.
+Interviewer,and what worries me most.
+Dorsey,is just our ability to address it.
+Interviewer,in a systemic way that is scalable.
+Dorsey,that has a rigorous understanding.
+Interviewer,of how we're taking action.
+Dorsey,a transparent understanding.
+Interviewer,of how we're taking action.
+Dorsey,and a rigorous appeals process.
+Interviewer,for when we're wrong.
+Dorsey,because we will be wrong.
+Interviewer,Whitney Pennington Rodgers:.
+Dorsey,I'm really glad to hear.
+Interviewer,that that's something that concerns you.
+Dorsey,because I think there's been.
+Interviewer,a lot written about people.
+Dorsey,who feel they've been abused.
+Interviewer,and harassed on Twitter.
+Dorsey,and I think no one more so.
+Interviewer,than women and women of color.
+Dorsey,and black women.
+Interviewer,And there's been data that's come out.
+Dorsey,Amnesty International put out.
+Interviewer,a report a few months ago.
+Dorsey,where they showed that a subset.
+Interviewer,of active black female Twitter users.
+Dorsey,"were receiving, on average."
+Interviewer,one in 10 of their tweets.
+Dorsey,were some form of harassment.
+Interviewer,And so when you think about health.
+Dorsey,for the community on Twitter.
+Interviewer,I'm interested to hear.
+Dorsey,health for everyone.
+Interviewer,but specificalHow are you looking.
+Dorsey,to make Twitter a safe space.
+Interviewer,"for that subset, for women."
+Dorsey,for women of color and black women?
+Interviewer,Yeah.
+Dorsey,So it's a pretty terrible situation.
+Interviewer,when you're coming to a service.
+Dorsey,"that, ideally, you want to learn."
+Interviewer,something about the world.
+Dorsey,and you spend the majority of your time.
+Interviewer,"reporting abuse, receiving abuse."
+Dorsey,receiving harassment.
+Interviewer,So what we're looking most deeply at.
+Dorsey,is just the incentives.
+Interviewer,that the platform naturally provides.
+Dorsey,and the service provides.
+Interviewer,"Right now, the dynamic of the system."
+Dorsey,makes it super-easy to harass.
+Interviewer,and to abuse others through the service.
+Dorsey,"and unfortunately, the majority."
+Interviewer,of our system in the past.
+Dorsey,worked entirely based on people.
+Interviewer,reporting harassment and abuse.
+Dorsey,So about midway last year.
+Interviewer,we decided that we were going to apply.
+Dorsey,a lot more machine learning.
+Interviewer,a lot more deep learning to the problem.
+Dorsey,and try to be a lot more proactive.
+Interviewer,around where abuse is happening.
+Dorsey,so that we can take the burden.
+Interviewer,off the victim completely.
+Dorsey,And we've made some progress recently.
+Interviewer,About 38 percent of abusive tweets.
+Dorsey,are now proactively identified.
+Interviewer,by machine learning algorithms.
+Dorsey,so that people don't actually.
+Interviewer,have to report them.
+Dorsey,But those that are identified.
+Interviewer,are still reviewed by humans.
+Dorsey,so we do not take down content or accounts.
+Interviewer,without a human actually reviewing it.
+Dorsey,But that was from zero percent.
+Interviewer,just a year ago.
+Dorsey,"So that meant, at that zero percent."
+Interviewer,every single person who received abuse.
+Dorsey,had to actually report it.
+Interviewer,which was a lot of work for them.
+Dorsey,a lot of work for us.
+Interviewer,and just ultimately unfair.
+Dorsey,The other thing that we're doing.
+Interviewer,"is making sure that we, as a company."
+Dorsey,have representation of all the communities.
+Interviewer,that we're trying to serve.
+Dorsey,We can't build a business.
+Interviewer,that is successful.
+Dorsey,unless we have a diversity.
+Interviewer,of perspective inside of our walls.
+Dorsey,that actually feel these issues.
+Interviewer,every single day.
+Dorsey,And that's not just with the team.
+Interviewer,that's doing the work.
+Dorsey,it's also within our leadership as well.
+Interviewer,So we need to continue to build empathy.
+Dorsey,for what people are experiencing.
+Interviewer,and give them better tools to act on it.
+Dorsey,and also give our customers.
+Interviewer,a much better and easier approach.
+Dorsey,to handle some of the things.
+Interviewer,that they're seeing.
+Dorsey,So a lot of what we're doing.
+Interviewer,is around technology.
+Dorsey,but we're also looking at.
+Interviewer,the incentives on the service:.
+Dorsey,What does Twitter incentivize you to do.
+Interviewer,when you first open it up?
+Dorsey,And in the past.
+Interviewer,it's incented a lot of outrage.
+Dorsey,it's incented a lot of mob behavior.
+Interviewer,it's incented a lot of group harassment.
+Dorsey,And we have to look a lot deeper.
+Interviewer,at some of the fundamentals.
+Dorsey,of what the service is doing.
+Interviewer,to make the bigger shifts.
+Dorsey,We can make a bunch of small shifts.
+Interviewer,"around technology, as I just described."
+Dorsey,"but ultimately, we have to look deeply."
+Interviewer,at the dynamics in the network itself.
+Dorsey,and that's what we're doing.
+Interviewer,But what's your sense.
+Dorsey,what is the kind of thing.
+Interviewer,that you might be able to change.
+Dorsey,that would actually.
+Interviewer,fundamentally shift behavior?
+Dorsey,"Well, one of the things."
+Interviewer,we started the service.
+Dorsey,with this concept of following an account.
+Interviewer,as an example.
+Dorsey,and I don't believe that's why.
+Interviewer,people actually come to Twitter.
+Dorsey,I believe Twitter is best.
+Interviewer,as an interest-based network.
+Dorsey,People come with a particular interest.
+Interviewer,They have to do a ton of work.
+Dorsey,to find and follow the related accounts.
+Interviewer,around those interests.
+Dorsey,What we could do instead.
+Interviewer,is allow you to follow an interest.
+Dorsey,"follow a hashtag, follow a trend."
+Interviewer,follow a community.
+Dorsey,which gives us the opportunity.
+Interviewer,to show all of the accounts.
+Dorsey,"all the topics, all the moments."
+Interviewer,all the hashtags.
+Dorsey,that are associated with that.
+Interviewer,particular topic and interest.
+Dorsey,which really opens up.
+Interviewer,the perspective that you see.
+Dorsey,But that is a huge fundamental shift.
+Interviewer,to bias the entire network.
+Dorsey,away from just an account bias.
+Interviewer,towards a topics and interest bias.
+Dorsey,Because isn't it the case.
+Interviewer,that one reason why you have.
+Dorsey,so much content on there.
+Interviewer,is a result of putting millions.
+Dorsey,of people around the world.
+Interviewer,in this kind of gladiatorial.
+Dorsey,contest with each other.
+Interviewer,"for followers, for attention?"
+Dorsey,"Like, from the point of view."
+Interviewer,of people who just read Twitter.
+Dorsey,that's not an issue.
+Interviewer,but for the people who actually create it.
+Dorsey,everyone's out there saying.
+Interviewer,"You know, I wish I had."
+Dorsey,"a few more 'likes,' followers, retweets."
+Interviewer,And so they're constantly experimenting.
+Dorsey,trying to find the path to do that.
+Interviewer,And what we've all discovered.
+Dorsey,is that the number one path to do that.
+Interviewer,is to be some form of provocative.
+Dorsey,"obnoxious, eloquently obnoxious."
+Interviewer,"like, eloquent insults."
+Dorsey,are a dream on Twitter.
+Interviewer,where you rapidly pile up.
+Dorsey,and it becomes this self-fueling.
+Interviewer,process of driving outrage.
+Dorsey,How do you defuse that?
+Interviewer,"Yeah, I mean, I think you're spot on."
+Dorsey,but that goes back to the incentives.
+Interviewer,"Like, one of the choices."
+Dorsey,we made in the early days was.
+Interviewer,we had this number that showed.
+Dorsey,how many people follow you.
+Interviewer,We decided that number.
+Dorsey,should be big and bold.
+Interviewer,and anything that's on the page.
+Dorsey,that's big and bold has importance.
+Interviewer,and those are the things.
+Dorsey,that you want to drive.
+Interviewer,Was that the right decision at the time?
+Dorsey,Probably not.
+Interviewer,If I had to start the service again.
+Dorsey,I would not emphasize.
+Interviewer,the follower count as much.
+Dorsey,I would not emphasize.
+Interviewer,the like count as much.
+Dorsey,I don't think I would even.
+Interviewer,create like in the first place.
+Dorsey,because it doesn't actually push.
+Interviewer,what we believe now.
+Dorsey,to be the most important thing.
+Interviewer,which is healthy contribution.
+Dorsey,back to the network.
+Interviewer,and conversation to the network.
+Dorsey,participation within conversation.
+Interviewer,learning something from the conversation.
+Dorsey,Those are not things.
+Interviewer,that we thought of 13 years ago.
+Dorsey,and we believe are extremely.
+Interviewer,important right now.
+Dorsey,So we have to look at.
+Interviewer,how we display the follower count.
+Dorsey,how we display retweet count.
+Interviewer,how we display likes.
+Dorsey,and just ask the deep question:.
+Interviewer,Is this really the number.
+Dorsey,that we want people to drive up?
+Interviewer,Is this the thing that.
+Dorsey,when you open Twitter.
+Interviewer,"you see, That's the thing."
+Dorsey,I need to increase?
+Interviewer,And I don't believe.
+Dorsey,that's the case right now.
+Interviewer,(Applause).
+Dorsey,WI think we should look at.
+Interviewer,some of the tweets.
+Dorsey,that are coming.
+Interviewer,in from the audience as well.
+Dorsey,Let's see what you guys are asking.
+Interviewer,"I mean, this is generally, one."
+Dorsey,of the amazing things about Twitter.
+Interviewer,is how you can use it for crowd wisdom.
+Dorsey,"you know, that more knowledge."
+Interviewer,"more questions, more points of view."
+Dorsey,than you can imagine.
+Interviewer,"and sometimes, many of them."
+Dorsey,are really healthy.
+Interviewer,WI think one I saw that.
+Dorsey,passed already quickly down here.
+Interviewer,What's Twitter's plan to combat.
+Dorsey,foreign meddling in the 2020 US election?
+Interviewer,I think that's something.
+Dorsey,that's an issue we're seeing.
+Interviewer,on the internet in general.
+Dorsey,that we have a lot of malicious.
+Interviewer,automated activity happening.
+Dorsey,"And on Twitter, for example."
+Interviewer,"in fact, we have some work."
+Dorsey,that's come from our friends.
+Interviewer,at Zignal Labs.
+Dorsey,and maybe we can even see that.
+Interviewer,to give us an example.
+Dorsey,of what exactly I'm talking about.
+Interviewer,"where you have these bots, if you will."
+Dorsey,or coordinated automated.
+Interviewer,malicious account activity.
+Dorsey,that is being used to influence.
+Interviewer,things like elections.
+Dorsey,And in this example we have.
+Interviewer,from Zignal which they've shared with us.
+Dorsey,using the data that.
+Interviewer,they have from Twitter.
+Dorsey,you actually see that in this case.
+Interviewer,white represents the humans.
+Dorsey,"human accounts, each dot is an account."
+Interviewer,The pinker it is.
+Dorsey,the more automated the activity is.
+Interviewer,And you can see how you have.
+Dorsey,a few humans interacting with bots.
+Interviewer,"In this case, it's related."
+Dorsey,to the election in Israel.
+Interviewer,and spreading misinformation.
+Dorsey,about Benny Gantz.
+Interviewer,"and as we know, in the end."
+Dorsey,that was an election.
+Interviewer,that Netanyahu won by a slim margin.
+Dorsey,and that may have been.
+Interviewer,in some case influenced by this.
+Dorsey,And when you think about.
+Interviewer,that happening on Twitter.
+Dorsey,what are the things.
+Interviewer,"that you're doing, specifically."
+Dorsey,to ensure you don't have misinformation.
+Interviewer,like this spreading in this way.
+Dorsey,influencing people in ways.
+Interviewer,that could affect democracy?
+Dorsey,Just to back up a bit.
+Interviewer,we asked ourselves a question:.
+Dorsey,Can we actually measure.
+Interviewer,the health of a conversation.
+Dorsey,and what does that mean?
+Interviewer,And in the same way.
+Dorsey,that you have indicators.
+Interviewer,and we have indicators as humans.
+Dorsey,in terms of are we healthy or not.
+Interviewer,such as temperature.
+Dorsey,the flushness of your face.
+Interviewer,we believe that we could find.
+Dorsey,the indicators of conversational health.
+Interviewer,And we worked with a lab.
+Dorsey,called Cortico at MIT.
+Interviewer,to propose four starter indicators.
+Dorsey,that we believe we could ultimately.
+Interviewer,measure on the system.
+Dorsey,And the first one is.
+Interviewer,what we're calling shared attention.
+Dorsey,It's a measure of how much.
+Interviewer,of the conversation is attentive.
+Dorsey,on the same topic versus disparate.
+Interviewer,The second one is called shared reality.
+Dorsey,and this is what percentage.
+Interviewer,of the conversation.
+Dorsey,shares the same facts.
+Interviewer,not whether those facts.
+Dorsey,are truthful or not.
+Interviewer,but are we sharing.
+Dorsey,the same facts as we converse?
+Interviewer,The third is receptivity:.
+Dorsey,How much of the conversation.
+Interviewer,is receptive or civil.
+Dorsey,"or the inverse, toxic?"
+Interviewer,And then the fourth.
+Dorsey,is variety of perspective.
+Interviewer,"So, are we seeing filter bubbles."
+Dorsey,or echo chambers.
+Interviewer,or are we actually getting.
+Dorsey,a variety of opinions.
+Interviewer,within the conversation?
+Dorsey,And implicit in all four of these.
+Interviewer,is the understanding that.
+Dorsey,"as they increase, the conversation."
+Interviewer,gets healthier and healthier.
+Dorsey,So our first step is to see.
+Interviewer,if we can measure these online.
+Dorsey,which we believe we can.
+Interviewer,We have the most momentum.
+Dorsey,around receptivity.
+Interviewer,We have a toxicity score.
+Dorsey,"a toxicity model, on our system."
+Interviewer,that can actually measure.
+Dorsey,whether you are likely to walk away.
+Interviewer,from a conversation.
+Dorsey,that you're having on Twitter.
+Interviewer,because you feel it's toxic.
+Dorsey,with some pretty high degree.
+Interviewer,We're working to measure the rest.
+Dorsey,and the next step is.
+Interviewer,as we build up solutions.
+Dorsey,to watch how these measurements.
+Interviewer,trend over time.
+Dorsey,and continue to experiment.
+Interviewer,And our goal is to make sure.
+Dorsey,that these are balanced.
+Interviewer,because if you increase one.
+Dorsey,you might decrease another.
+Interviewer,If you increase variety of perspective.
+Dorsey,you might actually decrease.
+Interviewer,shared reality.
+Dorsey,Just picking up on some.
+Interviewer,of the questions flooding in here.
+Dorsey,Constant questioning.
+Interviewer,A lot of people are puzzled why.
+Dorsey,"like, how hard is it to get rid."
+Interviewer,of Nazis from Twitter?
+Dorsey,(Laughs).
+Interviewer,So we have policies.
+Dorsey,around violent extremist groups.
+Interviewer,and the majority of our work.
+Dorsey,and our terms of service.
+Interviewer,"works on conduct, not content."
+Dorsey,So we're actually looking for conduct.
+Interviewer,Conduct being using the service.
+Dorsey,to repeatedly or episodically.
+Interviewer,harass someone.
+Dorsey,using hateful imagery.
+Interviewer,that might be associated with the KKK.
+Dorsey,or the American Nazi Party.
+Interviewer,Those are all things.
+Dorsey,that we act on immediately.
+Interviewer,We're in a situation right now.
+Dorsey,where that term is used fairly loosely.
+Interviewer,and we just cannot take.
+Dorsey,any one mention of that word.
+Interviewer,accusing someone else.
+Dorsey,as a factual indication that they.
+Interviewer,should be removed from the platform.
+Dorsey,So a lot of our models.
+Interviewer,"are based around, number one:."
+Dorsey,Is this account associated.
+Interviewer,with a violent extremist group?
+Dorsey,"And if so, we can take action."
+Interviewer,And we have done so on the KKK.
+Dorsey,and the American Nazi Party and others.
+Interviewer,And number tAre they using.
+Dorsey,imagery or conduct.
+Interviewer,that would associate them as such as well?
+Dorsey,How many people do you have.
+Interviewer,working on content moderation.
+Dorsey,to look at this?
+Interviewer,It varies.
+Dorsey,We want to be flexible on this.
+Interviewer,because we want to make sure.
+Dorsey,"that we're, number one."
+Interviewer,building algorithms instead of just.
+Dorsey,hiring massive amounts of people.
+Interviewer,because we need to make sure.
+Dorsey,that this is scalable.
+Interviewer,and there are no amount of people.
+Dorsey,that can actually scale this.
+Interviewer,So this is why we've done so much work.
+Dorsey,around proactive detection of abuse.
+Interviewer,that humans can then review.
+Dorsey,We want to have a situation.
+Interviewer,where algorithms are constantly.
+Dorsey,scouring every single tweet.
+Interviewer,and bringing the most.
+Dorsey,interesting ones to the top.
+Interviewer,so that humans can bring their judgment.
+Dorsey,to whether we should take action or not.
+Interviewer,based on our terms of service.
+Dorsey,WBut there's not an amount.
+Interviewer,of people that are scalable.
+Dorsey,but how many people do you currently have.
+Interviewer,monitoring these accounts.
+Dorsey,and how do you figure out what's enough?
+Interviewer,They're completely flexible.
+Dorsey,Sometimes we associate folks with spam.
+Interviewer,Sometimes we associate folks.
+Dorsey,with abuse and harassment.
+Interviewer,We're going to make sure that.
+Dorsey,we have flexibility in our people.
+Interviewer,so that we can direct them.
+Dorsey,at what is most needed.
+Interviewer,"Sometimes, the elections."
+Dorsey,We've had a string of elections.
+Interviewer,"in Mexico, one coming up in India."
+Dorsey,"obviously, the election last year."
+Interviewer,the midterm election.
+Dorsey,so we just want to be flexible.
+Interviewer,with our resources.
+Dorsey,So when people.
+Interviewer,"just as an example, if you go."
+Dorsey,to our current terms of service.
+Interviewer,and you bring the page up.
+Dorsey,and you're wondering about abuse.
+Interviewer,and harassment that you just received.
+Dorsey,and whether it was against.
+Interviewer,our terms of service to report it.
+Dorsey,the first thing you see.
+Interviewer,when you open that page.
+Dorsey,is around intellectual.
+Interviewer,property protection.
+Dorsey,You scroll down and you get to.
+Interviewer,"abuse, harassment."
+Dorsey,and everything else.
+Interviewer,that you might be experiencing.
+Dorsey,So I don't know how that happened.
+Interviewer,over the company's history.
+Dorsey,but we put that above.
+Interviewer,the thing that people want.
+Dorsey,the most information on.
+Interviewer,and to actually act on.
+Dorsey,And just our ordering shows the world.
+Interviewer,what we believed was important.
+Dorsey,So we're changing all that.
+Interviewer,We're ordering it the right way.
+Dorsey,but we're also simplifying the rules.
+Interviewer,so that they're human-readable.
+Dorsey,so that people can actually.
+Interviewer,understand themselves.
+Dorsey,when something is against our terms.
+Interviewer,and when something is not.
+Dorsey,And then we're making.
+Interviewer,"again, our big focus is on removing."
+Dorsey,the burden of work from the victims.
+Interviewer,So that means push more.
+Dorsey,towards technology.
+Interviewer,rather than humans doing the work.
+Dorsey,that means the humans receiving the abuse.
+Interviewer,and also the humans.
+Dorsey,having to review that work.
+Interviewer,So we want to make sure.
+Dorsey,that we're not just encouraging more work.
+Interviewer,around something.
+Dorsey,"that's super, super negative."
+Interviewer,and we want to have a good balance.
+Dorsey,between the technology.
+Interviewer,and where humans can actually be creative.
+Dorsey,which is the judgment of the rules.
+Interviewer,and not just all the mechanical stuff.
+Dorsey,of finding and reporting them.
+Interviewer,So that's how we think about it.
+Dorsey,I'm curious to dig in more.
+Interviewer,about what you said.
+Dorsey,"I mean, I love that you said."
+Interviewer,you are looking for ways.
+Dorsey,to re-tweak the fundamental.
+Interviewer,design of the system.
+Dorsey,to discourage some of the reactive.
+Interviewer,"behavior, and perhaps."
+Dorsey,to use Tristan Harris-type language.
+Interviewer,engage people's more reflective thinking.
+Dorsey,How far advanced is that?
+Interviewer,What would alternatives.
+Dorsey,to that like button be?
+Interviewer,"Well, first and foremost."
+Dorsey,my personal goal with the service.
+Interviewer,is that I believe fundamentally.
+Dorsey,that public conversation is critical.
+Interviewer,There are existential problems.
+Dorsey,facing the world.
+Interviewer,that are facing the entire world.
+Dorsey,not any one particular nation-state.
+Interviewer,that global public conversation benefits.
+Dorsey,And that is one of the unique.
+Interviewer,dynamics of Twitter.
+Dorsey,that it is completely open.
+Interviewer,it is completely public.
+Dorsey,it is completely fluid.
+Interviewer,and anyone can see any other conversation.
+Dorsey,and participate in it.
+Interviewer,So there are conversations.
+Dorsey,like climate change.
+Interviewer,There are conversations.
+Dorsey,like the displacement in the work.
+Interviewer,through artificial intelligence.
+Dorsey,There are conversations.
+Interviewer,like economic disparity.
+Dorsey,No matter what any one nation-state does.
+Interviewer,they will not be able.
+Dorsey,to solve the problem alone.
+Interviewer,It takes coordination around the world.
+Dorsey,and that's where I think.
+Interviewer,Twitter can play a part.
+Dorsey,The second thing is that Twitter.
+Interviewer,"right now, when you go to it."
+Dorsey,you don't necessarily walk away.
+Interviewer,feeling like you learned something.
+Dorsey,Some people do.
+Interviewer,Some people have.
+Dorsey,"a very, very rich network."
+Interviewer,a very rich community.
+Dorsey,that they learn from every single day.
+Interviewer,But it takes a lot of work.
+Dorsey,and a lot of time to build up to that.
+Interviewer,So we want to get people.
+Dorsey,to those topics and those interests.
+Interviewer,"much, much faster."
+Dorsey,and make sure that.
+Interviewer,they're finding something that.
+Dorsey,no matter how much time.
+Interviewer,they spend on Twitter.
+Dorsey,and I don't want to maximize.
+Interviewer,the time on Twitter.
+Dorsey,I want to maximize.
+Interviewer,what they actually take away from it.
+Dorsey,"and what they learn from it, and."
+Interviewer,"Well, do you, though?"
+Dorsey,Because that's the core question.
+Interviewer,that a lot of people want to know.
+Dorsey,"Surely, Jack, you're constrained."
+Interviewer,to a huge extent.
+Dorsey,by the fact that you're a public company.
+Interviewer,you've got investors pressing on you.
+Dorsey,the number one way you make your money.
+Interviewer,is from advertising.
+Dorsey,that depends on user engagement.
+Interviewer,Are you willing to sacrifice.
+Dorsey,"user time, if need be."
+Interviewer,to go for a more reflective conversation?
+Dorsey,Yeah; more relevance means.
+Interviewer,less time on the service.
+Dorsey,and that's perfectly fine.
+Interviewer,because we want to make sure.
+Dorsey,"that, like, you're coming to Twitter."
+Interviewer,and you see something immediately.
+Dorsey,that you learn from and that you push.
+Interviewer,We can still serve an ad against that.
+Dorsey,That doesn't mean you need to spend.
+Interviewer,any more time to see more.
+Dorsey,The second thing we're looking at.
+Interviewer,But just on that goal.
+Dorsey,daily active usage.
+Interviewer,if you're measuring that.
+Dorsey,that doesn't necessarily mean things.
+Interviewer,that people value every day.
+Dorsey,It may well mean.
+Interviewer,things that people are drawn to.
+Dorsey,"like a moth to the flame, every day."
+Interviewer,"We are addicted, because we see."
+Dorsey,something that pisses us off.
+Interviewer,so we go in and add fuel to the fire.
+Dorsey,and the daily active usage goes up.
+Interviewer,and there's more ad revenue there.
+Dorsey,but we all get angrier with each other.
+Interviewer,How do you define ...
+Dorsey,Daily active usage seems like a really.
+Interviewer,dangerous term to be optimizing.
+Dorsey,(Applause).
+Interviewer,"Taken alone, it is."
+Dorsey,but you didn't let me.
+Interviewer,finish the other metric.
+Dorsey,"which is, we're watching for conversations."
+Interviewer,and conversation chains.
+Dorsey,So we want to incentivize.
+Interviewer,healthy contribution back to the network.
+Dorsey,and what we believe that is.
+Interviewer,is actually participating in conversation.
+Dorsey,that is healthy.
+Interviewer,as defined by those four indicators.
+Dorsey,I articulated earlier.
+Interviewer,So you can't just optimize.
+Dorsey,around one metric.
+Interviewer,You have to balance and look constantly.
+Dorsey,at what is actually going to create.
+Interviewer,a healthy contribution to the network.
+Dorsey,and a healthy experience for people.
+Interviewer,"Ultimately, we want to get to a metric."
+Dorsey,where people can tell us.
+Interviewer,"Hey, I learned something from Twitter."
+Dorsey,and I'm walking away.
+Interviewer,with something valuable.
+Dorsey,That is our goal ultimately over time.
+Interviewer,but that's going to take some time.
+Dorsey,You come over to many.
+Interviewer,"I think to me, as this enigma."
+Dorsey,This is possibly unfair.
+Interviewer,but I woke up the other night.
+Dorsey,with this picture of how I found I was.
+Interviewer,thinking about you and the situation.
+Dorsey,that we're on this great voyage with you.
+Interviewer,on this ship called the Twittanic.
+Dorsey,(Laughter).
+Interviewer,and there are people on board in steerage.
+Dorsey,who are expressing discomfort.
+Interviewer,"and you, unlike many other captains."
+Dorsey,"are saying, Well, tell me, talk to me."
+Interviewer,"listen to me, I want to hear."
+Dorsey,"And they talk to you, and they say."
+Interviewer,We're worried about the iceberg ahead.
+Dorsey,"And you go, You know."
+Interviewer,that is a powerful point.
+Dorsey,"and our ship, frankly."
+Interviewer,hasn't been built properly.
+Dorsey,for steering as well as it might.
+Interviewer,"And we say, Please do something."
+Dorsey,And you go to the bridge.
+Interviewer,and we're waiting.
+Dorsey,"and we look, and then you're showing."
+Interviewer,this extraordinary calm.
+Dorsey,but we're all standing outside.
+Interviewer,"saying, Jack, turn the fucking wheel!"
+Dorsey,You know?
+Interviewer,(Laughter).
+Dorsey,(Applause).
+Interviewer,I mean.
+Dorsey,(Applause).
+Interviewer,It's democracy at stake.
+Dorsey,It's our culture at stake.
+Interviewer,It's our world at stake.
+Dorsey,And Twitter is amazing and shapes so much.
+Interviewer,It's not as big as some.
+Dorsey,of the other platforms.
+Interviewer,but the people of influence use it.
+Dorsey,to set the agenda.
+Interviewer,and it's just hard to imagine a more.
+Dorsey,important role in the world than to ...
+Interviewer,"I mean, you're doing a brilliant job."
+Dorsey,"of listening, Jack, and hearing people."
+Interviewer,but to actually dial up the urgency.
+Dorsey,and move on this stuff.
+Interviewer,will you do that?
+Dorsey,"Yes, and we have been."
+Interviewer,moving substantially.
+Dorsey,"I mean, there's been."
+Interviewer,a few dynamics in Twitter's history.
+Dorsey,"One, when I came back to the company."
+Interviewer,we were in a pretty dire state.
+Dorsey,in terms of our future.
+Interviewer,and not just from how people.
+Dorsey,were using the platform.
+Interviewer,but from a corporate narrative as well.
+Dorsey,So we had to fix.
+Interviewer,a bunch of the foundation.
+Dorsey,turn the company around.
+Interviewer,go through two crazy layoffs.
+Dorsey,because we just got too big.
+Interviewer,for what we were doing.
+Dorsey,and we focused all of our energy.
+Interviewer,on this concept of serving.
+Dorsey,the public conversation.
+Interviewer,And that took some work.
+Dorsey,And as we dived into that.
+Interviewer,we realized some of the issues.
+Dorsey,with the fundamentals.
+Interviewer,We could do a bunch of superficial things.
+Dorsey,to address what you're talking about.
+Interviewer,but we need the changes to last.
+Dorsey,"and that means going really, really deep."
+Interviewer,and paying attention.
+Dorsey,to what we started 13 years ago.
+Interviewer,and really questioning.
+Dorsey,how the system works.
+Interviewer,and how the framework works.
+Dorsey,and what is needed for the world today.
+Interviewer,given how quickly everything is moving.
+Dorsey,and how people are using it.
+Interviewer,So we are working as quickly as we can.
+Dorsey,but quickness will not get the job done.
+Interviewer,"It's focus, it's prioritization."
+Dorsey,it's understanding.
+Interviewer,the fundamentals of the network.
+Dorsey,and building a framework that scales.
+Interviewer,and that is resilient to change.
+Dorsey,and being open about where we are.
+Interviewer,and being transparent about where are.
+Dorsey,so that we can continue to earn trust.
+Interviewer,So I'm proud of all the frameworks.
+Dorsey,that we've put in place.
+Interviewer,I'm proud of our direction.
+Dorsey,We obviously can move faster.
+Interviewer,but that required just stopping a bunch.
+Dorsey,of stupid stuff we were doing in the past.
+Interviewer,All right.
+Dorsey,"Well, I suspect there are many people here."
+Interviewer,"who, if given the chance."
+Dorsey,would love to help you.
+Interviewer,on this change-making agenda you're on.
+Dorsey,and I don't know if Whitney.
+Interviewer,"Jack, thank you for coming here."
+Dorsey,and speaking so openly.
+Interviewer,It took courage.
+Dorsey,I really appreciate what you said.
+Interviewer,and good luck with your mission.
+Dorsey,Thank you so much.
+Interviewer,Thanks for having me.
+Dorsey,Thank you.

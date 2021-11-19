@@ -1,0 +1,249 @@
+name,line
+Interviewer,I am so excited to be here with jim mckelvey and jack dorsey square's two co-founders to talk about.
+Dorsey,Um all things square and how it started what the origination was.
+Interviewer,And how we're thinking about the developer community so for those of you who don't know.
+Dorsey,Square started because jim who owns a glassblowing factory uh was unable to process a payment and.
+Interviewer,Was really bothered by that understandably about losing customers and started pairing up with his pal.
+Dorsey,Jack and they came up with this solution um so i'd love to hear from the two of you.
+Interviewer,Um how you first connected before square even was born so um jack came to work for me.
+Dorsey,At a company that i actually still have um but at the time we were uh very poorly.
+Interviewer,Managed and supplemented our bad management with his uh mother's product which was uh.
+Dorsey,Chocolate covered coffee beans which we would chew up and uh keep the staff awake so marcia.
+Interviewer,Dorsey was effectively our dealer um and we found one day that her son liked computers that's all we knew.
+Dorsey,And so my partner invited john invited jack to come over to work with us and he happened to show.
+Interviewer,Up in the middle of this chaotic mess and uh pulled an all-nighter with us the first night.
+Dorsey,So we sent him home at five in the morning and i guess i'll let jack finish the story since i think it goes on from.
+Interviewer,There well i got yelled at by my mom she um she hated jim um cursed his name.
+Dorsey,To this day but has forgiven him for some things but no i might.
+Interviewer,My parents always encouraged me to follow my own path and competing was one one big part of.
+Dorsey,That and uh jim's company and that work was a great way for me to experience.
+Interviewer,What i ultimately wanted to do which was programming and i was super early in the programming computers at that.
+Dorsey,Point another story some of you may not know is square's very first customer.
+Interviewer,Was a woman named sherry who owned lily bell flowers in san francisco and when jack and jim finally had a.
+Dorsey,Prototype for their hardware they approached her at a market and asked her if she wanted to try it out.
+Interviewer,Uh taking credit card payments she showed a little bit of hesitancy and wasn't quite sure but just as they were.
+Dorsey,Having that conversation a customer a potential customer walked up to her um and said that he didn't.
+Interviewer,Have any cash but he would go get someone come back and so they waited around and waited around and lo and.
+Dorsey,Behold the customer never returned and so that really.
+Interviewer,Helped just fuel even more so the need to create this hardware and provide this to.
+Dorsey,Sellers who are trying to capture every type of payment um so i'd really love to hear how does.
+Interviewer,This kind of customer centricity lead to innovation well i it wasn't one time that we did that like.
+Dorsey,We went on a cherry multiple times um and asked her if she would try or work on and she.
+Interviewer,Repeatedly said no um until the point when she lost the sale and that was the biggest insight we we.
+Dorsey,Originally thought that we were building a credit card reader that plugged in the.
+Interviewer,Phone and had an easy app that got you to the visa or mastercard or.
+Dorsey,Acquiring gateway but ultimately what we learned in that moment and it we didn't i don't think we.
+Interviewer,Realized it in that moment but what we learned over time was it wasn't about building.
+Dorsey,The credit card reader is about making the sale helping installer make the sale if we.
+Interviewer,Focused only on building a little plastic device that plugged into the headphone jack and built some.
+Dorsey,Software around that would be a very very small not very impactful company but because we focused on a deeper.
+Interviewer,Problem which was how do we help us all and make the sale in the first place.
+Dorsey,We expanded our entire universe of solutions so a credit card reader is one solution that point of sale is another.
+Interviewer,Solution because it allows someone to see their entire business and.
+Dorsey,Get analytics around how they're doing and make better decisions lending is another solution.
+Interviewer,Which came in the form of square capital and so on and so forth so by by going a little bit deeper into.
+Dorsey,The observation what we're seeing we created something much more valuable than.
+Interviewer,What we started with yeah it was also interesting when we got the first ipad uh.
+Dorsey,Because instead of being restrained to you know this much screen area we had a full ipad's worth.
+Interviewer,And so that naturally led us to thinking about all the other things that our customers had to do we had some.
+Dorsey,Customers at that point but not very many um at least not compared to today and.
+Interviewer,It's really interesting if you think of payments as this.
+Dorsey,Wonderfully honest form of communication you know what you spend your money on are things you value.
+Interviewer,What you think spend your money on is is almost as important as what you spend your time on in some ways.
+Dorsey,And so it's a really interesting insight into what matters for a business and if you start connecting to that.
+Interviewer,It naturally leads to a very rich ecosystem that's awesome uh talk to me about how.
+Dorsey,You engage with the developer communities as you're building up square were there.
+Interviewer,Certain forms that you all used or communities that you contributed to how do you think that's changed if.
+Dorsey,Any uh to today when we first started we didn't i mean we consciously decided not to.
+Interviewer,Engage with the developer community because we you know we had we had a bunch of.
+Dorsey,Experience with apis in the past and like how much um they could potentially be abused.
+Interviewer,And given that we were dealing with money and moving money around we want to make.
+Dorsey,Sure we had a lot of control over how our system was working and we'd have enough people staff.
+Interviewer,Engineering resources to make sure that we could build the right constraints um to start so we we didn't really start.
+Dorsey,With the developer community until a few years in um and again it was a conscious choice our.
+Interviewer,First focus was one specific customer which was a seller who otherwise would not be able to.
+Dorsey,Accept a credit card and we just stayed focused until we had a much stronger base and a greater.
+Interviewer,Understanding of where to go from there and then as we got the right engineering talent.
+Dorsey,And we understood like what we were building and we understood like what the right.
+Interviewer,Endpoints were we started building out the developer community.
+Dorsey,And um a lot of it came from you know just making sure that anything we build internally.
+Interviewer,Ultimately could we export it externally like we should be a client of our own platform.
+Dorsey,Ideally and that's how we originally started building the the system and.
+Interviewer,You know in many cases we succeeded in some cases we failed but we're up we're able to learn very fast.
+Dorsey,And build a platform that i think you know not only exposes a bunch of.
+Interviewer,New functionality to the world especially around commerce for sellers but also encourages entirely new ways of.
+Dorsey,Doing commerce and doing business and that's just on the seller side we have much more work to do.
+Interviewer,On the cash up side which is super exciting as well i'd also add that you know there's sort.
+Dorsey,Of an inherent respect for the development community because both jack and i are engineers.
+Interviewer,So it's sort of odd to have a company founded by two technical folks but um you know i remember back.
+Dorsey,Even when jack was working with me almost 30 years ago he was contributing uh to the open source community he was.
+Interviewer,Writing for linux i remember uh twiddler the uh corded input device that you wrote a driver for.
+Dorsey,Um and uh you know that plus open source has been an area of you know sort of.
+Interviewer,Deep respect and so i think although we kind of came to it late uh i think we came to it well and i.
+Dorsey,Think you see that respect in the products that square offers and the way we treat developers.
+Interviewer,I want to switch now to talking about uh support and and how we think about the interactions.
+Dorsey,That our sellers have with us as lauren mentioned i have the privilege of leading the customer success team.
+Interviewer,Here at square so my team knows definitely how critical it is that we are providing great.
+Dorsey,Experiences to our sellers and helping them through really critical time sensitive initiatives.
+Interviewer,Um that are really challenging to their business so i'd love to hear from you what connections does square enable for.
+Dorsey,Its sellers so i i think the most important thing that square does for the sellers is it.
+Interviewer,Makes much of the tedium invisible in other words if you use square if you're part.
+Dorsey,Of our ecosystem and you're running your business you can spend just a little more time focused on.
+Interviewer,Your business as opposed to worrying about accounting withholding and you know paying off this.
+Dorsey,Loan and managing all these various connections and one of the great uh tragedies.
+Interviewer,That people experience is they're good at something they've got this skill and they say oh i'm good enough i'm going to.
+Dorsey,Open a business and then when they open that business they realize that they don't get to.
+Interviewer,Actually do the thing they're good at because they're buried with all this other stuff and so.
+Dorsey,What we've always tried to do with square is is just sort of make those problems go.
+Interviewer,Away and uh you know jack and always jack and i always discussed in the early days.
+Dorsey,How the ultimate success would not be famous but would to be invisible to actually be this utility layer that.
+Interviewer,Didn't get noticed and i think we still aspire to that and to the extent that people use our products without even.
+Dorsey,Realizing how much is going into those products it's a big win i have anything to add there no i mean.
+Interviewer,Our the name of our company kind of indicates what we want to be which is plain um.
+Dorsey,Out of sight foundational pouring we we didn't want to put our brand before.
+Interviewer,Our customers ultimately whether the customer be our seller or a developer.
+Dorsey,We we wanted to fade into the background as much as we could and we chose the name accordingly it's a.
+Interviewer,Boring brand by design um and uh you know when we were first.
+Dorsey,Talking to our designers and brand people they got so upset and insulted that we.
+Interviewer,Wanted to build a boring brand because their work is anything but but it takes a lot of work to build.
+Dorsey,Something that is so a brand that is so foundational and um nondescript and invisible.
+Interviewer,That it is apparent we had a lot going for us and just our hardware the shape of our reader.
+Dorsey,Was our name the the structure of our first ipad register indicated the same shape even though it.
+Interviewer,Wasn't exactly that so we relied a lot upon what people put on top of their counter.
+Dorsey,To reference our brand more so than having a flashy name or something that was truly in your.
+Interviewer,Face yeah if you're excited about your payment system it's probably negative.
+Dorsey,Energy that's true very true uh jim i'd love to hear how do the connections that square.
+Interviewer,Creates uh fit into the notion of the innovation stack.
+Dorsey,So i was confounded by something that happened at square which is that we survived an attack by amazon when we.
+Interviewer,Were still a startup and i couldn't answer the question.
+Dorsey,How did we survive and so what i did was i went on this it was basically a two year research.
+Interviewer,Quest looking at other companies that had been in the same situation and i discovered something that was.
+Dorsey,Really interesting which was that all the companies that had been in similarly.
+Interviewer,Deadly situations and had survived and thrived were all focused on very very small.
+Dorsey,Customers and enabling people who had essentially been excluded from the market.
+Interviewer,And this was true in banking it was true and furniture was true and in transportation and i found hundreds.
+Dorsey,Of examples of of this phenomenon and and when i sort of dove down into it what i saw.
+Interviewer,Was that at the core with something i sort of had to come up with a name for i called it an innovation stack and it's.
+Dorsey,It's the mess that you have to create when you're doing something new and that was sort of the big insight of.
+Interviewer,The book which is that square because we were trying to serve customers who were basically excluded.
+Dorsey,From normal rails of commerce as as i was you know as a small glassblower but you.
+Interviewer,Know as my friends were like i know it was to be left out and then when we started to.
+Dorsey,Build tools for these people what we discovered was that the entire payments ecosystem assumed.
+Interviewer,That people like our customers weren't there it just drew the line it.
+Dorsey,Said we're not going to serve anybody below this line um and so what square does we started.
+Interviewer,Building new tools for ourselves first to make these connections and that collection of tools became an innovation.
+Dorsey,Stack and i saw this pattern again and again and again so that's why i wrote the book.
+Interviewer,Was because it's this very powerful message which is to say that.
+Dorsey,By serving the underserved you can create something that's so powerful that it can you know withstand an attack.
+Interviewer,From a company like amazon and ultimately grow it into something that's very very significant.
+Dorsey,Thanks for that one of the reasons i personally love working here at square is that we're a mission driven.
+Interviewer,Organization with a strong purpose believing that the communities we serve are our most important foundation.
+Dorsey,So i'd love to hear from the two of you on um how do the connection square creates um connect with the communities.
+Interviewer,We serve or how should they well i i don't think it's any different.
+Dorsey,From our customer focus like we have to we have to be in tune with like who we're serving and those people.
+Interviewer,Are in tune with a particular community and those communities might intersect with a bunch.
+Dorsey,Of other communities that we're not aware of so i think the simplest answer to your.
+Interviewer,Question it's just like to be very customer focused and one of the challenges in building.
+Dorsey,Square early on was you know jim had a glass factory and would blow glass and sell it but it.
+Interviewer,Wasn't his every single day like the people we were serving they were trying to.
+Dorsey,Build coffee stores and they were flight instructors and there were flower carts they're going out every.
+Interviewer,Single day and selling something so we weren't our customers and when you are building something.
+Dorsey,Where you are your customer the next step is fairly obvious when you're not the customer.
+Interviewer,The the next step isn't as much so you have to observe a lot more you have to talk with our.
+Dorsey,Customers a lot more you have to understand what they're trying to do.
+Interviewer,And not take direction from them because if you take direction from them you tend to get into.
+Dorsey,A a situation where you're building something for a very specific.
+Interviewer,Niche instead of something that's more broad-based so it's observing patterns listening.
+Dorsey,Learning like what connects all the dots and then adding our own opinions on top of it and.
+Interviewer,Then building ahead of our customers expectations so we to really build up a muscle of.
+Dorsey,Getting better at talking with who we serve on a more regular basis and that's why we put.
+Interviewer,An emphasis on customer service early on in the company jim was often found in the headphones.
+Dorsey,He's wearing right now on the phone with people who are angry at us.
+Interviewer,Or in rare cases thrilled with us and um in every one of those conversations we learn.
+Dorsey,Something and enough of those conversations informed decisions going forward.
+Interviewer,Yeah having seller dna at the core of the company was super helpful uh for instance square didn't hold any.
+Dorsey,Focus groups yeah there were like no one-way mirrors um in our early days and i still think.
+Interviewer,Today um we stay in touch by a very organic connection to people.
+Dorsey,And what their lives are like and how they run their businesses and how intertwined those things are and.
+Interviewer,You know one of the things that we saw during the pandemic which i was super proud of.
+Dorsey,Was how quickly square responded to this outcry i mean companies were being shut down.
+Interviewer,Little businesses were like wiped out um but the thing about little businesses is they're incredibly adaptable.
+Dorsey,As long as you give them the tools they need and square was literally on a cadence.
+Interviewer,Of releasing a new product on a daily basis sometimes partially you know partial releases in.
+Dorsey,The middle of the day it was it was so wonderful in the you know time of the tragedy to.
+Interviewer,See a company that was still connected that closely to its customers they couldn't respond that fast.
+Dorsey,Uh well as we talked about at the beginning of this session square was born out of gym being unable to process.
+Interviewer,A payment um so how is our developer platform an extension of that initial spark.
+Dorsey,And what does it mean for square now to have third party developers helping ensure that sellers never miss a payment.
+Interviewer,I think it's less about that and more about we realize it's a self-awareness that we're.
+Dorsey,Not going to be able to build everything and our value is only as good as who chooses to use us and what how they.
+Interviewer,Choose to own what we build in their own way so in some cases it's it's very much you.
+Dorsey,Know consumer focus where i'm gonna use what you have and i'll customize it my own way.
+Interviewer,Based on the tools that you give me as you go a level deeper developers come in the mix.
+Dorsey,And it might be a small business that has four locations that hires an independent developer to.
+Interviewer,Do something that the software doesn't do but um the functionality in the api allows.
+Dorsey,Or you go a level deeper than that and you create an entire company based on.
+Interviewer,The platform but it should scale to every you know every foundational level along.
+Dorsey,That so uh it's you know how do we how do we build a platform that enables people to.
+Interviewer,As they get more sophisticated with their understanding of what they want they can build.
+Dorsey,With complete optionality with complete freedom without having to think about us at all.
+Interviewer,And you know i think in both gemiini our cases like as we've learned about technology we've been able to go deeper.
+Dorsey,And deeper and deeper and deeper and as the technology unfolds gracefully you can make it more powerful.
+Interviewer,And as people make it more powerful square becomes more viable to those developers those customers and.
+Dorsey,Also to the world so the more we can open up the more we can um.
+Interviewer,We can we can give back uh in whatever way the the more people we're going to be.
+Dorsey,Able to serve ultimately jim anything to add there only that you know the.
+Interviewer,The humility that you have to have if you start dealing with massive numbers of customers um is is.
+Dorsey,Not lost on me or this company um the the needs of the individual.
+Interviewer,Businesses these are really very specific and um i love the fact that we've got a.
+Dorsey,Developer community right now that's helping us meet those needs better because as jack said we can't build for.
+Interviewer,Everybody but we can give an api and expose the things that we need to do uh to make.
+Dorsey,Them work and i was literally in a place a couple of weeks ago where somebody had uh.
+Interviewer,They were not in the united states but they bought the square hardware because our hardware was so awesome that.
+Dorsey,They were using the hardware uh because it was the thing that served their need in a little community that.
+Interviewer,Had been just like devastated by the pandemic and i was happy to see that.
+Dorsey,You know in that case they were able to pick something from our stack and make it work.
+Interviewer,That's great well we're down to our very last question and it's a big bold question.
+Dorsey,I'd love to hear from the two of you what is the 5 10 and even 100 year plan for square.
+Interviewer,Um well i believe that anyone who has a firm understanding of what.
+Dorsey,The next five years or 10 years or 100 years looks like or how they might build is probably wrong.
+Interviewer,I think the more important thing is to understand the trends and i think the trends that will affect.
+Dorsey,Us the most will be artificial intelligence will be cryptocurrency and bitcoin.
+Interviewer,Having a native currency for the internet will be regulatory um issues both defensive and.
+Dorsey,Proactive by various governments around the world those are the things that will impact our company our business our.
+Interviewer,Customers the most um and it's not a question of like having a perfect roadmap or a vision for.
+Dorsey,The next five or ten years it's more about being agile enough to understand.
+Interviewer,This is the trend it's obvious here's what we're going to do with it are we going to.
+Dorsey,Utilize it to our advantage are we going to react it react to it and block it in a particular.
+Interviewer,Way are we going to ignore it at whatever cost it's it's that understanding.
+Dorsey,That i think is the most important and um for us over the next five ten years it's to me.
+Interviewer,Those are the biggest trends ai cryptocurrency bitcoin and um regulatory.
+Dorsey,Yeah i would just say that you know the core of this is humility the thing that you want to not do is.
+Interviewer,Think you know what the future's gonna hold because if you do that you'll end up.
+Dorsey,Making decisions and then you tend to cling to your decisions uh when evidence tells you otherwise.
+Interviewer,Uh and we've seen that you know in the last year uh played out uh i i have to really.
+Dorsey,Compliment jack because before it was trendy to do remote work uh jack was at the.
+Interviewer,Board of directors saying we're gonna have remote board meetings and all of our board members were like no no no.
+Dorsey,We'll miss the dinners and you know larry summers gives great hugs you know and we didn't want to have this.
+Interviewer,Um you know we didn't want to have our party broken up but jack was adamant.
+Dorsey,That we needed to to do this and then lo and behold we got a pandemic and we don't miss a beat um uh.
+Interviewer,The other thing i think is important and it's something that i watch uh through you know these little proxies is.
+Dorsey,Is what's our cadence of shipping product what's a cadence of getting solutions out to customers and i've seen.
+Interviewer,That cadence you know sort of tick up continually over time and that's so exciting.
+Dorsey,Because what companies typically do is they get comfortable and then they go oh yeah we're just.
+Interviewer,Going to sit here and ride it you know like when we started square we really looked for innovation in payments.
+Dorsey,And we found nothing like the preceding decade was this complete blank as far as stuff that was.
+Interviewer,Done uh and i'd say since then um square and companies.
+Dorsey,You know that have been inspired hopefully by square have have really taken that innovation up and i.
+Interviewer,Just love the fact that we got a developer community because that's just so many more brains.
+Dorsey,On the problem although i i will say like that the year the year we started was a very.
+Interviewer,Auspicious year because um 2008 2009 is when the global banking system.
+Dorsey,Collapsed and we emerged from that and also bitcoin.
+Interviewer,And all of cryptocurrency emerged from that moment so there was something in the air where the.
+Dorsey,Financial system was ready to be questioned and we had a few answers and satoshi had a few.
+Interviewer,Answers and others had more answers as well but there was something special about that.
+Dorsey,Time that i think we'll carry forth for the next few decades that you know we're gonna.
+Interviewer,We're all gonna learn from and i think will uh impact the world in a positive way.
+Dorsey,Couldn't agree more very excited to see what's come down the road uh well thank you so much jack and jim.
+Interviewer,For participating in this session and for all of you that are viewing it from home we appreciate you taking out.
+Dorsey,The time to hear from square and our co-founder you.

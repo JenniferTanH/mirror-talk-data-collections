@@ -1,0 +1,1488 @@
+i am so excited to be here with jim
+
+mckelvey and jack dorsey
+
+square's two co-founders to talk about
+
+um
+
+all things square and how it started
+
+what the origination was
+
+and how we're thinking about the
+
+developer community so for those of you
+
+who don't know
+
+square started because jim who owns a
+
+glassblowing factory
+
+uh was unable to process a payment and
+
+was really bothered by that
+
+understandably about losing customers
+
+and started pairing up with his pal
+
+jack and they came up with this solution
+
+um so i'd love to hear from the two of
+
+you
+
+um how you first connected before square
+
+even was born
+
+so um jack came to work for me
+
+at a company that i actually still have
+
+um but
+
+at the time we were uh very poorly
+
+managed and
+
+supplemented our bad management with his
+
+uh mother's product which was uh
+
+chocolate covered coffee beans which we
+
+would chew
+
+up and uh keep the staff awake so marcia
+
+dorsey was effectively our dealer
+
+um and we found one day that her son
+
+liked computers that's all we knew
+
+and so my partner invited john invited
+
+jack to come over
+
+to work with us and he happened to show
+
+up in the middle of this
+
+chaotic mess and uh pulled an
+
+all-nighter with us the first night
+
+so we sent him home at five in the
+
+morning and i guess i'll let jack finish
+
+the story since i think it goes on from
+
+there
+
+well i got yelled at by my mom she um
+
+she hated jim um cursed his name
+
+to this day but has forgiven him for
+
+some things
+
+but no i might
+
+my parents always encouraged
+
+me to follow my own path
+
+and competing was one one big part of
+
+that and
+
+uh jim's company and that work was
+
+a great way for me to experience
+
+what i ultimately wanted to do which was
+
+programming and i was super early
+
+in the programming computers at that
+
+point another story
+
+some of you may not know is square's
+
+very first customer
+
+was a woman named sherry who owned lily
+
+bell flowers in san francisco
+
+and when jack and jim finally had a
+
+prototype for their hardware
+
+they approached her at a market and
+
+asked her if she wanted to try it out
+
+uh taking credit card payments she
+
+showed a little bit of hesitancy and
+
+wasn't quite sure but just as they were
+
+having that conversation
+
+a customer a potential customer walked
+
+up to her um and said that he didn't
+
+have any cash but he would go
+
+get someone come back and so they waited
+
+around and waited around and lo and
+
+behold
+
+the customer never returned and so that
+
+really
+
+helped just fuel even more so the need
+
+to create
+
+this hardware and provide this to
+
+sellers who are trying to capture every
+
+type of payment
+
+um so i'd really love to hear how does
+
+this kind of customer centricity
+
+lead to innovation well i it wasn't one
+
+time that we did that like
+
+we went on a cherry multiple times
+
+um and asked her if she would try or
+
+work on and she
+
+repeatedly said no um
+
+until the point when she lost the sale
+
+and that was the biggest insight we we
+
+originally thought that we were building
+
+a
+
+credit card reader that plugged in the
+
+phone and had an easy
+
+app that got you to the visa or
+
+mastercard or
+
+acquiring gateway but ultimately what we
+
+learned in that moment
+
+and it we didn't i don't think we
+
+realized it in that moment but what we
+
+learned
+
+over time was it wasn't about building
+
+the credit card reader is about making
+
+the sale
+
+helping installer make the sale if we
+
+focused only on building a
+
+little plastic device that plugged into
+
+the headphone jack and built some
+
+software around that would be a very
+
+very small not very impactful company
+
+but because we focused on a deeper
+
+problem
+
+which was how do we help us all and make
+
+the sale in the first place
+
+we expanded our entire universe of
+
+solutions so a credit card reader is one
+
+solution that point of sale is another
+
+solution
+
+because it allows someone to see their
+
+entire business and
+
+get analytics around how they're doing
+
+and make better decisions
+
+lending is another solution
+
+which came in the form of square capital
+
+and so on and so forth so by by going a
+
+little bit deeper into
+
+the observation what we're seeing we
+
+created something much more valuable
+
+than
+
+what we started with yeah it was also
+
+interesting
+
+when we got the first ipad uh
+
+because instead of being restrained to
+
+you know this much screen area we had a
+
+full ipad's worth
+
+and so that naturally led us to thinking
+
+about all the other things that
+
+our customers had to do we had some
+
+customers at that point but not very
+
+many
+
+um at least not compared to today and
+
+it's really
+
+interesting if you think of payments as
+
+this
+
+wonderfully honest form of communication
+
+you know what you spend your money on
+
+are things you value
+
+what you think spend your money on is is
+
+almost as important as what you spend
+
+your time on in some ways
+
+and so it's a really interesting insight
+
+into what matters for a business and if
+
+you start connecting to that
+
+it naturally leads to a very rich
+
+ecosystem
+
+that's awesome uh talk to me about how
+
+you engage with the developer
+
+communities
+
+as you're building up square were there
+
+certain forms that you all
+
+used or communities that you contributed
+
+to how do you think that's changed if
+
+any uh
+
+to today when we first started we didn't
+
+i mean we consciously decided not to
+
+engage with the developer community
+
+because we
+
+you know we had we had a bunch of
+
+experience with apis in the past and
+
+like how
+
+much um they could potentially be abused
+
+and given that we were dealing with
+
+money
+
+and moving money around we want to make
+
+sure we had a lot of control
+
+over how our system was working
+
+and we'd have enough people staff
+
+engineering resources to make sure that
+
+we could build the right constraints
+
+um to start so we we didn't really start
+
+with the developer community until
+
+a few years in um and
+
+again it was a conscious choice our
+
+first focus was
+
+one specific customer which was a seller
+
+who otherwise would not be able to
+
+accept a credit card
+
+and we just stayed focused until we had
+
+a much stronger base and a greater
+
+understanding of where to go from there
+
+and then as we got the right engineering
+
+talent
+
+and we understood like what we were
+
+building
+
+and we understood like what the right
+
+endpoints were
+
+we started building out the developer
+
+community
+
+and um a lot of it came from
+
+you know just making sure that anything
+
+we build internally
+
+ultimately could we export it externally
+
+like we should be a client of our own
+
+platform
+
+ideally and that's how we
+
+originally started building the the
+
+system and
+
+you know in many cases we succeeded in
+
+some cases we failed but
+
+we're up we're able to learn very fast
+
+and
+
+build a platform that i think
+
+you know not only exposes a bunch of
+
+new functionality to the world
+
+especially around commerce for sellers
+
+but also encourages entirely new ways of
+
+doing commerce and doing business and
+
+that's just on the seller side we have
+
+much more work to do
+
+on the cash up side which is super
+
+exciting as well
+
+i'd also add that you know there's sort
+
+of an inherent respect for the
+
+development community because both jack
+
+and i are engineers
+
+so it's sort of odd to have a company
+
+founded by two technical
+
+folks but um you know i remember back
+
+even when jack was working with me
+
+almost 30 years ago he was contributing
+
+uh to the open source community he was
+
+writing for linux i remember uh
+
+twiddler the uh corded input device that
+
+you wrote a driver for
+
+um and uh you know that
+
+plus open source has been an area of you
+
+know sort of
+
+deep respect and so i think although we
+
+kind of came to it late
+
+uh i think we came to it well and i
+
+think you see that respect in the
+
+products that square offers and the way
+
+we treat developers
+
+i want to switch now to talking about uh
+
+support and
+
+and how we think about the interactions
+
+that our sellers have with us
+
+as lauren mentioned i have the privilege
+
+of leading the customer success team
+
+here at square
+
+so my team knows definitely how critical
+
+it is that we are providing great
+
+experiences to our sellers
+
+and helping them through really critical
+
+time sensitive initiatives
+
+um that are really challenging to their
+
+business so i'd love to hear from you
+
+what connections does square enable for
+
+its sellers
+
+so i i think the most important thing
+
+that square does for the sellers is it
+
+makes
+
+much of the tedium invisible in other
+
+words if you use square if you're part
+
+of our ecosystem
+
+and you're running your business you can
+
+spend just a little more time focused on
+
+your business
+
+as opposed to worrying about accounting
+
+withholding and you know paying off this
+
+loan and managing all these various
+
+connections
+
+and one of the great uh tragedies
+
+that people experience is they're good
+
+at something they've got this skill and
+
+they say oh i'm good enough i'm going to
+
+open a business
+
+and then when they open that business
+
+they realize that they don't get to
+
+actually do the thing they're good at
+
+because they're
+
+buried with all this other stuff and so
+
+what we've always tried to do with
+
+square is
+
+is just sort of make those problems go
+
+away and
+
+uh you know jack and always jack and i
+
+always discussed in the early days
+
+how the ultimate success would not be
+
+famous but would to be invisible to
+
+actually be this utility layer that
+
+didn't get noticed and i think we still
+
+aspire to that and to the extent that
+
+people use our products without even
+
+realizing how much is going into those
+
+products it's a big win
+
+i have anything to add there no i mean
+
+our the name of our company kind of
+
+indicates what we want to be
+
+which is plain um
+
+out of sight foundational pouring
+
+we we didn't want to put our brand
+
+before
+
+our customers ultimately whether the
+
+customer be
+
+our seller or a developer
+
+we we wanted to fade into the background
+
+as much as we could
+
+and we chose the name accordingly it's a
+
+boring
+
+brand by design um
+
+and uh you know when we were first
+
+talking to our designers and brand
+
+people
+
+they got so upset and insulted that we
+
+wanted to build a boring brand because
+
+their work is anything but but it takes
+
+a lot of work to build
+
+something that is so a brand that is so
+
+foundational
+
+and um nondescript and invisible
+
+that it is apparent we had a lot going
+
+for us and just
+
+our hardware the shape of our reader
+
+was our name the
+
+the structure of our first ipad register
+
+indicated the same shape even though it
+
+wasn't exactly that
+
+so we relied a lot upon
+
+what people put on top of their counter
+
+to reference
+
+our brand more so than having a flashy
+
+name or something that was truly in your
+
+face
+
+yeah if you're excited about your
+
+payment system it's probably negative
+
+energy
+
+that's true very true uh jim i'd love to
+
+hear how do the connections that square
+
+creates
+
+uh fit into the notion of the innovation
+
+stack
+
+so i was confounded by something that
+
+happened at square which is that we
+
+survived an attack by amazon when we
+
+were still
+
+a startup and i couldn't answer the
+
+question
+
+how did we survive and so what i did was
+
+i went on this
+
+it was basically a two year research
+
+quest looking at other companies that
+
+had been in the same situation
+
+and i discovered something that was
+
+really interesting which was
+
+that all the companies that had been in
+
+similarly
+
+deadly situations and had survived and
+
+thrived
+
+were all focused on very very small
+
+customers and enabling people who had
+
+essentially been excluded from the
+
+market
+
+and this was true in banking it was true
+
+and furniture was true and
+
+in transportation and i found hundreds
+
+of examples of
+
+of this phenomenon and and when i sort
+
+of dove down into it what i saw
+
+was that at the core with something i
+
+sort of had to come up with a name for i
+
+called it an innovation stack and it's
+
+it's the mess that you have to create
+
+when you're doing something new
+
+and that was sort of the big insight of
+
+the book which is that
+
+square because we were trying to serve
+
+customers who were basically excluded
+
+from normal rails of commerce as as i
+
+was
+
+you know as a small glassblower but you
+
+know as my friends were
+
+like i know it was to be left out and
+
+then when we started to
+
+build tools for these people what we
+
+discovered was that
+
+the entire payments ecosystem assumed
+
+that people like
+
+our customers weren't there it just drew
+
+the line it
+
+said we're not going to serve anybody
+
+below this line um
+
+and so what square does we started
+
+building new tools for ourselves first
+
+to make these connections and that
+
+collection of tools became an innovation
+
+stack
+
+and i saw this pattern again and again
+
+and again so that's why i wrote the book
+
+was because
+
+it's this very powerful message which is
+
+to say that
+
+by serving the underserved you can
+
+create something that's so powerful
+
+that it can you know withstand an attack
+
+from a company like amazon and
+
+ultimately grow it into something that's
+
+very very significant
+
+thanks for that one of the reasons i
+
+personally love working here at square
+
+is that we're a mission driven
+
+organization with a strong purpose
+
+believing that the communities we serve
+
+are our most important foundation
+
+so i'd love to hear from the two of you
+
+on um how do the connection square
+
+creates um connect with the communities
+
+we serve or how
+
+should they
+
+well i i don't think it's any different
+
+from our customer focus like we have to
+
+we have to be in tune with like who
+
+we're serving and those people
+
+are in tune with a particular community
+
+and those
+
+communities might intersect with a bunch
+
+of other communities that we're not
+
+aware of
+
+so i think the simplest answer to your
+
+question it's just like to be very
+
+customer focused
+
+and one of the challenges in building
+
+square early on was
+
+you know jim had a glass factory and
+
+would blow glass and sell it but it
+
+wasn't
+
+his every single day like the people
+
+we were serving they were trying to
+
+build coffee stores and they were flight
+
+instructors and there were
+
+flower carts they're going out every
+
+single day and selling something
+
+so we weren't our customers
+
+and when you are building something
+
+where you are your customer
+
+the next step is fairly obvious when
+
+you're not the customer
+
+the the next step isn't as much so you
+
+have to observe
+
+a lot more you have to talk with our
+
+customers a lot more
+
+you have to understand what they're
+
+trying to do
+
+and not take direction from them because
+
+if you take
+
+direction from them you tend to get into
+
+a
+
+a situation where you're building
+
+something for a very specific
+
+niche instead of something that's more
+
+broad-based
+
+so it's observing patterns listening
+
+learning like what connects all the dots
+
+and then
+
+adding our own opinions on top of it and
+
+then building
+
+ahead of our customers expectations so
+
+we to really build up a muscle of
+
+getting better at talking with who we
+
+serve on a more regular basis and that's
+
+why we put
+
+an emphasis on customer service early on
+
+in the company
+
+jim was often found in the headphones
+
+he's
+
+wearing right now on the phone with
+
+people who are angry at us
+
+or in rare cases thrilled with us
+
+and um in every one of those
+
+conversations we learn
+
+something and enough of those
+
+conversations informed decisions going
+
+forward
+
+yeah having seller dna at the core of
+
+the company was super helpful
+
+uh for instance square didn't hold any
+
+focus groups yeah there were like no
+
+one-way mirrors
+
+um in our early days and i still think
+
+today
+
+um we stay in touch by a very organic
+
+connection to people
+
+and what their lives are like and how
+
+they run their businesses and how
+
+intertwined those things are and
+
+you know one of the things that we saw
+
+during the pandemic which i was super
+
+proud of
+
+was how quickly square responded to this
+
+outcry i mean companies were being shut
+
+down
+
+little businesses were like wiped out um
+
+but the thing about little businesses is
+
+they're incredibly adaptable
+
+as long as you give them the tools they
+
+need and square was literally on a
+
+cadence
+
+of releasing a new product on a daily
+
+basis sometimes
+
+partially you know partial releases in
+
+the middle of the day it was it was so
+
+wonderful in the you know time of the
+
+tragedy to
+
+see a company that was still connected
+
+that closely to its customers they
+
+couldn't respond that fast
+
+uh well as we talked about at the
+
+beginning of this session square was
+
+born out of gym being unable to process
+
+a payment um
+
+so how is our developer platform an
+
+extension of that initial spark
+
+and what does it mean for square now to
+
+have third party developers helping
+
+ensure that sellers never miss a payment
+
+i think it's less about that and more
+
+about we
+
+realize it's a self-awareness that we're
+
+not going to be able to build everything
+
+and our value is only as good as
+
+who chooses to use us and what how they
+
+choose to own
+
+what we build in their own way so
+
+in some cases it's it's very much you
+
+know consumer focus where
+
+i'm gonna use what you have and i'll
+
+customize it my own way
+
+based on the tools that you give me as
+
+you go a level deeper developers come in
+
+the mix
+
+and it might be a small business that
+
+has four locations that
+
+hires an independent developer to
+
+do something that the software doesn't
+
+do but
+
+um the functionality in the api allows
+
+or
+
+you go a level deeper than that and you
+
+create an entire company based on
+
+the platform but it should scale to
+
+every
+
+you know every foundational level along
+
+that
+
+so uh it's you know how do we how do we
+
+build a platform that enables people to
+
+as they get more sophisticated with
+
+their understanding of what they want
+
+they can build
+
+with complete optionality with complete
+
+freedom
+
+without having to think about us at all
+
+and you know i think in both gemiini
+
+our cases like as we've learned about
+
+technology we've been able to go deeper
+
+and deeper and deeper and deeper
+
+and as the technology unfolds gracefully
+
+you can make it more powerful
+
+and as people make it more powerful
+
+square becomes more viable to
+
+those developers those customers and
+
+also to the world so
+
+the more we can open up the more we can
+
+um
+
+we can we can give back uh in whatever
+
+way
+
+the the more people we're going to be
+
+able to serve ultimately
+
+jim anything to add there only that you
+
+know the
+
+the humility that you have to have if
+
+you start dealing with
+
+massive numbers of customers um is is
+
+not lost on
+
+me or this company um
+
+the the needs of the individual
+
+businesses these are really very
+
+specific
+
+and um i love the fact that we've got a
+
+developer community right now that's
+
+helping us meet those needs better
+
+because as jack said we can't build for
+
+everybody but we can give an api and
+
+expose
+
+the things that we need to do uh to make
+
+them work and i was literally
+
+in a place a couple of weeks ago where
+
+somebody had uh
+
+they were not in the united states but
+
+they bought the square hardware
+
+because our hardware was so awesome that
+
+they were using the hardware
+
+uh because it was the thing that served
+
+their need in a little community that
+
+had been just
+
+like devastated by the pandemic and i
+
+was happy to see that
+
+you know in that case they were able to
+
+pick something from our stack and make
+
+it work
+
+that's great well we're down to our very
+
+last question and it's a big bold
+
+question
+
+i'd love to hear from the two of you
+
+what is the 5
+
+10 and even 100 year plan for square
+
+um well i
+
+believe that anyone who has a firm
+
+understanding of what
+
+the next five years or 10 years or 100
+
+years looks like or
+
+how they might build is probably wrong
+
+i think the more important thing is to
+
+understand the trends
+
+and i think the trends that will affect
+
+us the most will be
+
+artificial intelligence will be
+
+cryptocurrency and bitcoin
+
+having a native currency for the
+
+internet will be
+
+regulatory um issues both defensive and
+
+proactive by various governments around
+
+the world those are the things that
+
+will impact our company our business our
+
+customers the most
+
+um and it's not a question of like
+
+having a perfect roadmap or a vision for
+
+the next five or ten years
+
+it's more about being agile enough to
+
+understand
+
+this is the trend it's obvious
+
+here's what we're going to do with it
+
+are we going to
+
+utilize it to our advantage are we going
+
+to react it
+
+react to it and block it in a particular
+
+way are we going to ignore it
+
+at whatever cost it's it's that
+
+understanding
+
+that i think is the most important and
+
+um for us
+
+over the next five ten years it's to me
+
+those are the biggest trends
+
+ai cryptocurrency bitcoin
+
+and um regulatory
+
+yeah i would just say that you know the
+
+core of this is humility
+
+the thing that you want to not do is
+
+think you know what the future's gonna
+
+hold
+
+because if you do that you'll end up
+
+making decisions and then you
+
+tend to cling to your decisions uh when
+
+evidence tells you otherwise
+
+uh and we've seen that you know in the
+
+last year uh
+
+played out uh i i have to really
+
+compliment jack because before it was
+
+trendy
+
+to do remote work uh jack was at the
+
+board of directors saying we're gonna
+
+have remote board meetings and all of
+
+our board members were like no no no
+
+we'll miss the dinners and
+
+you know larry summers gives great hugs
+
+you know and we didn't want to have this
+
+um
+
+you know we didn't want to have our
+
+party broken up but jack was adamant
+
+that we needed to to do this and then lo
+
+and behold we got a pandemic
+
+and we don't miss a beat um uh
+
+the other thing i think is important and
+
+it's something that i watch uh
+
+through you know these little proxies is
+
+is what's our cadence of shipping
+
+product what's a cadence of getting
+
+solutions out to customers and i've seen
+
+that cadence you know sort of
+
+tick up continually over time and that's
+
+so exciting
+
+because what companies typically do is
+
+they get comfortable
+
+and then they go oh yeah we're just
+
+going to sit here and ride it you know
+
+like when we started square we really
+
+looked for innovation in payments
+
+and we found nothing like the preceding
+
+decade was this
+
+complete blank as far as stuff that was
+
+done
+
+uh and i'd say since then um square and
+
+companies
+
+you know that have been inspired
+
+hopefully by square have have
+
+really taken that innovation up and i
+
+just love the fact that we got a
+
+developer community
+
+because that's just so many more brains
+
+on the problem
+
+although i i will say like that the year
+
+the year we started was a very
+
+auspicious year because
+
+um 2008 2009
+
+is when the global banking system
+
+collapsed
+
+and we emerged from that and also
+
+bitcoin
+
+and all of cryptocurrency emerged from
+
+that moment so
+
+there was something in the air where the
+
+financial system was ready
+
+to be questioned and we had
+
+a few answers and satoshi had a few
+
+answers and
+
+others had more answers as well but
+
+there was something special about that
+
+time that i think we'll carry forth
+
+for the next few decades that you know
+
+we're gonna
+
+we're all gonna learn from and i think
+
+will uh impact the world in a positive
+
+way
+
+couldn't agree more very excited to see
+
+what's come down the road
+
+uh well thank you so much jack and jim
+
+for participating in this session
+
+and for all of you that are viewing it
+
+from home we appreciate you taking out
+
+the time to hear from
+
+square and our co-founder
+
+you
+

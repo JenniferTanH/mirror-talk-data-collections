@@ -1,0 +1,52 @@
+name,line
+Interviewer,What important truth do very few people agree with you on?
+Paul,That the axiomatic approach John McCarthy used when defining Lisp is the optimal way to design general-purpose programming languages.
+Interviewer,"You seem to have a pretty strong and clear philosophy and vision for the future of our society, but did you have one when you were 20? If so, how has that vision evolved or changed?"
+Paul,"All I had when I was 20 was a collection of hunches. That software was going to take over everything, for example. This collection of hunches has now grown so much that it looks like a complete vision, but it really isn't. And indeed, I wouldn't want it to be. Ideology is constraining. I'd rather have a patchwork model of the world based on experience."
+Interviewer,What trait do you look for in founders and/or partners that is undervalued by most others?
+Paul,"Earnestness. This seems a rather Victorian quality to care about, but the founders who end up doing the best are all earnest. They're not starting a startup because it's the cool thing to do, or to make a quick buck, but because it's how they want to work."
+Paul,"Ditto for partners. The best partners are the ones who genuinely want to help founders, not the ones who want to work for YC because it's prestigious or because they can make a lot of money."
+Interviewer,"In your essays, you are critical of philosophy, but what do you make of the fact that you, Peter Thiel, and Reid Hoffman all studied philosophy? Do you think this suggests something valuable about the study of philosophy that might be hard to identify, or merely something about the type of person that decides to study philosophy?"
+Paul,I studied philosophy because of what it seemed to be. It seemed to promise a direct route to the most general truths. You can imagine how that might lure in an ambitious but naive high school student. Maybe that's what happened to Peter and Reid too.
+Paul,"I do think it's possible to do philosophy in a way that's useful, though. I wrote about this in ""How to Do Philosophy.""."
+Interviewer,When in your life have you felt the most lost? How did you deal with that?
+Paul,"Probably in high school. I went to a random high school in the suburbs of Pittsburgh. It was the sort of school you see in movies about high schools, where the administration cares mostly about discipline and the students mostly about sports and popularity and partying."
+Paul,"The kids who cared about sports and popularity and partying probably had a great time. But for the kids who cared about learning, life in those years consisted of a pointless but exacting dance you had to perform in order to get into a good college. It was pretty demoralizing."
+Paul,"I dealt with this partly by working on my own projects, partly by working hard for the few teachers I had who were good, partly by being a typical rebellious high school kid (which in retrospect was a waste of time), but mostly just by trying to hang on till I could escape to college."
+Paul,"At the time I worried all of life might be a similarly pointless jumping through hoops, but fortunately in college I discovered there was a thin stream of people in the world who were interested in ideas and making new stuff, and I've tried to stay in that stream ever since."
+Interviewer,What is your media diet?
+Paul,"Twitter and Hacker News are my main sources of news. I see interesting articles when people post links to them. But the best articles tend to be written by individuals, not journalists."
+Interviewer,What publications do you read regularly?
+Paul,"There's no publication I read regularly in the sense of starting at their site. If I see a newspaper or magazine I'll pick it up and read it (and unless it's The Economist, usually be disappointed), but there's nothing I subscribe to. I assume that if I try to subscribe to something, I'll have to fill out a form with 20 fields, that there will be no option to subscribe in a way that doesn't auto-renew, and that to make it difficult to cancel, I'll be made to call someone on the phone if I want to. So I just skip that whole mess."
+Interviewer,How much time do you spend on Twitter? Do you feel like you're being productive when you're using Twitter?
+Paul,"Way too much. Twitter is basically the junk food of essay writing, which is particularly dangerous for an essayist. Have an idea you want to express? Why not just tweet it? It's less work, and you get instant results. It's like being hungry and eating a candy bar instead of making bean soup."
+Paul,It's slightly productive. You learn things and have new ideas. But not to the degree you would if you were writing essays.
+Interviewer,What does your daily routine look like?
+Paul,"Wake up, take kids to school, work, with exercise and lunch in there somewhere, pick up kids from school, play with kids or do errands, maybe work a bit more if I'm lucky, make dinner (I do the cooking for adults), maybe watch an old TV episode, put kids to bed (a long and varied process, involving everything from philosophy lessons to violent games), read, go to bed."
+Interviewer,How was it different before you had children?
+Paul,"It was totally different before I had kids. Much more flexible, and much more time to work. I didn't have to have any kind of schedule. I would just work all day, taking breaks whenever I wanted, often till 3 in the morning."
+Interviewer,Why did you study painting?
+Paul,"I wanted to make something that would last, and that I could make a living doing. (I could make a much better living writing software of course, but it was demoralizing to think that it would all be discarded within a decade or two at the most.) And I really like looking at paintings, so I was doing what I always advise people to do, and making something I myself wanted."
+Interviewer,Was that a hard decision?
+Paul,"It wasn't a hard decision at the time. I was only 25, and at that age it was easy for me to make a complete left turn. Especially since I had programming to fall back on if the left turn failed."
+Interviewer,What are your hobbies? Do you still paint?
+Paul,"I have enough money now to work on what I want, and when that happens your work and hobbies tend to converge, because whatever you want to do, you can do as much as you want. I spend most of my time writing essays and software, and with my kids. I haven't painted for years."
+Interviewer,What is the most promising startup idea you've heard that didn't succeed?
+Paul,"Maybe Pebble. It could have been the next Apple. But hardware startups are a bitch. External factors can kill you in a way that doesn't happen with software, and you can't do things as gradually as you can with software."
+Interviewer,What is the least promising startup idea you've heard that did succeed?
+Paul,"Airbnb. It was hard for me at first to believe that this idea would work at all, let alone work at the scale it has. But the founders had inside information about its appeal, because they'd been the first hosts."
+Interviewer,What do you think drives the variance in innovation between different countries? Why does it seem like Europe is worse at startups than America is? What do you think and/or know about the culture of startups in China?
+Paul,"I've been thinking about this a lot, because we've been living in England since 2016. I don't know about other countries, but I think the reasons startups are bigger in the US than in England are mostly cultural. In England, the worst social mistake is to brag. You can't say anything that could even be interpreted as bragging. But being ambitious is perilously close to bragging, and it's hard to start a startup without seeming ambitious."
+Paul,"Plus the UK went much further to the left in the 20th century than the US. When Silicon Valley was getting going in the US, being rich was basically banned in the UK. The top tax rate was 98%. That's what the Beatles' song ""Tax Man"" is about. But although the UK is 10 or 20 years behind the US in startups, I have high hopes for this country in the future. People here are smart and hard-working, and political polarization is not as bad as in the US."
+Paul,I know practically nothing about startups in China though.
+Interviewer,Do you plan to ever start another startup?
+Paul,Not if I can help it. I didn't even mean Y Combinator to become as big as it did. I want to write.
+Interviewer,How much can you tell from your first impression of a founder?
+Paul,Jessica and I can tell quite a lot from talking to founders for 10 minutes. Empirically we can narrow a pool of applicants down to about 3%. That's the limit of our precision though. We can't tell which within the 3% are going to be the big winners.
+Interviewer,"Do you think that you have a special eye, or do you think that there's something discernibly different about the best founders that anyone could identify given a few minutes of exposure?"
+Paul,"We do have a special eye now in the sense that we've met so many founders and watched how they turned out. But we had some advantages in the beginning too. I could recognize potential founders because I'd been a founder myself, and Jessica is a famously good judge of character."
+Paul,"I could probably train someone in a day to narrow a pool of applicants down to 50%, but I wouldn't hope for more than that."
+Interviewer,Do you think we will ever be able to create psychometric tests or use AI algorithms that process video/speech interview data to do a better job identifying founder talent?
+Paul,"I would never say never about technology, but you couldn't pick founders now using just software."
+Interviewer,Why do you have a picture of a pedestrian signal in front of a Greek statue on the home page of your website?
+Paul,"I thought that picture was interesting because those are the two extremes of representing the human body. I should swap out the picture though. I didn't mean that one to be on the front page forever, but it's been there so long now that I've stopped noticing it."

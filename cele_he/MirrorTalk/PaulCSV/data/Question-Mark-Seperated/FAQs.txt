@@ -1,0 +1,538 @@
+Will you invest in and/or advise our startup?
+
+I invest in and advise startups through Y Combinator. If you want investment, the way to get it is to apply for our next round of funding. If we fund you, you can have all the advice you want (if not more).
+
+Sorry, but I can't give advice to every startup that writes to me. It's as much as I can do to keep up with the ones we've funded.
+
+Can I mirror an essay on my site?
+
+I'd rather you linked to it instead. I like to keep track of which ones people read, because it gives me ideas of what to write about next. I also like to be able to fix typos.
+
+Can I include an essay in my school newspaper?
+
+Sure, go ahead. Please include the url of the original though.
+
+Can I put a translation into another language online?
+
+Sure. Please include the url of the original, and send me the url of your translation so I can make a link to it.
+
+How long does it take you to write an essay?
+
+Usually about two weeks. What You Can't Say took a month, partly because the topic was so dangerous. How to Start a Startup took a week, because I started it a week before I had to deliver it as a talk. Writing, Briefly was the fastest, at just over an hour.
+
+Why did the school authorities veto the plan to have you give the talk that became "What You'll Wish You'd Known?"
+
+They didn't have anything against me specifically, but because I wouldn't be coming from any organization, they wouldn't have any guarantee I wouldn't say dangerous things. Whereas if I came to speak from IBM or the State Department, and told the students they should all go out and try heroin, I'd be fired.
+
+Which shows one reason public schools lose. A private school would probably have taken the risk, but the administration at a public school has to consider all the fuss parents might make in the worst-case scenario.
+
+Are any of your paintings online?
+
+I don't really consider myself a painter. I was trained in painting, but I haven't worked seriously at it for years. For the curious there is one image online. The painting on the cover of ANSI Common Lisp is also one of mine.
+
+Are you the photographer Paul Graham?
+
+No, that's a different guy.
+
+You say in "Taste for Makers" that setting text in sans serif fonts was a mistake. So why do you use them on your site?
+
+I was talking about books. The resolution of computer screens is much lower.
+
+Why is the text on your site so narrow? It wastes screen space.
+
+The aim of web design is not to use all available screen space. It is legibility. Text is most legible with no more than 70 characters per line.
+
+What editor do you use?
+
+vi.
+
+How can I learn to program?
+
+Find a friend who knows how to program. Get them to set you up with a system where you can edit and run programs. Use whatever language they suggest for a beginner (probably it will be Python or Ruby). Then get the O'Reilly book and start working through it.
+
+As you learn the mechanics of writing and running a program, start thinking about specific programs you want to write. That will motivate you to learn more.
+
+Don't start with a problem that's too big. A good way to begin is to take an existing program and modify it to do something new.
+
+Initially your programs will be ugly, but don't worry about that. Everyone's are. Just keep going, and they'll get better.
+
+As you learn, you'll find it useful to look at programs other people have written. But you'll learn more from this once you've tried programming yourself.
+
+Finally, find friends who like to write programs. They can answer your technical questions; you'll get new ideas from talking to them; and they'll be the audience for your first efforts.
+
+Why do you advise plunging right into a programming project instead of carefully planning it first?
+
+If you're trying to solve a simple, predefined problem like doing a depth-first search, thinking everything out beforehand doesn't hurt. But few real problems are like that. In real-world applications, you don't usually know at first precisely what problem you're trying to solve. So if you spend a lot of time planning in advance, what you'll end up with is a minutely detailed plan for solving the wrong problem.
+
+With complex, ill-defined problems, you're better off writing a prototype as fast as you can, seeing what turns out to be wrong with it, and then changing your definition of the problem accordingly.
+
+Often the reason programmers are pushed into planning is not that the problem requires it, but that project managers require it. Maybe programmers should give managers an explicit choice: do you want me to solve the problem in the way that will make you feel good, or the way that will yield the best solution?
+
+Why do you keep going on about Lisp?
+
+There are a number of topics I go on about: that small companies do things better than big ones; that cubicles suck; that you have to understand design to be a good hacker; that planning is overrated. Those don't seem so conspicuous, because many readers either have no prior opinion, or already agree.
+
+It doesn't cost anything to realize that cubicles suck. Few people have a vested interest in one style of office over another. But everyone has a vested interest in the languages they already know, because (a) it is a lot of work to learn a new language, and (b) programming languages dictate how you think about programs, so it is hard even to conceive of a language more powerful than whatever you're used to.
+
+Dissing someone else's language is considered rude, I know. But rude is not the same as false. And any language designer has to face awkward questions like which languages are better, and why, just as proctologists have to do things that would be considered extremely rude if ordinary people did them.
+
+Isn't object-oriented programming naturally suited to some problems?
+
+Yes and no. A lot of what seem to be OO problems turn out not to be if you have random access to the concepts that together comprise object-orientedness.
+
+If I were writing a CAD program or a simulation, for example, I'd probably use OO abstractions (though I'd probably end up creating my own OO model with macros instead of using whatever came with the language).
+
+But if I were trying to solve the problem one reader sent to me as a canonical example of an OO problem, I wouldn't.
+Suppose you have n serial ports, each of which may speak one of k protocols, and this must be configurable at run-time.
+I'd just use an n-by-k array of closures to represent this.
+
+Where do you find co-founders?
+
+Most successful startups have more than one founder, and usually the founders seem to have been friends for at least a year before starting the company. The best way to meet co-founders is to go to school with them, so recent grads have a big advantage there. You can also meet co-founders at work, but be careful not to violate whatever noncompete you signed. In the old days, co-founders often met through user groups, but this seems less common now.
+
+How can someone start a startup if they have a family to support?
+
+The best plan might be to start a consulting business that you can gradually morph into a startup. This way you always have a source of income. See How to Fund a Startup, especially the section labelled "Consulting."
+
+Do you know of any good books about startups?
+
+The how-to type of books are generally wretched. Many are downright mistaken.
+
+The best source of information about startups is probably not business books, but histories of particular startups and industries. The most famous is Tracy Kidder's Soul of a New Machine, but there are many good books of this type. I particularly liked Sorensen's My Forty Years with Ford.
+
+The one book we encourage startup founders to read is Dale Carnegie's How to Win Friends and Influence People. It's critically important for anyone in business. Try to get a used copy printed before the 1960s; after Carnegie died, the book continued to be "updated" by a committee, and the changes were not for the better. I'd also recommend Franklin's Autobiography.
+
+I have multiple startup ideas. How do I decide which to work on?
+
+Work on the one that will cause the most immediate, concrete improvement in users' lives. Don't worry too much at first about competitors, or how users will find out about it, or how to make money. But don't work on something that's going to take ten years, either. (In technology, ten years rounds up to never.)
+
+Google is a good example. Everyone needs Web search, and the founders probably had something that significantly improved their own ability to find stuff online within the first couple months. And once something starts to work (a) it's enormously encouraging, and (b) it's much clearer what direction to take it in.
+
+How much should a startup worry about being sued for patent infringement?
+
+There are two kinds of patent suits:
+
+1. Random people suing you in the hope of getting money.
+
+2. Competitors suing you in order to destroy you.
+
+Until you're successful, you won't have to worry about the first type. And once you are successful, you'll inevitably have a lot of them to deal with, valid or not. So fatalism is the right plan for type 1 suits.
+
+How much you should worry about type 2 suits depends on what kind of business you're in. You probably have to worry more about it in hardware than in software. In software such suits are rare, so far.
+
+So if you're doing software, I'd try to build something people want, and then hope for the best. The best, in this case, being that you get big enough that you have to worry about type 1 suits.
+
+In software, patent suits are rarely to never the deciding factor in whether a startup succeeds or not. Founders should probably spend 100x as much time worrying about building something users won't want, because that kills 100x more startups than patent problems.
+
+Where do I get it?
+
+Arclanguage.org.
+
+Why do you need to design a new language?
+
+It would be surprising if we didn't still need to design more languages. That would amount to saying that programming language design is now a solved problem, and that the final, perfect language has now been designed. It does not seem that way to me-- not by a long shot. The number of still open questions makes my head spin.
+
+Why is it called Arc?
+
+The name is a reference to bottom-up programming. This means customizing the language to suit your application, yielding a program shaped like an arch, rather than a lintel. Since brevity is another aim, we lopped off the h.
+
+Why did you keep car and cdr?
+
+Because we couldn't think of any better alternatives. It would have been misleading to use first and rest or head and tail, because conses are fundamentally pairs; lists are one thing you can build with them, but not the only thing.
+
+There's no conventional name in English for the first and second halves of a pair. If you have to make up names, car and cdr are pretty good choices, because they're short and the same length and naturally composable (e.g. cadr).
+
+Is Arc object-oriented?
+
+The phrase "object-oriented" means a lot of things. Half are obvious, and the other half are mistakes.
+
+We believe Lisp should let you define new types that are treated just like the built-in types-- just as it lets you define new functions that are treated just like the built-in functions. We don't believe that every program should consist of defining new types.
+
+Why not use some other delimiter than parentheses?
+
+We tried various possibilities. Square and curly brackets lose because they are less directional than parens (left and right differ in fewer pixels); < and > lose because they don't wrap around enough to enclose expressions longer than tokens.
+
+Won't allowing <new possibility> confuse people reading code?
+
+E.g. (a i) could be a function call or an array reference.
+
+If you make a language terser, you necessarily have more possibilities for what an expression might mean. For example, because functions are a data type in Lisp, someone new to Lisp might complain that he can't tell whether a parameter x is a function or an integer. This is an inevitable consequence of making a language more powerful. It is up to the programmer (as it always is) to avoid using the language in a way that confuses readers.
+
+Why not build Arc on top of Java/Parrot/.NET?
+
+We're trying to make something for the long term in Arc, something that will be useful to people in, say, 100 years. (If that sounds crazy, remember that we're already up to 50.) So (a) we're not in a hurry to save effort; when you're trying to make something that will last 100 years, there is plenty of time to work on it, and (b) we don't want to adhere to anything that isn't timeless, lest the whole project curl up like a bimetallic strip.
+
+What is Lisp?
+
+Lisp is a family of programming languages descended from a language John McCarthy invented (or more accurately, discovered) in the late 1950s. The two main dialects now are Common Lisp and Scheme. We're working on a new dialect called Arc.
+
+How can I learn Lisp?
+
+The way to learn any language is to write programs in it. You have two main dialects to choose between: Scheme and Common Lisp. They each have advantages and disadvantages, but the differences between them are tiny compared to the differences between them and other languages, so if you want to start learning Lisp, it doesn't matter which you choose.
+
+There are good books about both dialects, and many good free implementations. So get a book and an implementation, and start trying to write programs. Read existing source code to get an idea of Lisp style. If you run into trouble, ask on comp.lang.lisp. People there are always willing to help newbies.
+
+Which should I learn, Common Lisp or Scheme? What's the difference?
+
+Common Lisp is powerful but ugly. Scheme is small and clean, but the standard only defines the inner core of the language. If I had to deliver an application I'd probably use Common Lisp; if I were teaching a course I might use Scheme (but with Common Lisp macros).
+
+Do you know a good, free Lisp implementation?
+
+There are several. The Common Lisp implementation I use is Clisp, but CMUCL is also well-regarded. For Scheme hacking I use Scheme 48 and PLT Scheme.
+
+Can you recommend a book for someone who wants to learn Lisp?
+
+You might like this one.
+
+Is there a good online tutorial for Lisp?
+
+Start with Chapter 2 of Ansi Common Lisp, which is a brief introduction to Lisp programming. For more detail, see the Common Lisp reference manual.
+
+If Lisp is so great, why don't more people use it?
+
+The root cause is probably that it looks hard, but it would help if there were a dialect with extensive libraries.
+
+Where can I get a copy of On Lisp?
+
+Thanks to Chip Coldwell, you can now get a Postscript file of it online.
+
+It looks as if the book is going to be in print again soon, but if you are determined to have a valuable first edition, you can get a used copy at Amazon.
+
+Is there a second edition of ANSI Common Lisp?
+
+Some databases say that there is, but there isn't; not yet at least.
+
+Is there a set of solutions to the problems in ANSI Common Lisp?
+
+Unfortunately not. I was supposed to write one, but we started Viaweb right after the book went to press, and I never got around to it.
+
+Where can I get a job hacking Lisp?
+
+Try the companies with Lisp applications. Or you could start your own.
+
+I like Lisp but my company won't let me use it. What should I do?
+
+Try to get them to let you use Python. Often when your employer won't let you use Lisp it's because (whatever the official reason) the guy in charge of your department is afraid of the way Lisp source code looks. Python looks like an ordinary dumb language, but semantically it has a lot in common with Lisp, and has been getting closer to Lisp over time.
+
+They might even let you use Ruby, which is even more Lisp-like.
+
+What do you think of ML and its derivatives?
+
+Most hackers I know have been disappointed by the ML family. Languages with static typing would be more suitable if programs were something you thought of in advance, and then merely translated into code. But that's not how programs get written.
+
+The inability to have lists of mixed types is a particularly crippling restriction. It gets in the way of exploratory programming (it's convenient early on to represent everything as lists), and it means you can't have real macros.
+
+Do you know anyone who does AutoLisp consulting?
+
+No, but Google does.
+
+How did the editor handle client sessions?
+
+There was one Lisp process for each user. When someone logged in to edit their site, we'd start up a new process and load all their data into memory. From that point they had an ongoing conversation with that process.
+
+Because everything was already loaded into memory, we never had to read anything from disk or start up a process to respond to an HTTP request. All we had to do was evaluate a closure stored in memory.
+
+What did you use for an HTTP server?
+
+At first the editor had its own HTTP server, written in Common Lisp by Robert Morris. Later we switched to a version of Apache that he hacked to talk to Lisp.
+
+What Lisp did you use?
+
+Clisp.
+
+Did you use real continuations to save state?
+
+No, we used macros to fake them in Common Lisp, as described in On Lisp.
+
+What database did you use?
+
+We didn't use one. We just stored everything in files. The Unix file system is pretty good at not losing your data, especially if you put the files on a Netapp.
+
+It is a common mistake to think of Web-based apps as interfaces to databases. Desktop apps aren't just interfaces to databases; why should Web-based apps be any different? The hard part is not where you store the data, but what the software does.
+
+While we were doing Viaweb, we took a good deal of heat from pseudo-technical people like VCs and industry analysts for not using a database-- and for using cheap Intel boxes running FreeBSD as servers. But when we were getting bought by Yahoo, we found that they also just stored everything in files-- and all their servers were also cheap Intel boxes running FreeBSD.
+
+(During the Bubble, Oracle used to run ads saying that Yahoo ran on Oracle software. I found this hard to believe, so I asked around. It turned out the Yahoo accounting department used Oracle.)
+
+Was your co-founder the same Robert Morris who wrote the worm and is now a professor at MIT?
+
+Yes.
+
+Where did you get venture funding?
+
+We got money from several private investors, what are known in the business as "angels." Our investors were pretty serious, almost VCs, but they weren't actually brand-name VC firms.
+
+We did Viaweb very cheaply. We spent a total of about $2 million. We were just about breaking even when we got bought, so we would not have spent too much more.
+
+How was "Viaweb" pronounced?
+
+The official policy was that you could say either vee-a-web or vie-a-web. We all used the former, but everyone else, including the people at Yahoo, seemed to prefer the latter.
+
+What would you do differently?
+
+Technically, not much. I think the main thing we should have done that we didn't was start some kind of online store ourselves. We used the editor to make our own site, so we were pretty motivated to make it good. But we could only understand the e-commerce part of the software second-hand.
+
+Is this code available anywhere?
+
+No; it's written in Arc, which is itself not released yet.
+
+Is there a Bayesian filter for Outlook?
+
+I know of nine so far: Spammunition, SpamBayes, Spam Bully, InboxShield, Junk-Out, Outclass, Disruptor OL, SpamTiger, and JunkChief.
+
+Is there anything that can protect my company's server?
+
+The best commercial server-level Bayesian filter is probably Death2Spam. SpamProbe, one of the best open-source Bayesian filters, can also be run on the server.
+
+Most commercial server-level spam filters are still rule-based. But there are starting to be some that use Bayesian filtering. The way to find them is probably to search in Google.
+
+The question to ask the salesman is, does the filter learn to recognize spam based on the spam and nonspam mail we receive? If it doesn't learn, it isn't Bayesian.
+
+Does Arc/Lisp have some advantage for writing this kind of software?
+
+Lisp's symbol type is useful in manipulating databases of words, because it lets you test for equality by just comparing pointers. (If you find yourself using checksums to identify words, it's symbols you mean to be using.) Prolog, Erlang, and Ruby also support symbols. So does Python, to a degree, though I don't think it has any syntax for them yet.
+
+More generally, Lisp was designed for rapid prototyping, and this application involved a lot of that. I probably spent 95% of the development time typing expressions into the toplevel, trying variously tweaked algorithms on individual emails.
+
+Do you mind if I write filters based on this algorithm?
+
+Of course not. I don't claim to have invented anything new here. Bayesian text classification is an old and established field. If there is anything new in this article (at least, it was news to me) it is that such a simple variant of it is so effective at filtering spam.
+
+So by all means go write spam filters. It is a very rewarding hack. If you end up creating something other people can use, let me know and I'll make a link to it.
+
+I don't know Lisp; can you explain the algorithm to me?
+
+It's expressed in math notation in Hackers & Painters.
+
+Could you use Bayesian filtering to make Web content filters?
+
+I've never tried it, but yes, I think it would work well.
+
+Will this algorithm filter out 99.5% of my spam with no false positives?
+
+It does filter out 99.5% of my spam. I got similar results for the one other spam collection I've tested it on so far. (I couldn't measure false positives, because I only had the spams.)
+
+I do worry a bit that my email might just be especially easy to filter. A lot of my spam comes from "opt-in" spammers like Qves and Virtumundo, and that stuff is really easy to detect. Plus my own mail is full of references to programming that make it easy to distinguish from spam (though not "programming" itself, ironically, which often occurs in spams selling satellite dishes).
+
+So if you do try implementing this filter for yourself, I'd appreciate it if you could let me know how well it works for you. My gut feel is that it will work pretty effectively for almost everyone, but it would be reassuring to hear numbers.
+
+Could spammers fool Bayesian filters by filling their spams with random words?
+
+They would have to get rid of the bad words as well as adding neutral ones. Only the most interesting fifteen words contribute to the probability, and neutral words like "onion", no matter how many there are of them, can't compete with the incriminating "viagra" for statistical significance.
+
+To outweigh incriminating words, the spammers would need to dilute their emails with especially innocent words, i.e. those that are not merely neutral but occur disproportionately often in the user's legitimate email. But these words (e.g. the nicknames of one's friends, terms one uses in one's work) are different for each recipient, and the spammers have no way of figuring out what they are.
+
+Once this software was available, couldn't spammers just tune their spams to get through it?
+
+They couldn't necessarily tune their emails and still say what they wanted to say. If they wanted to send you to a url that is known to the filters, for example, they would find it hard to tune their way around that.
+
+Second, tune using what? Each user's filters will be different, and the innocent words will vary especially. At most, spammers will be able to dilute their mails with merely neutral words, and those will not tend to be much use because they won't be among the fifteen most interesting.
+
+If the spammers did try to get most of the incriminating words out of their messages, they would all have to use different euphemisms, because if they all started saying "adolescents" instead of "teens", then "adolescents" would start to have a high spam probability.
+
+Finally, even if spammers worked to get all the incriminating words out of the message body, that wouldn't be enough, because in a typical spam a lot of the incriminating words are in the headers.
+
+What if spammers sent their messages as images?
+
+They already do sometimes, and we are able to catch them. Such emails include a lot of damning content, actually. The headers, to start with, will be as bad as ever. And remember that we scan html as well as text. Within the message body there will probably be a link as well as the image, both containing urls, which would probably score high. "Href" and "img" themselves both have spam probabilities approaching pornographic words. Within the url, the image has to have some kind of name, and these are usually far from random.
+
+Can your program deal with the spam trick of inserting html comments in the middle of words?
+
+Yes, I ignore html comments down at the level of scanning tokens, not even considering them as separators.
+
+Spammers sometimes use randomly generated tags to break up tokens, since html rendering software will usually ignore meaningless tags. I do allow these to separate tokens, and it works fine. Broken bits of words simply get high spam probabilities.
+
+Would this article itself be filtered out by your filters?
+
+No. Someone sent it to me as a test, and it wasn't. Although the article contains a lot of spam words, it also contains a lot of even more provably innocent words (like "spammers" ironically, which occurs in a lot of my real email, and never in my spam). Since only the most interesting words count, the innocent words crowded out the spam words in the rankings, and this mail ended up with the minimum possible probability.
+
+That makes sense, because an article someone writes is more likely to resemble the content of their own email than it would a spam, even if the article happens to be about spam.
+
+How well can your software filter out mail that's about spam?
+
+This is a problem for anyone who works on spam filtering. In the extreme case, if someone you've never heard from merely forwards you a spam with no additional comment, it's going to be hard to filter out. There it will all come down to the headers.
+
+But after all, if someone could forward you spam with impunity, then spammers could forward you spam too. So for these situations we may have to have a special password that people could include in mail to get it by the filters, and also (I have one already) a special trash folder for metaspam so that it doesn't contribute to the probabilities.
+
+If there is a good side to this, it's that if we can create filters that work acceptably well for us, they'll work even better for everyone else.
+
+Will this software filter out good automated email like order receipts and newsgroup faqs?
+
+Mostly not. That kind of mail may be automated, but the text usually has a very different character from spam.
+
+The only automated responses that tend to get filtered out are the ones that contain a lot of additional advertising. In effect, these emails consist of an automated response with a spam appended to the end, so it is not surprising filters catch them.
+
+Will the kind of people who would respond to a spam use filters?
+
+I think so. I'm guessing here, but I suspect that people stupid enough to respond to a spam will often get email through one of the free services like Yahoo Mail or Hotmail, or through big ISPs like AOL or Earthlink. Once word spreads that it is possible to filter out most spam, they'll be forced to offer effective filters.
+
+If filters catch most spam, won't spammers just send more to compensate?
+
+Spammers already operate at capacity.
+
+How do you feel about blacklists?
+
+As ISPs use them now, they're equivalent to very bad filters. But the information they supply could be incorporated into Bayesian filtering.
+
+Doesn't Bayes' Rule assume the predictors are independent?
+
+Yes, strictly speaking it is only valid assuming the probabilitiy of e.g. "sex" occurring in an email is unrelated to the probability of "sexy" occurring in it. Obviously that is not the case.
+
+On the other hand, there is a long tradition of violating this requirement. When you do that it's called a "naive Bayesian" algorithm and in practice it works pretty well, just as in practice (if you stay away from the edges of precision) it works pretty well to treat floating point numbers as if they were reals.
+
+Does this algorithm take into account the prior probability of a mail being a spam?
+
+No. It assumes it's equally likely for a mail to be a spam or not. So accuracy could be slightly improved by taking into account the actual proportion of spam received by each user. You would have to do this by hour though, because the proportion varies so much depending on the time of the day that the overall prior probability is useless as a predictor.
+
+Why do you consider 15 words? What's special about 15?
+
+Actually, in the latest version of the filter I use 20, because marking tokens by context means the software now sees more distinct tokens per mail.
+
+Nearly all spams tend to have that many fairly incriminating words in them. If you look at more than that, you'll start to include neutral words, which are noise at best. But you want to look at as many words as you can, because legitimate emails may well contain two or three words with high spam probabilities-- if you used only the top 5 words, for example, you'd start to get false positives.
+
+Will this work for languages other than English?
+
+As long as they use whitespace to separate tokens, it should.
+
+What is an FFB?
+
+A Filter that Fights Back.
+
+What would an FFB do?
+
+Spider every url in each newly arrived spam, if the ip address of the server was blacklisted. Ideally the http requests would be spread over the lifetime of the spam-- the period during which "customers" respond to it. I suspect most responses occur within a couple hours of the spam being sent. It may be different for spams sent at night.
+
+Could spammers make servers fast enough to handle the flood of http requests?
+
+The hardcore spammers probably could. But not sites like AmericanSingles.Com.
+
+What kind of bandwidth costs could FFBs generate?
+
+If there were 100,000 FFBs, a spammer's site had a total of 100k of stuff in it, and each FFB crawled the site 10x per spam, this would generate 100 GB of transfer. At current rates for spam hosting that would cost the spammer about $1000-4000 per spam.
+
+Introductory spam hosting plans have transfer limits well under 100 GB/month, so FFBs would shut down such sites before the "customers" had a chance to respond. In a world containing FFBs, it would be hard to get started as a spammer.
+
+Couldn't spammers protect against crawlers?
+
+They probably could, by putting invisible links in their pages. Anything that followed such a link must be a crawler and could safely be ignored. But the easiest way to protect against FFBs would be to include working unsubscribe links. This would be particularly necessary for small fry just getting started and "legitimate" sites that hire spammers to generate traffic. These would not have the infrastructure or expertise to protect against FFBs.
+
+Wouldn't retrieving web beacons show your address was live?
+
+Yes, so that might bring more spam. But it would also make web beacons stop working as an index of open rates. And you'd be clicking on unsubscribe links as well, which FFBs would make more popular.
+
+Wouldn't this encourage people to send spams promoting sites that pay for clickthroughs?
+
+If there are still sites that pay for clickthroughs, they must already have some way to protect themselves against people who generate traffic by spamming. So there would be no money in it.
+
+This is a bad idea because it just uses up more bandwidth.
+
+That's like arguing that we shouldn't have police, because in addition to all the losses caused by crime, we have people taken away from productive work to chase criminals. If FFBs make working unsubscribe links universal, the result is net less use of bandwidth.
+
+I'm not proposing that FFBs should be used by people on dialup lines, just by users who have bandwidth to spare-- people at universities and corporations, and on DSL lines.
+
+Isn't a denial of service attack on spammers illegal?
+
+This one would be uncoordinated, and so distributed that no one client would have to submit too many http requests. I'm not proposing that a given filter hit a spammer's site with 10,000 http requests. More like a couple hundred, at most.
+
+It would be hard for someone to claim you were mounting a DoS attack on them for submitting a couple hundred http requests. If a couple hundred requests is a DoS attack, then I have several times been guilty of DoSing eBay.
+
+In any case, spammers like to keep a low profile. I can't imagine spammers, especially spammers based offshore, trying to invoke the protection of the law. They've probably already been victims of conventional DoS attacks, and I haven't heard of any of them doing this.
+
+This could be used to DoS innocent victims.
+
+That's the point of the blacklist. A site doesn't get pounded simply by being mentioned in a spam. It has to be mentioned in a spam and be on the blacklist.
+
+How would blacklists be managed?
+
+I'm not committed to one way of doing it. But I suspect it couldn't be entirely automated. Sites would have to be inspected by humans to protect innocent sites from being blacklisted.
+
+If FFBs become a threat to them, spammers will try to give them a bad name by causing them to attack innocent victims. So blacklists should include ip addresses as well as domain names. Otherwise a spammer could switch the DNS record of a blacklisted site to point to an innocent victim.
+
+Anyone running a blacklist should assume, by default, that any url mentioned in a spam is the victim of a Joe job, and only blacklist sites when, after inspection, this is clearly not the case.
+
+Aren't blacklists prone to abuse?
+
+Yes. To be honest, this is the weak link in this plan. A widely used FFB blacklist run by nuts like MAPS could do a lot of damage. And all blacklists seem to become corrupt eventually.
+
+FFB blacklists are less dangerous than mail server blacklists, because being on the blacklist alone is not enough to cause a site trouble. You only get crawled when you're already on the blacklist, and a new spam arrives with your url in it. On the other hand, FFBs are going to be run by individual users, who will not be as discerning about the blacklists they subscribe to as ISPs are.
+
+Couldn't spammers just sue or DoS the blacklist?
+
+To protect against DoS attacks, the blacklist might have to be distributed through a p2p network.
+
+I don't think lawsuits would be much of a threat, though. A blacklist of spamvertised sites could legitimately claim that it wasn't intended specifically for use by FFBs. There's a genuine need for such blacklists to aid in spam filtering. To evade filters, spammers now change their domain names regularly. When a filter sees a domain name for the first time, it would be very helpful if there were a list it could check to see if other users had reported spams containing it.
+
+If FFBs happened to use this list too, well, that would be be done without the knowledge of the administrators, just as those naughty "affiliates" are spamming without the knowledge of the sites they send traffic too.
+
+Wouldn't this miss spammers using Migmaf-style proxies?
+
+Yes. But if we drive spammers to use such measures to survive, I think we'll drive a lot of them out of business. Writing viruses seems to be taken more seriously by the criminal justice system than forging headers. I think many current spammers wouldn't take the risk.
+
+What about spammers breaking into people's web servers and using them to redirect?
+
+This wouldn't help them. FFBs would still interfere with the spammers' "customers".
+
+What about spammers using redirects off sites like Geocities?
+
+Such spams are rare, probably because Geocities has figured out how to prevent spammers from using them for this purpose. Hosting services that hadn't figured this out would soon learn.
+
+Why have email as part of the system? Why not just have a blacklist of spam sites and encourage people to beat on them?
+
+Several people have written suggesting a "DDoS@Home" project of this type. (Two correspondents who shall remain nameless simultaneously invented this catchy name.) But I think mail should remain in the system for two reasons: (a) it tells you which sites to pound, and when, and (b) if you included it as part of a filter, you could get more users.
+
+On the other hand, if some group managed to launch a DDoS@Home project aimed at spammers, that would be enormously amusing. I'd sign up for it.
+
+Why don't more painters have hacking jobs?
+
+Probably for the same reason that few hackers take up painting. They both seem from the outside like great abstruse mysteries. You can learn great abstruse mysteries as a teenager, because everything is a mystery at that point anyway. And you have the boundless self confidence that comes from ignorance. But unless you learn both as a teenager, which is rare, you'll be afraid of the other later.
+
+What should I read to learn more about history?
+
+The way to do it is piecemeal. You could just sit down and try reading Roberts's History of the World cover to cover, but you'd probably lose interest. I think it's a better plan to read books about specific topics, even if you don't understand everything the first time through.
+
+Here are the most exciting ones I can think of:
+
+Clark, Civilisation, White, Medieval Technology and Social Change, McEvedy, Penguin Atlases of Ancient and Medieval History, Laslett, The World We Have Lost, Bernal, The Extension of Man, Franklin, Autobiography, Girouard, Life in the English Country House, Pirenne, Mohammed and Charlemagne, Runciman, The Fall of Constantinople, Cipolla, Guns, Sails and Empires, Hadas, A History of Rome, Oman, The Art of War in the Middle Ages, Vasari, Lives of the Artists, Bovill, The Golden Trade of the Moors, Caesar, Gallic Wars, Kuhn, The Copernican Revolution
+
+Couldn't you add something equivalent to Lisp macros to languages like Perl or Python?
+
+Not without turning them into dialects of Lisp. Real macros need to operate on the parse tree of the program. To allow that in a language with syntax, you have to (a) make public the translation from source code to parse trees, and (b) give the programmer the opportunity to run programs on parse trees before they go on to the compiler.
+
+But it would be hard to do that without creating a notation for parse trees; and once you do, your language has become a skin on Lisp, in much the same way that in OS X, the Mac OS became a skin on Unix.
+
+How can I avoid turning into a pointy-haired boss?
+
+The pointy-haired boss is a manager who doesn't program. So the surest way to avoid becoming him is to stay a programmer. What tempts programmers to become managers are companies with old-fashioned corporate structure, where the only way to advance in salary and prestige is to go into management. So if you want to avoid becoming a PHB, avoid such companies, and work for (or start) startups.
+
+I never had to manage anyone in our startup, even though I was the president. The other hackers were my peers, and would have given me the raspberry if I'd tried to "manage" them. We operated by consensus. And the rest of the company reported to our experienced COO, who was also more of a peer.
+
+Why be a manager when you could be a founder or early employee at a startup?
+
+I'm about to become a teacher. How can I be a good one?
+
+The best teachers I remember from school had three things in common:
+
+They had high standards. Like three year olds testing their parents, students will test teachers to see if they can get away with low-quality work or bad behavior. They won't respect the teachers who don't call them on it.
+
+They liked us. Like dogs, kids can tell very accurately whether or not someone wishes them well. I think a lot of our teachers either never liked kids much, or got burned out and started not to like them. It's hard to be a good teacher once that happens. I can't think of one teacher in all the schools I went to who managed to be good despite disliking students.
+
+They were interested in the subject. Most of the public school teachers I had weren't really interested in what they taught. Enthusiasm is contagious, and so is boredom.
+
+Two startups want to hire me. Which should I choose?
+
+The one with the most determined and smartest founders (in that order) is the more likely to succeed. Pretend you're an investor, which you are, of your time, and ask yourself which of the two you'd buy stock in.
+
+How can I become really good at Lisp programming?
+
+Write an application big enough that you can make the lower levels into a language layer. Embedded languages (or as they now seem to be called, DSLs) are the essence of Lisp hacking.
+
+What philosophy books would you recommend?
+
+I can't think of any I'd recommend. What I learned from trying to study philosophy is that the place to look is in other fields. If you understand math or history or aeronautical engineering very well, the most abstract of the things you know are what philosophy is supposed to be teaching. Books on philosophy per se are either highly technical stuff that doesn't matter much, or vague concatenations of abstractions their own authors didn't fully understand (e.g. Hegel).
+
+It can be interesting to study ancient philosophy, but more as a kind of accident report than to teach you anything useful.
+
+I want to start a startup, but I don't know how to program. How long will it take to learn?
+
+I would guess a smart person can learn to hack sufficiently well in 6 months to a year. The best way to do it would be to find some startup to hire you in an initially menial capacity, and start learning to program on the side. Then gradually work your way up from answering phones through system administration to actual software design. There is always so much to do in a startup that people won't be too picky about your paper qualifications, if you can solve problems for them without screwing up.
+

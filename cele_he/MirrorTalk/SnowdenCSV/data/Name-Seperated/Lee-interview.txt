@@ -1,0 +1,90 @@
+MICAH LEE: What are some operational security practices you think everyone should adopt? Just useful stuff for average people.
+
+EDWARD SNOWDEN: Opsec is important even if you’re not worried about the NSA. Because when you think about who the victims of surveillance are, on a day-to-day basis, you’re thinking about people who are in abusive spousal relationships, you’re thinking about people who are concerned about stalkers, you’re thinking about children who are concerned about their parents overhearing things. It’s to reclaim a level of privacy.
+
+LEE: What do you think about Tor? Do you think that everyone should be familiar with it, or do you think that it’s only a use-it-if-you-need-it thing?
+
+SNOWDEN: I think Tor is the most important privacy-enhancing technology project being used today. I use Tor personally all the time. We know it works from at least one anecdotal case that’s fairly familiar to most people at this point. That’s not to say that Tor is bulletproof. What Tor does is it provides a measure of security and allows you to disassociate your physical location. …
+
+But the basic idea, the concept of Tor that is so valuable, is that it’s run by volunteers. Anyone can create a new node on the network, whether it’s an entry node, a middle router, or an exit point, on the basis of their willingness to accept some risk. The voluntary nature of this network means that it is survivable, it’s resistant, it’s flexible.
+
+LEE: So that is all stuff that everybody should be doing. What about people who have exceptional threat models, like future intelligence-community whistleblowers, and other people who have nation-state adversaries? Maybe journalists, in some cases, or activists, or people like that?
+
+SNOWDEN: So the first answer is that you can’t learn this from a single article. The needs of every individual in a high-risk environment are different. And the capabilities of the adversary are constantly improving. The tooling changes as well.
+
+What really matters is to be conscious of the principles of compromise. How can the adversary, in general, gain access to information that is sensitive to you? What kinds of things do you need to protect? Because of course you don’t need to hide everything from the adversary. You don’t need to live a paranoid life, off the grid, in hiding, in the woods in Montana.
+
+LEE: What about for people who are, like, in a repressive regime and are trying to …
+
+SNOWDEN: Use Tor.
+
+LEE: Use Tor?
+
+SNOWDEN: If you’re not using Tor you’re doing it wrong. Now, there is a counterpoint here where the use of privacy-enhancing technologies in certain areas can actually single you out for additional surveillance through the exercise of repressive measures. This is why it’s so critical for developers who are working on security-enhancing tools to not make their protocols stand out.
+
+LEE: So you mentioned that what you want to spread are the principles of operational security. And you mentioned some of them, like need-to-know, compartmentalization. Can you talk more about what are the principles of operating securely?
+
+SNOWDEN: Almost every principle of operating security is to think about vulnerability. Think about what the risks of compromise are and how to mitigate them. In every step, in every action, in every point involved, in every point of decision, you have to stop and reflect and think, “What would be the impact if my adversary were aware of my activities?” If that impact is something that’s not survivable, either you have to change or refrain from that activity, you have to mitigate that through some kind of tools or system to protect the information and reduce the risk of compromise, or ultimately, you have to accept the risk of discovery and have a plan to mitigate the response. Because sometimes you can’t always keep something secret, but you can plan your response.
+
+LEE: Are there principles of operational security that you think would be applicable to everyday life?
+
+SNOWDEN: Yes, that’s selective sharing. Everybody doesn’t need to know everything about us. Your friend doesn’t need to know what pharmacy you go to. Facebook doesn’t need to know your password security questions. You don’t need to have your mother’s maiden name on your Facebook page, if that’s what you use for recovering your password on Gmail. The idea here is that sharing is OK, but it should always be voluntary. It should be thoughtful, it should be things that are mutually beneficial to people that you’re sharing with, and these aren’t things that are simply taken from you.
+
+If you interact with the internet … the typical methods of communication today betray you silently, quietly, invisibly, at every click. At every page that you land on, information is being stolen. It’s being collected, intercepted, analyzed, and stored by governments, foreign and domestic, and by companies. You can reduce this by taking a few key steps. Basic things. If information is being collected about you, make sure it’s being done in a voluntary way.
+
+For example, if you use browser plugins like HTTPS Everywhere by EFF, you can try to enforce secure encrypted communications so your data is not being passed in transit electronically naked.
+
+LEE: Do you think people should use adblock software?
+
+SNOWDEN: Yes. There’s disk encryption attacks like evil maid attacks, and cold-boot attacks. There’s all sorts of firmware attacks. There’s BadUSB and BadBIOS, and baseband attacks on cellphones. All of these are probably unlikely to happen to many people very often. Is this something people should be concerned about? How do you go about deciding if you personally should be concerned about this sort of attack and try to defend against it?
+
+SNOWDEN: It all comes down to personal evaluation of your personal threat model, right? That is the bottom line of what operational security is about. You have to assess the risk of compromise. On the basis of that determine how much effort needs to be invested into mitigating that risk.
+
+Now in the case of cold-boot attacks and things like that, there are many things you can do. For example, cold-boot attacks can be defeated by never leaving your machine unattended. This is something that is not important for the vast majority of users, because most people don’t need to worry about someone sneaking in when their machine is unattended. … There is the evil maid attack, which can be protected against by keeping your bootloader physically on you, by wearing it as a necklace, for example, on an external USB device.
+
+LEE: What sort of security tools are you currently excited about? What are you finding interesting?
+
+SNOWDEN: I’ll just namecheck Qubes here, just because it’s interesting. I’m really excited about Qubes because the idea of VM-separating machines, requiring expensive, costly sandbox escapes to get persistence on a machine, is a big step up in terms of burdening the attacker with greater resource and sophistication requirements for maintaining a compromise. I’d love to see them continue this project. I’d love to see them make it more accessible and much more secure. [You can read more about how to use Qubes here and here.]
+
+Something that we haven’t seen that we need to see is a greater hardening of the overall kernels of every operating system through things like grsecurity [a set of patches to improve Linux security], but unfortunately there’s a big usability gap between the capabilities that are out there, that are possible, and what is attainable for the average user.
+
+LEE: People use smartphones a lot. What do you think about using a smartphone for secure communications?
+
+SNOWDEN: Something that people forget about cellphones in general, of any type, is that you’re leaving a permanent record of all of your physical locations as you move around. … The problem with cellphones is they’re basically always talking about you, even when you’re not using them. That’s not to say that everyone should burn their cellphones … but you have to think about the context for your usage. Are you carrying a device that, by virtue of simply having it on your person, places you in a historic record in a place that you don’t want to be associated with, even if it’s something as simple as your place of worship?
+
+LEE: There are tons of software developers out there that would love to figure out how to end mass surveillance. What should they be doing with their time?
+
+SNOWDEN: Mixed routing is one of the most important things that we need in terms of regular infrastructure because we haven’t solved the problem of how to divorce the content of communication from the fact that it has occurred at all. To have real privacy you have to have both. Not just what you talked to your mother about, but the fact that you talked to your mother at all. …
+
+The problem with communications today is that the internet service provider knows exactly who you are. They know exactly where you live. They know what your credit card number is, when you last paid, how much it was.
+
+LEE: Ideally, governments around the world shouldn’t be spying on everybody. But that’s not really the case, so where do you think — what do you think the way to solve this problem is? Do you think it’s all just encrypting everything, or do you think that trying to get Congress to pass new laws and trying to do policy stuff is equally as important? Where do you think the balance is between tech and policy to combat mass surveillance? And what do you think that Congress should do, or that people should be urging Congress to do?
+
+SNOWDEN: I think reform comes with many faces. There’s legal reform, there’s statutory reform more generally, there are the products and outcomes of judicial decisions. … In the United States it has been held that these programs of mass surveillance, which were implemented secretly without the knowledge or the consent of the public, violate our rights, that they went too far, that they should end. And they have been modified or changed as a result. But there are many other programs, and many other countries, where these reforms have not yet had the impact that is so vital to free society. And in these contexts, in these situations, I believe that we do — as a community, as an open society, whether we’re talking about ordinary citizens or the technological community specifically — we have to look for ways of enforcing human rights through any means.
+
+That can be through technology, that can be through politics, that can be through voting, that can be through behavior. But technology is, of all of these things, perhaps the quickest and most promising means through which we can respond to the greatest violations of human rights in a manner that is not dependent on every single legislative body on the planet to reform itself at the same time, which is probably somewhat optimistic to hope for. We would be instead able to create systems … that enforce and guarantee the rights that are necessary to maintain a free and open society.
+
+LEE: On a different note — people said I should ask about Twitter — how long have you had a Twitter account for?
+
+SNOWDEN: Two weeks.
+
+LEE: How many followers do you have?
+
+SNOWDEN: A million and a half, I think.
+
+LEE: That’s a lot of followers. How are you liking being a Twitter user so far?
+
+SNOWDEN: I’m trying very hard not to mess up.
+
+LEE: You’ve been tweeting a lot lately, including in the middle of the night Moscow time.
+
+SNOWDEN: Ha. I make no secret about the fact that I live on Eastern Standard Time. The majority of my work and associations, my political activism, still occurs in my home, in the United States. So it only really make sense that I work on the same hours.
+
+LEE: Do you feel like Twitter is sucking away all your time? I mean I kind of have Twitter open all day long and I sometimes get sucked into flame wars. How is it affecting you?
+
+SNOWDEN: There were a few days when people kept tweeting cats for almost an entire day. And I know I shouldn’t, I have a lot of work to do, but I just couldn’t stop looking at them.
+
+LEE: The real question is, what was your Twitter handle before this? Because you were obviously on Twitter. You know all the ins and outs.
+
+SNOWDEN: I can neither confirm nor deny the existence of other Twitter accounts.
+
